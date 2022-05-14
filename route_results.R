@@ -62,7 +62,7 @@ get_results <- function(rtid) {
   
   return(dat)
 }
-summary_plot <- function(dat, route_name=NULL) {
+summary_plot <- function(dat, route_name=NULL, hour_bindwidth=0.25) {
   
   route_choice <- list(rtid = attributes(dat)[['rtid']],
                        name = route_name)
@@ -92,18 +92,18 @@ summary_plot <- function(dat, route_name=NULL) {
   
   # facet plot
   ggplot(dat, aes(time_hours)) +
-    geom_histogram(binwidth = 0.25) +
+    geom_histogram(binwidth = hour_bindwidth) +
     geom_vline(data = summ_dat,
                aes(xintercept = med_time, color='Median Time'),
                linetype='solid') +
-    facet_wrap(~event_date) +
+    #facet_wrap(~event_date) +
     theme_light() +
     theme(panel.grid.minor = element_blank(),
           legend.position = 'bottom') + #c(.88,.12)) +
-    labs(title='Distribution of Finish Times',
+    labs(title=glue('Distribution of Finish Times n={nrow(dat)}'),
          subtitle = paste('RUSA brevet route', 
                           route_choice$rtid, route_choice$name),
-           y='Finisher count', color=NULL)
-         #,       caption=q_tiles)
+           y='Finisher count', color=NULL) +
+  scale_y_continuous(breaks= scales::pretty_breaks())
 }
 
