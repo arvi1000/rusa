@@ -9,3 +9,4 @@ dat <- get_results(rtid = input_data[[3]]$rtid)
 summary_plot(dat, route_name = input_data[[3]]$name,
              hour_bindwidth = 1)
 
+
