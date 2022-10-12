@@ -1,0 +1,800 @@
+region,club,type,distance,date,finishers,dnf,eid
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/01/01,0,,8495
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/01/01,11,0.0,8029
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAB,202,2017/01/01,3,0.0,8738
+CA: Davis,Davis Bike Club / 905014,ACPB,200,2017/01/01,11,3.0,8165
+VA: Tidewater,Tidewater Randonneurs / 946002,RUSAP,100,2017/01/01,7,0.0,8137
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2017/01/01,1,2.0,8197
+MA: Boston,New England Randonneurs / 921005,RUSAP,100,2017/01/01,8,3.0,8188
+CA: Davis,Davis Bike Club / 905014,RUSAP,103,2017/01/01,3,0.0,8166
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/01/01,1,0.0,8631
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2017/01/01,2,0.0,8603
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2017/01/01,11,1.0,8688
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,109,2017/01/01,0,,8494
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2017/01/01,5,0.0,8028
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,104,2017/01/01,13,2.0,8737
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,200,2017/01/07,3,0.0,8349
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2017/01/07,1,0.0,8604
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2017/01/07,2,9.0,8229
+TX: Houston,Houston Randonneurs / 943030,RUSAP,100,2017/01/07,0,,8387
+FL: Southern,South Florida Randonneurs / 909014,ACPB,300,2017/01/07,21,0.0,8722
+NC: High Point,Bicycle For Life Club / 933057,ACPB,300,2017/01/07,3,0.0,8605
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,117,2017/01/07,24,1.0,8270
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2017/01/07,4,0.0,8388
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/01/07,4,0.0,8261
+TX: West Texas,West Texas Randonneurs / 943003,RUSAP,100,2017/01/07,0,,8764
+FL: Gainesville,Gainesville Cycling Club / 909005,ACPB,200,2017/01/07,13,2.0,8367
+AZ: Phoenix,Arizona Randonneurs / 903020,RUSAP,100,2017/01/07,12,2.0,8752
+PR: San Juan,Puerto Rico Randonneurs / 952003,ACPB,200,2017/01/07,6,0.0,8145
+FL: Southern,South Florida Randonneurs / 909014,ACPB,200,2017/01/07,8,0.0,8721
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,200,2017/01/07,23,6.0,8438
+FL: Southern,South Florida Randonneurs / 909014,ACPB,200,2017/01/08,8,2.0,8763
+FL: Southern,South Florida Randonneurs / 909014,RUSAP,100,2017/01/08,2,0.0,8765
+TX: Brownsville,RGV Randos / 943005,ACPB,300,2017/01/14,2,0.0,8079
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,200,2017/01/14,10,0.0,8350
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2017/01/14,26,0.0,8767
+TX: Brownsville,RGV Randos / 943005,RUSAP,109,2017/01/14,22,17.0,8077
+FL: Central,Central Florida Randonneurs / 909062,ACPB,200,2017/01/14,61,0.0,8308
+TX: Brownsville,RGV Randos / 943005,ACPB,200,2017/01/14,0,3.0,8078
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,200,2017/01/14,53,4.0,8192
+FL: Central,Central Florida Randonneurs / 909062,ACPB,300,2017/01/15,25,0.0,8309
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2017/01/15,42,1.0,8251
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,200,2017/01/15,10,2.0,8550
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,RUSAP,109,2017/01/16,0,2.0,8551
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2017/01/21,6,0.0,8031
+TX: West Texas,West Texas Randonneurs / 943003,ACPB,200,2017/01/21,0,,8085
+AZ: Phoenix,Arizona Randonneurs / 903020,RUSAB,200,2017/01/21,4,2.0,8766
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2017/01/21,9,0.0,8369
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,217,2017/01/21,8,0.0,8030
+TX: Brownsville,RGV Randos / 943005,ACPB,200,2017/01/28,2,0.0,8081
+MD: Capital Region,DC Randonneurs / 946012,RUSAP,106,2017/01/28,37,1.0,8108
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2017/01/28,13,0.0,8689
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2017/01/28,2,0.0,8390
+NC: High Point,Bicycle For Life Club / 933057,ACPB,400,2017/01/28,2,0.0,8608
+TX: Brownsville,RGV Randos / 943005,ACPB,300,2017/01/28,0,,8082
+TX: Houston,Houston Randonneurs / 943030,ACPB,300,2017/01/28,5,0.0,8391
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2017/01/28,9,0.0,8606
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2017/01/28,109,13.0,8271
+TX: Brownsville,RGV Randos / 943005,RUSAP,100,2017/01/28,0,,8080
+TX: Houston,Houston Randonneurs / 943030,RUSAP,100,2017/01/28,4,0.0,8389
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2017/01/28,18,2.0,8198
+NC: High Point,Bicycle For Life Club / 933057,ACPB,300,2017/01/28,0,,8607
+FL: Gainesville,Gainesville Cycling Club / 909005,ACPB,300,2017/02/04,18,0.0,8368
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,300,2017/02/04,18,2.0,8439
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,200,2017/02/04,31,1.0,8193
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,105,2017/02/04,1,2.0,8496
+FL: Southern,South Florida Randonneurs / 909014,ACPB,400,2017/02/04,32,0.0,8723
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,300,2017/02/04,21,1.0,8690
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2017/02/04,21,0.0,8230
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,300,2017/02/04,7,1.0,8351
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/02/04,4,2.0,8497
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2017/02/04,12,0.0,8370
+FL: Southern,South Florida Randonneurs / 909014,ACPB,200,2017/02/04,8,0.0,8724
+MA: Boston,New England Randonneurs / 921005,RUSAP,100,2017/02/05,15,0.0,8189
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2017/02/11,87,3.0,8272
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,400,2017/02/11,9,0.0,8352
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2017/02/11,10,0.0,8199
+TX: Houston,Houston Randonneurs / 943030,ACPB,300,2017/02/11,1,0.0,8393
+TX: Houston,Houston Randonneurs / 943030,ACPB,400,2017/02/11,3,1.0,8394
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2017/02/11,0,,8392
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,300,2017/02/11,12,6.0,8691
+PR: San Juan,Puerto Rico Randonneurs / 952003,ACPB,300,2017/02/12,8,1.0,8146
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2017/02/12,18,0.0,8252
+NC: High Point,Bicycle For Life Club / 933057,ACPB,300,2017/02/18,0,,8610
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,104,2017/02/18,0,,8740
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2017/02/18,1,0.0,8587
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2017/02/18,8,0.0,8371
+NC: High Point,Bicycle For Life Club / 933057,ACPB,400,2017/02/18,1,0.0,8611
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2017/02/18,4,0.0,8032
+TX: West Texas,West Texas Randonneurs / 943003,ACPB,200,2017/02/18,0,,8086
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2017/02/18,11,0.0,8609
+NC: High Point,Bicycle For Life Club / 933057,ACPB,600,2017/02/18,5,0.0,8612
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/02/18,9,0.0,8033
+FL: Central,Central Florida Randonneurs / 909062,ACPB,300,2017/02/18,28,0.0,8310
+TX: West Texas,West Texas Randonneurs / 943003,ACPB,300,2017/02/18,3,0.0,8087
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2017/02/18,4,0.0,8034
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,200,2017/02/18,11,1.0,8552
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,300,2017/02/19,3,0.0,8778
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,300,2017/02/19,13,3.0,8553
+PR: San Juan,Puerto Rico Randonneurs / 952003,ACPB,400,2017/02/19,3,3.0,8147
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,RUSAP,112,2017/02/19,4,0.0,8554
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2017/02/25,13,2.0,8200
+TX: West Texas,West Texas Randonneurs / 943003,RUSAP,100,2017/02/25,0,,8775
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2017/02/25,42,19.0,8273
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,200,2017/02/25,0,,8353
+CA: Fresno,Fresno Cycling Club / 905058,ACPB,200,2017/02/25,46,3.0,8427
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,100,2017/02/25,5,0.0,8532
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2017/02/25,9,0.0,8100
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,300,2017/02/25,8,0.0,8354
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,101,2017/02/25,8,0.0,8783
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,200,2017/02/25,3,0.0,8777
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,200,2017/02/25,2,0.0,8416
+PR: San Juan,Puerto Rico Randonneurs / 952003,ACPB,600,2017/03/03,5,1.0,8148
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/03/04,9,3.0,8632
+TX: Houston,Houston Randonneurs / 943030,ACPB,600,2017/03/04,2,0.0,8396
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/03/04,5,5.0,8498
+FL: Southern,South Florida Randonneurs / 909014,ACPB,600,2017/03/04,28,1.0,8725
+MD: Capital Region,DC Randonneurs / 946012,ACPB,200,2017/03/04,34,1.0,8109
+OR: Portland,Oregon Randonneurs / 937020,ACPB,300,2017/03/04,2,0.0,8499
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2017/03/04,0,,8372
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,400,2017/03/04,13,2.0,8440
+KY: Louisville,Louisville Bicycle Club / 917002,ACPB,200,2017/03/04,18,0.0,8434
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,300,2017/03/04,9,0.0,8373
+TX: Houston,Houston Randonneurs / 943030,ACPB,400,2017/03/04,1,0.0,8395
+CA: Davis,Davis Bike Club / 905014,ACPB,200,2017/03/04,44,2.0,8167
+MA: Boston,New England Randonneurs / 921005,RUSAP,127,2017/03/05,6,1.0,8190
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2017/03/05,1,0.0,8397
+FL: Southern,South Florida Randonneurs / 909014,ACPB,200,2017/03/05,6,0.0,8726
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2017/03/07,3,0.0,8101
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,100,2017/03/11,75,1.0,8454
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2017/03/11,8,1.0,8692
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2017/03/11,3,0.0,8102
+NC: High Point,Bicycle For Life Club / 933057,ACPB,300,2017/03/11,0,,8614
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/03/11,9,0.0,8035
+GA: Atlanta,Audax Atlanta / 910004,ACPB,300,2017/03/11,17,1.0,8201
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,100,2017/03/11,7,1.0,8500
+NC: High Point,Bicycle For Life Club / 933057,ACPB,400,2017/03/11,1,0.0,8615
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2017/03/11,1,3.0,8036
+OR: Eugene,South Willamette Randonneurs / 937003,ACPB,200,2017/03/11,9,0.0,8249
+CA: Fresno,Fresno Cycling Club / 905058,ACPB,200,2017/03/11,38,3.0,8428
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,200,2017/03/11,33,3.0,8132
+MO: Kansas City,Kansas City Ultra Cycling / 925001,ACPB,200,2017/03/11,2,0.0,8154
+NC: High Point,Bicycle For Life Club / 933057,ACPB,600,2017/03/11,0,,8616
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,325,2017/03/11,0,,8037
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2017/03/11,2,0.0,8613
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,300,2017/03/11,8,2.0,8253
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAP,103,2017/03/12,4,1.0,8177
+TX: Amarillo,Hell Week Randonneurs / 943037,ACPB,200,2017/03/13,2,0.0,8655
+TX: Amarillo,Hell Week Randonneurs / 943037,ACPB,200,2017/03/15,4,0.0,8656
+TX: Amarillo,Hell Week Randonneurs / 943037,ACPB,300,2017/03/15,0,,8657
+TX: Amarillo,Hell Week Randonneurs / 943037,ACPB,200,2017/03/17,1,0.0,8658
+TX: Amarillo,Hell Week Randonneurs / 943037,ACPB,300,2017/03/17,0,,8659
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2017/03/18,0,,8374
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAP,100,2017/03/18,7,1.0,8753
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,300,2017/03/18,0,,8356
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/03/18,2,0.0,8633
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,103,2017/03/18,3,0.0,8741
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,400,2017/03/18,4,0.0,8779
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,300,2017/03/18,0,,8375
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2017/03/18,6,2.0,8588
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2017/03/18,21,15.0,8455
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,400,2017/03/18,6,1.0,8357
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,300,2017/03/18,3,0.0,8634
+TX: West Texas,West Texas Randonneurs / 943003,RUSAP,100,2017/03/18,0,,8792
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,300,2017/03/18,55,3.0,8274
+MD: Capital Region,DC Randonneurs / 946012,ACPB,200,2017/03/18,19,1.0,8110
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,100,2017/03/18,2,0.0,8533
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,400,2017/03/18,11,1.0,8555
+TX: West Texas,West Texas Randonneurs / 943003,RUSAB,200,2017/03/18,0,,8793
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,200,2017/03/18,2,0.0,8355
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,200,2017/03/19,7,2.0,8178
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAP,108,2017/03/19,22,2.0,8557
+MA: Westfield,Northeast Sport Cyclists / 921033,RUSAP,100,2017/03/19,15,1.0,8481
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2017/03/21,4,0.0,8103
+OH: Columbus,Ohio Randonneurs / 935012,ACPB,200,2017/03/25,21,3.0,8019
+MO: Kansas City,Kansas City Ultra Cycling / 925001,ACPB,200,2017/03/25,22,0.0,8155
+TX: West Texas,West Texas Randonneurs / 943003,ACPB,400,2017/03/25,5,0.0,8088
+CA: Davis,Davis Bike Club / 905014,ACPB,300,2017/03/25,33,1.0,8168
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,300,2017/03/25,5,1.0,8417
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,200,2017/03/25,6,0.0,8138
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,149,2017/03/25,3,0.0,8770
+GA: Atlanta,Audax Atlanta / 910004,ACPB,400,2017/03/25,7,3.0,8202
+TX: Brownsville,RGV Randos / 943005,ACPB,200,2017/03/25,9,1.0,8083
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2017/03/25,61,1.0,8456
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2017/03/25,11,0.0,8104
+VA: Tidewater,Tidewater Randonneurs / 946002,RUSAP,100,2017/03/25,1,1.0,8771
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2017/03/25,28,0.0,8231
+TX: Brownsville,RGV Randos / 943005,ACPB,300,2017/03/25,0,,8084
+FL: Central,Central Florida Randonneurs / 909062,ACPB,400,2017/03/25,23,4.0,8311
+NY: Saratoga,Upstate NY Brevet Series / 932034,ACPB,200,2017/03/26,1,3.0,8097
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,200,2017/03/26,6,0.0,8660
+KY: Louisville,Louisville Bicycle Club / 917002,ACPB,300,2017/04/01,9,0.0,8435
+CA: Fresno,Fresno Cycling Club / 905058,ACPB,300,2017/04/01,25,2.0,8429
+MD: Capital Region,DC Randonneurs / 946012,ACPB,200,2017/04/01,17,2.0,8111
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,300,2017/04/01,13,0.0,8133
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2017/04/01,0,1.0,8695
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,200,2017/04/01,6,0.0,8149
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2017/04/01,0,,8617
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,217,2017/04/01,2,0.0,8038
+NC: High Point,Bicycle For Life Club / 933057,ACPB,600,2017/04/01,5,0.0,8620
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,300,2017/04/01,6,0.0,8636
+MD: Capital Region,DC Randonneurs / 946012,ACPB,300,2017/04/01,23,0.0,8112
+MO: Kansas City,Kansas City Ultra Cycling / 925001,ACPB,300,2017/04/01,3,0.0,8156
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,600,2017/04/01,8,3.0,8696
+NC: High Point,Bicycle For Life Club / 933057,ACPB,300,2017/04/01,2,0.0,8618
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/04/01,5,0.0,8776
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2017/04/01,5,2.0,8039
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2017/04/01,3,0.0,8693
+NC: High Point,Bicycle For Life Club / 933057,ACPB,1000,2017/04/01,2,0.0,8621
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/04/01,25,0.0,8501
+NC: High Point,Bicycle For Life Club / 933057,ACPB,400,2017/04/01,0,,8619
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,300,2017/04/01,4,0.0,8694
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,103,2017/04/01,7,0.0,8796
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,RUSAP,118,2017/04/01,1,0.0,8768
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/04/01,9,0.0,8635
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,200,2017/04/02,26,6.0,8482
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,300,2017/04/08,0,,8377
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,600,2017/04/08,7,0.0,8441
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,300,2017/04/08,21,1.0,8457
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,100,2017/04/08,5,0.0,8534
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,600,2017/04/08,4,1.0,8359
+VA: Tidewater,Tidewater Randonneurs / 946002,RUSAP,100,2017/04/08,1,0.0,8772
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,400,2017/04/08,6,0.0,8378
+MI: Detroit,Detroit Randonneurs / 922015,RUSAP,116,2017/04/08,31,0.0,8442
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,200,2017/04/08,1,0.0,8140
+IN: Indianapolis,Indiana Randonneurs / 914005,RUSAP,100,2017/04/08,13,0.0,8668
+CA: Davis,Davis Bike Club / 905014,ACPB,400,2017/04/08,14,3.0,8169
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,139,2017/04/08,1,0.0,8795
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2017/04/08,3,0.0,8376
+MO: Kansas City,Kansas City Ultra Cycling / 925001,ACPB,300,2017/04/08,17,0.0,8157
+TX: West Texas,West Texas Randonneurs / 943003,RUSAP,110,2017/04/08,2,0.0,8799
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,200,2017/04/08,16,0.0,8126
+MA: Boston,New England Randonneurs / 921005,RUSAP,107,2017/04/08,67,2.0,8577
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,400,2017/04/08,4,0.0,8358
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,300,2017/04/08,3,1.0,8139
+OR: Portland,Oregon Randonneurs / 937020,ACPB,300,2017/04/08,9,0.0,8502
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAP,122,2017/04/09,20,5.0,8558
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2017/04/15,17,0.0,8709
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2017/04/15,5,1.0,8698
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2017/04/15,33,1.0,8559
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,RUSAP,118,2017/04/15,1,0.0,8769
+IA: Central,Iowa Randonneurs / 915005,RUSAP,110,2017/04/15,0,,8337
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,317,2017/04/15,0,,8041
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2017/04/15,12,2.0,8298
+OR: Portland,Oregon Randonneurs / 937020,ACPB,300,2017/04/15,25,3.0,8503
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,600,2017/04/15,3,1.0,8699
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2017/04/15,8,0.0,8458
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2017/04/15,10,1.0,8710
+CA: Fresno,Fresno Cycling Club / 905058,ACPB,200,2017/04/15,22,6.0,8430
+IA: Central,Iowa Randonneurs / 915005,ACPB,200,2017/04/15,5,1.0,8338
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2017/04/15,3,0.0,8042
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,300,2017/04/15,5,0.0,8150
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,300,2017/04/15,30,0.0,8459
+MD: Capital Region,DC Randonneurs / 946012,ACPB,300,2017/04/15,28,0.0,8113
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,200,2017/04/15,8,1.0,8179
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2017/04/15,2,3.0,8043
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,206,2017/04/15,4,0.0,8040
+NY: Long Island,Long Island Randonneurs / 932005,RUSAP,117,2017/04/15,24,2.0,8546
+MA: Boston,New England Randonneurs / 921005,RUSAP,100,2017/04/15,12,0.0,8682
+TX: Houston,Houston Randonneurs / 943030,ACPB,600,2017/04/22,2,1.0,8399
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2017/04/22,50,8.0,7992
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,200,2017/04/22,28,0.0,8330
+OK: Norman,Oklahoma Randonneurs / 936006,ACPB,200,2017/04/22,2,0.0,8094
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,400,2017/04/22,1,0.0,8639
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,300,2017/04/22,6,1.0,8180
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,400,2017/04/22,6,0.0,8254
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,400,2017/04/22,54,9.0,8276
+FL: Central,Central Florida Randonneurs / 909062,ACPB,600,2017/04/22,21,2.0,8312
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2017/04/22,1,0.0,8519
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2017/04/22,16,1.0,7993
+NY: Saratoga,Upstate NY Brevet Series / 932034,ACPB,300,2017/04/22,3,0.0,8098
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,300,2017/04/22,21,1.0,8483
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAB,300,2017/04/22,4,0.0,8754
+TX: West Texas,West Texas Randonneurs / 943003,ACPB,600,2017/04/22,6,0.0,8089
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2017/04/22,13,4.0,8560
+OH: Columbus,Ohio Randonneurs / 935012,ACPB,300,2017/04/22,17,2.0,8020
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,300,2017/04/22,24,0.0,8233
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/04/22,0,,8637
+VA: Tidewater,Tidewater Randonneurs / 946002,RUSAP,100,2017/04/22,0,,8773
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,119,2017/04/22,24,0.0,8299
+OR: Portland,Oregon Randonneurs / 937020,ACPB,400,2017/04/22,5,1.0,8504
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2017/04/22,28,0.0,8443
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2017/04/22,53,2.0,8628
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,106,2017/04/22,5,0.0,8742
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,400,2017/04/22,0,,8141
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2017/04/22,10,0.0,8589
+TX: Houston,Houston Randonneurs / 943030,ACPB,400,2017/04/22,0,,8398
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,600,2017/04/22,0,3.0,8780
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2017/04/22,45,1.0,8212
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2017/04/22,2,0.0,8234
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,300,2017/04/22,1,0.0,8638
+GA: Atlanta,Audax Atlanta / 910004,ACPB,400,2017/04/22,4,1.0,8203
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,200,2017/04/22,0,,8142
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,200,2017/04/23,5,0.0,8661
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2017/04/23,0,,8400
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,100,2017/04/28,8,1.0,8475
+OK: Norman,Oklahoma Randonneurs / 936006,RUSAB,300,2017/04/29,0,,8790
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,400,2017/04/29,3,0.0,8380
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,300,2017/04/29,16,3.0,8127
+CA: Humboldt,Redwood Coast Mountain Bike Association / 905170,RUSAB,200,2017/04/29,5,2.0,8781
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2017/04/29,0,,8590
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,200,2017/04/29,7,3.0,8315
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,300,2017/04/29,3,0.0,8700
+MD: Capital Region,DC Randonneurs / 946012,ACPB,300,2017/04/29,15,1.0,8115
+MO: Kansas City,Kansas City Ultra Cycling / 925001,ACPB,400,2017/04/29,4,4.0,8159
+KY: Louisville,Louisville Bicycle Club / 917002,ACPB,400,2017/04/29,0,,8436
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,600,2017/04/29,2,1.0,8381
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,200,2017/04/29,68,1.0,8331
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,400,2017/04/29,13,1.0,8134
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2017/04/29,8,2.0,8300
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2017/04/29,4,1.0,8701
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,400,2017/04/29,4,1.0,8418
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,200,2017/04/29,0,,8662
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2017/04/29,0,,8379
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,200,2017/04/29,5,1.0,8669
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2017/04/29,15,3.0,8561
+SD: Sioux Falls,Falls Area Randonneurs / 941005,ACPB,200,2017/04/29,2,2.0,8422
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,106,2017/04/29,0,,8743
+TX: West Texas,West Texas Randonneurs / 943003,RUSAP,100,2017/04/30,0,,8802
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2017/04/30,8,0.0,8702
+NC: High Point,Bicycle For Life Club / 933057,RM,1200,2017/05/04,11,5.0,8622
+CA: Davis,Davis Bike Club / 905014,ACPB,600,2017/05/05,38,3.0,8170
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2017/05/06,5,1.0,8521
+OR: Portland,Oregon Randonneurs / 937020,ACPB,400,2017/05/06,10,0.0,8506
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,400,2017/05/06,3,0.0,8642
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,300,2017/05/06,5,0.0,8445
+IA: Central,Iowa Randonneurs / 915005,ACPB,200,2017/05/06,3,0.0,8340
+GA: Atlanta,Audax Atlanta / 910004,ACPB,600,2017/05/06,1,1.0,8204
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2017/05/06,28,6.0,8683
+OK: Norman,Oklahoma Randonneurs / 936006,RUSAB,200,2017/05/06,2,0.0,8791
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,1000,2017/05/06,0,1.0,8461
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/05/06,9,0.0,8045
+FL: Central,Central Florida Randonneurs / 909062,RUSAB,200,2017/05/06,9,0.0,8806
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2017/05/06,7,3.0,8255
+IA: Central,Iowa Randonneurs / 915005,ACPB,300,2017/05/06,3,0.0,8341
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/05/06,0,,8640
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2017/05/06,5,0.0,7994
+MD: Capital Region,DC Randonneurs / 946012,ACPB,400,2017/05/06,19,3.0,8116
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,600,2017/05/06,4,1.0,8360
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,110,2017/05/06,5,0.0,8800
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,600,2017/05/06,7,0.0,8462
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,200,2017/05/06,19,0.0,8484
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2017/05/06,2,0.0,8520
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2017/05/06,28,4.0,8301
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,100,2017/05/06,7,0.0,8536
+IA: Central,Iowa Randonneurs / 915005,RUSAP,110,2017/05/06,0,,8339
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/05/06,15,0.0,8505
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,300,2017/05/06,3,0.0,8641
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2017/05/06,4,0.0,7995
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2017/05/06,11,0.0,8444
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/05/07,0,,8262
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,300,2017/05/09,4,0.0,8463
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,400,2017/05/10,2,0.0,8464
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2017/05/13,3,0.0,8712
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,255,2017/05/13,7,0.0,8047
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,300,2017/05/13,8,1.0,8302
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,200,2017/05/13,10,2.0,8537
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2017/05/13,19,1.0,8213
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2017/05/13,2,0.0,8797
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,300,2017/05/13,9,0.0,8670
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,100,2017/05/13,1,0.0,8750
+MA: Boston,New England Randonneurs / 921005,RUSAP,121,2017/05/13,24,5.0,8794
+NY: Long Island,Long Island Randonneurs / 932005,ACPB,200,2017/05/13,14,1.0,8547
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2017/05/13,0,,8591
+AZ: Northern,Northern Arizona Randonneurs / 903008,ACPB,200,2017/05/13,3,0.0,8477
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,300,2017/05/13,25,2.0,8214
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,300,2017/05/13,24,2.0,8563
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,600,2017/05/13,21,7.0,8277
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2017/05/13,0,1.0,8711
+MO: Kansas City,Kansas City Ultra Cycling / 925001,ACPB,600,2017/05/13,8,0.0,8160
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAB,200,2017/05/13,7,0.0,8755
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,160,2017/05/13,0,,8046
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAB,301,2017/05/13,1,0.0,8749
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,300,2017/05/13,7,1.0,8256
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,600,2017/05/13,5,2.0,8419
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,300,2017/05/13,7,0.0,8663
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2017/05/14,4,0.0,8465
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,300,2017/05/20,31,4.0,8485
+MO: Kansas City,Kansas City Ultra Cycling / 925001,ACPB,1000,2017/05/20,5,0.0,8161
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,400,2017/05/20,2,0.0,8565
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,400,2017/05/20,0,,8645
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,400,2017/05/20,18,0.0,8235
+TX: Houston,Houston Randonneurs / 943030,RUSAP,100,2017/05/20,2,0.0,8401
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,300,2017/05/20,6,1.0,7996
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2017/05/20,2,0.0,8522
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,600,2017/05/20,8,1.0,8566
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2017/05/20,0,1.0,8303
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,400,2017/05/20,8,0.0,8128
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,600,2017/05/20,0,1.0,8646
+OK: Norman,Oklahoma Randonneurs / 936006,ACPB,200,2017/05/20,3,0.0,8095
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2017/05/20,2,0.0,8236
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,400,2017/05/20,5,0.0,8181
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2017/05/20,15,1.0,8579
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/05/20,1,0.0,8643
+OR: Portland,Oregon Randonneurs / 937020,ACPB,600,2017/05/20,10,1.0,8507
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,300,2017/05/20,4,0.0,8316
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2017/05/20,3,1.0,8402
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,300,2017/05/20,17,4.0,8446
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2017/05/20,4,0.0,8523
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,300,2017/05/20,15,3.0,8332
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,300,2017/05/20,4,1.0,8304
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,600,2017/05/20,9,6.0,8135
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2017/05/20,0,,8592
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,300,2017/05/20,2,0.0,8564
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,300,2017/05/20,0,,8644
+OH: Columbus,Ohio Randonneurs / 935012,ACPB,400,2017/05/20,15,2.0,8021
+MD: Capital Region,DC Randonneurs / 946012,ACPB,400,2017/05/20,19,0.0,8117
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,400,2017/05/20,27,9.0,8466
+MA: Boston,New England Randonneurs / 921005,ACPB,300,2017/05/20,30,2.0,8580
+WI: Western,Driftless Randonneurs / 949007,ACPB,400,2017/05/20,0,,8524
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2017/05/27,0,,8050
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,355,2017/05/27,4,0.0,8808
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,600,2017/05/27,4,2.0,8257
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2017/05/27,0,,8703
+IA: Central,Iowa Randonneurs / 915005,ACPB,200,2017/05/27,0,,8343
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,300,2017/05/27,1,0.0,8664
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,600,2017/05/27,6,2.0,8143
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,211,2017/05/27,0,,8048
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2017/05/27,2,0.0,8051
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,400,2017/05/27,0,,8809
+IA: Central,Iowa Randonneurs / 915005,ACPB,400,2017/05/27,6,1.0,8344
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,200,2017/05/27,2,0.0,8144
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,308,2017/05/27,0,,8049
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,1000,2017/05/27,7,1.0,8052
+OR: Portland,Oregon Randonneurs / 937020,ACPB,600,2017/05/27,0,,8508
+VA: Tidewater,Tidewater Randonneurs / 946002,RUSAP,100,2017/05/27,1,0.0,8774
+IA: Central,Iowa Randonneurs / 915005,RUSAP,110,2017/05/27,1,0.0,8342
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,300,2017/05/27,40,0.0,8333
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,400,2017/06/01,16,1.0,8447
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,400,2017/06/03,10,1.0,8305
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,300,2017/06/03,1,0.0,8648
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,300,2017/06/03,8,0.0,8216
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/06/03,8,3.0,8509
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,400,2017/06/03,4,0.0,8448
+MD: Capital Region,DC Randonneurs / 946012,ACPB,600,2017/06/03,22,3.0,8118
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,600,2017/06/03,23,0.0,8467
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,400,2017/06/03,28,0.0,8334
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,400,2017/06/03,10,0.0,8486
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,400,2017/06/03,0,,8649
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,400,2017/06/03,7,1.0,8217
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2017/06/03,0,,8713
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,300,2017/06/03,6,1.0,8538
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,600,2017/06/03,6,1.0,8449
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,400,2017/06/03,3,1.0,8671
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2017/06/03,4,0.0,7997
+OR: Portland,Oregon Randonneurs / 937020,ACPB,400,2017/06/03,15,0.0,8510
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,110,2017/06/03,6,1.0,8803
+KY: Louisville,Louisville Bicycle Club / 917002,ACPB,600,2017/06/03,2,0.0,8437
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2017/06/03,0,,8714
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,600,2017/06/03,0,2.0,8218
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,300,2017/06/03,5,0.0,8567
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/06/03,2,0.0,8647
+OK: Norman,Oklahoma Randonneurs / 936006,ACPB,300,2017/06/03,2,0.0,8096
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2017/06/03,7,0.0,8215
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,600,2017/06/03,1,1.0,8650
+CA: Fresno,Fresno Cycling Club / 905058,ACPB,200,2017/06/03,11,0.0,8431
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,400,2017/06/03,5,2.0,7998
+FL: Central,Central Florida Randonneurs / 909062,RUSAP,100,2017/06/03,13,0.0,8314
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2017/06/03,4,0.0,8715
+CA: Fresno,Fresno Cycling Club / 905058,ACPB,200,2017/06/04,6,0.0,8432
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAB,210,2017/06/04,0,,8805
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,110,2017/06/04,6,0.0,8804
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,1000,2017/06/08,22,6.0,8280
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2017/06/10,3,0.0,8593
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAB,200,2017/06/10,10,2.0,8756
+TX: Houston,Houston Randonneurs / 943030,RUSAB,300,2017/06/10,3,0.0,8404
+OH: Columbus,Ohio Randonneurs / 935012,ACPB,600,2017/06/10,9,1.0,8022
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2017/06/10,2,2.0,8525
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,600,2017/06/10,3,0.0,8569
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,300,2017/06/10,7,0.0,8594
+CA: Humboldt,Redwood Coast Mountain Bike Association / 905170,RUSAB,300,2017/06/10,6,0.0,8782
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2017/06/10,7,0.0,8704
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,108,2017/06/10,0,,8751
+WI: Western,Driftless Randonneurs / 949007,ACPB,400,2017/06/10,0,3.0,8526
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,100,2017/06/10,6,0.0,8539
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,600,2017/06/10,6,1.0,8129
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,1000,2017/06/10,1,0.0,8570
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,600,2017/06/10,11,2.0,8237
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,400,2017/06/10,2,2.0,8317
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,400,2017/06/10,6,0.0,8666
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2017/06/10,2,0.0,8403
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,400,2017/06/10,8,4.0,8568
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2017/06/11,9,0.0,8238
+NY: Central/Western,Rochester Bicycling Club / 932030,RUSAB,600,2017/06/11,0,,8813
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,103,2017/06/11,0,,8810
+OR: Portland,Oregon Randonneurs / 937020,ACPB,1000,2017/06/14,1,0.0,8511
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2017/06/17,5,0.0,8053
+IA: Central,Iowa Randonneurs / 915005,ACPB,300,2017/06/17,0,,8346
+TX: Brownsville,RGV Randos / 943005,RUSAP,109,2017/06/17,26,8.0,8814
+MA: Boston,New England Randonneurs / 921005,ACPB,400,2017/06/17,36,2.0,8584
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,600,2017/06/17,12,1.0,8451
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,600,2017/06/17,9,5.0,8306
+IA: Central,Iowa Randonneurs / 915005,ACPB,400,2017/06/17,1,1.0,8347
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,600,2017/06/17,0,,8220
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,400,2017/06/17,3,0.0,8258
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2017/06/17,6,0.0,8585
+SD: Sioux Falls,Falls Area Randonneurs / 941005,ACPB,300,2017/06/17,0,,8424
+GA: Atlanta,Audax Atlanta / 910004,ACPB,300,2017/06/17,16,4.0,8205
+NY: Long Island,Long Island Randonneurs / 932005,ACPB,300,2017/06/17,5,1.0,8548
+IA: Central,Iowa Randonneurs / 915005,ACPB,600,2017/06/17,0,1.0,8348
+AZ: Northern,Northern Arizona Randonneurs / 903008,ACPB,300,2017/06/17,1,1.0,8478
+IA: Central,Iowa Randonneurs / 915005,ACPB,200,2017/06/17,3,0.0,8345
+MI: Detroit,Detroit Randonneurs / 922015,RUSAB,200,2017/06/17,5,0.0,8807
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,400,2017/06/17,5,1.0,8450
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,400,2017/06/17,2,0.0,8219
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,1000,2017/06/22,0,,8468
+OR: Eugene,South Willamette Randonneurs / 937003,ACPB,300,2017/06/24,10,0.0,8250
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,400,2017/06/24,9,0.0,8571
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2017/06/24,3,1.0,8820
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,600,2017/06/24,1,0.0,8667
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,600,2017/06/24,4,2.0,8000
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,400,2017/06/24,3,1.0,8540
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,600,2017/06/24,3,0.0,8719
+WI: Western,Driftless Randonneurs / 949007,ACPB,600,2017/06/24,1,0.0,8528
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2017/06/24,1,0.0,8716
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,600,2017/06/24,4,0.0,8572
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,100,2017/06/24,3,0.0,8812
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2017/06/24,1,0.0,8717
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,600,2017/06/24,22,6.0,8335
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,600,2017/06/24,3,4.0,8487
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2017/06/24,1,0.0,8595
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,600,2017/06/24,5,0.0,8672
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2017/06/24,0,,8718
+WI: Western,Driftless Randonneurs / 949007,ACPB,400,2017/06/24,0,,8527
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2017/06/24,10,5.0,8281
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,200,2017/06/24,6,0.0,8488
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,134,2017/06/24,1,0.0,8787
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,400,2017/06/24,3,1.0,8596
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,200,2017/06/25,6,0.0,8489
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2017/06/25,5,0.0,8259
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,600,2017/06/30,3,0.0,8318
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/07/01,7,0.0,8823
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/07/01,12,0.0,8512
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/07/01,3,0.0,8054
+VA: Northern,Randonneurs of the Mid-Atlantic / 946013,ACPB,200,2017/07/01,0,,8680
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2017/07/01,15,3.0,8819
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,362,2017/07/01,1,0.0,8055
+FL: Southern,South Florida Randonneurs / 909014,ACPB,200,2017/07/01,19,0.0,8730
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2017/07/01,3,0.0,8056
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,RUSAP,100,2017/07/04,26,4.0,8319
+CA: Davis,Davis Bike Club / 905014,RM,1200,2017/07/05,50,22.0,8171
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,1000,2017/07/07,21,5.0,8222
+FL: Central,Central Florida Randonneurs / 909062,RUSAB,200,2017/07/07,9,4.0,8831
+TX: Brownsville,RGV Randos / 943005,RUSAB,301,2017/07/08,4,0.0,8817
+TX: Brownsville,RGV Randos / 943005,RUSAP,109,2017/07/08,7,0.0,8815
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,600,2017/07/08,6,0.0,8541
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAP,100,2017/07/08,8,0.0,8828
+MA: Boston,New England Randonneurs / 921005,ACPB,300,2017/07/08,1,1.0,8684
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2017/07/08,15,0.0,8307
+TX: Brownsville,RGV Randos / 943005,RUSAB,205,2017/07/08,2,2.0,8816
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,600,2017/07/08,9,2.0,8221
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,106,2017/07/08,53,9.0,8469
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2017/07/09,3,0.0,7999
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,400,2017/07/13,0,,8597
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,1000,2017/07/13,4,1.0,8598
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,600,2017/07/14,3,2.0,8599
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,300,2017/07/15,0,3.0,8833
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2017/07/15,0,,8260
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,300,2017/07/15,3,3.0,8282
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAB,305,2017/07/15,1,0.0,8830
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2017/07/15,32,3.0,8470
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2017/07/15,3,0.0,8405
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2017/07/15,23,0.0,8283
+TX: Houston,Houston Randonneurs / 943030,RUSAB,300,2017/07/15,3,0.0,8406
+MA: Boston,New England Randonneurs / 921005,ACPB,600,2017/07/15,20,10.0,8586
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2017/07/16,18,2.0,8284
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,103,2017/07/16,4,0.0,8829
+WI: Western,Driftless Randonneurs / 949007,RUSAP,100,2017/07/16,12,0.0,8530
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,104,2017/07/21,4,0.0,8739
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,600,2017/07/22,4,9.0,8285
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,110,2017/07/22,10,2.0,8321
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAB,200,2017/07/22,10,0.0,8827
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2017/07/22,23,1.0,8239
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2017/07/22,3,2.0,8001
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,300,2017/07/22,4,0.0,8002
+MA: Boston,New England Randonneurs / 921005,ACPB,400,2017/07/22,12,0.0,8685
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2017/07/29,26,6.0,8286
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,300,2017/07/29,12,0.0,8322
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,300,2017/07/29,13,3.0,8471
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2017/07/29,4,0.0,8323
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2017/07/29,11,3.0,8206
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2017/07/30,6,0.0,8324
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,119,2017/07/30,4,0.0,8325
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2017/08/05,3,1.0,8003
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,101,2017/08/05,0,,8788
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/08/05,6,1.0,8057
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/08/05,5,0.0,8824
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,400,2017/08/05,4,0.0,8004
+FL: Southern,South Florida Randonneurs / 909014,ACPB,300,2017/08/05,13,0.0,8729
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/08/05,6,0.0,8513
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAB,204,2017/08/05,0,,8789
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,300,2017/08/05,5,1.0,8573
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,300,2017/08/05,5,0.0,8490
+VA: Northern,Randonneurs of the Mid-Atlantic / 946013,ACPB,200,2017/08/05,0,,8681
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,308,2017/08/05,5,0.0,8822
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,400,2017/08/05,10,1.0,8326
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,112,2017/08/06,29,5.0,8747
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,103,2017/08/06,29,4.0,8748
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2017/08/12,8,0.0,8867
+AZ: Northern,Northern Arizona Randonneurs / 903008,ACPB,400,2017/08/12,1,0.0,8479
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2017/08/12,3,0.0,8407
+MA: Boston,New England Randonneurs / 921005,RUSAB,200,2017/08/12,10,0.0,8798
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2017/08/12,18,2.0,8287
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2017/08/12,21,0.0,8240
+SD: Sioux Falls,Falls Area Randonneurs / 941005,ACPB,400,2017/08/12,5,0.0,8425
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,400,2017/08/12,25,1.0,8472
+TX: West Texas,West Texas Randonneurs / 943003,RUSAB,215,2017/08/12,2,0.0,8090
+TX: West Texas,West Texas Randonneurs / 943003,RUSAP,120,2017/08/13,2,0.0,8091
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,1000,2017/08/17,10,1.0,8297
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,600,2017/08/18,0,1.0,8601
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,400,2017/08/18,2,0.0,8600
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,200,2017/08/19,7,0.0,8263
+NC: Raleigh,North Carolina Bicycle Club / 933045,RUSAP,100,2017/08/19,4,1.0,8130
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,600,2017/08/19,2,4.0,8007
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2017/08/19,20,0.0,8223
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,300,2017/08/19,0,,8602
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,200,2017/08/19,4,0.0,8131
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,300,2017/08/19,12,0.0,8194
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,400,2017/08/19,8,0.0,8224
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2017/08/19,10,2.0,8005
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAP,100,2017/08/19,5,3.0,8758
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,100,2017/08/19,7,0.0,8542
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,600,2017/08/19,1,0.0,8225
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2017/08/19,1,0.0,8006
+TX: Brownsville,RGV Randos / 943005,RUSAP,109,2017/08/20,86,3.0,8835
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAB,238,2017/08/21,7,2.0,8785
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAB,200,2017/08/21,0,,8382
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAB,302,2017/08/21,0,,8786
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,400,2017/08/25,3,6.0,8288
+OR: Portland,Oregon Randonneurs / 937020,ACPB,600,2017/08/26,2,1.0,8515
+WI: Western,Driftless Randonneurs / 949007,RUSAP,100,2017/08/26,8,0.0,8836
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2017/08/26,6,0.0,8207
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,600,2017/08/26,4,4.0,8473
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,200,2017/08/26,2,0.0,8869
+OR: Portland,Oregon Randonneurs / 937020,ACPB,400,2017/08/26,1,0.0,8514
+FL: Southern,South Florida Randonneurs / 909014,ACPB,400,2017/09/02,12,0.0,8728
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2017/09/02,7,1.0,8060
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,300,2017/09/02,3,0.0,8674
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/09/02,1,2.0,8058
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2017/09/02,4,2.0,8008
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/09/02,4,0.0,8825
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,362,2017/09/02,0,,8059
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2017/09/02,3,0.0,8009
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/09/04,6,0.0,8061
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,1000,2017/09/06,0,,8575
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RM,1200,2017/09/06,28,1.0,8574
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,200,2017/09/09,14,0.0,8136
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,400,2017/09/09,0,,8676
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,111,2017/09/09,4,0.0,8543
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,102,2017/09/09,8,0.0,8864
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2017/09/09,21,0.0,8241
+SD: Sioux Falls,Falls Area Randonneurs / 941005,ACPB,600,2017/09/09,2,1.0,8426
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2017/09/09,16,2.0,8226
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,123,2017/09/09,2,0.0,8880
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,600,2017/09/09,0,,8420
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2017/09/09,4,0.0,8408
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAB,200,2017/09/09,8,0.0,8871
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2017/09/09,14,1.0,8452
+MD: Capital Region,DC Randonneurs / 946012,ACPB,200,2017/09/09,39,2.0,8119
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,400,2017/09/09,6,0.0,8227
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,200,2017/09/09,4,0.0,8675
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,200,2017/09/09,4,0.0,8182
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2017/09/09,15,0.0,8705
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,600,2017/09/09,12,0.0,8228
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,100,2017/09/10,0,,8476
+TX: West Texas,West Texas Randonneurs / 943003,ACPB,200,2017/09/15,8,0.0,8366
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,1000,2017/09/15,7,1.0,8474
+TX: West Texas,West Texas Randonneurs / 943003,RUSAP,117,2017/09/15,0,,8093
+NC: High Point,Bicycle For Life Club / 933057,ACPB,600,2017/09/16,1,0.0,8626
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2017/09/16,0,,8623
+SD: Sioux Falls,Falls Area Randonneurs / 941005,ACPB,200,2017/09/16,2,0.0,8423
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2017/09/16,8,9.0,8010
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,300,2017/09/16,21,3.0,8289
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/09/16,3,0.0,8516
+NC: High Point,Bicycle For Life Club / 933057,ACPB,300,2017/09/16,2,0.0,8624
+NC: High Point,Bicycle For Life Club / 933057,ACPB,400,2017/09/16,1,0.0,8625
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,103,2017/09/16,0,,8863
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,200,2017/09/16,45,1.0,8336
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,200,2017/09/16,8,0.0,8679
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2017/09/16,6,0.0,8062
+MD: Capital Region,DC Randonneurs / 946012,ACPB,300,2017/09/16,15,1.0,8120
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,117,2017/09/17,35,0.0,8877
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,RUSAP,120,2017/09/17,10,6.0,8834
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,200,2017/09/17,5,0.0,8320
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,100,2017/09/23,2,0.0,8895
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,120,2017/09/23,6,2.0,8327
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,600,2017/09/23,5,2.0,8654
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,RUSAB,315,2017/09/23,0,,8784
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,300,2017/09/23,1,0.0,8183
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,200,2017/09/23,1,0.0,8651
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,400,2017/09/23,6,1.0,8152
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2017/09/23,16,0.0,8686
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAB,200,2017/09/23,2,2.0,8544
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,300,2017/09/23,0,,8652
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2017/09/23,14,1.0,8208
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAP,130,2017/09/23,4,0.0,8878
+MA: Boston,New England Randonneurs / 921005,RUSAP,114,2017/09/23,1,3.0,8687
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2017/09/23,12,1.0,8576
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2017/09/23,3,0.0,8872
+MO: St. Louis,St Louis Cycling Club / 925034,ACPB,400,2017/09/23,0,,8653
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,200,2017/09/23,16,0.0,8195
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,200,2017/09/23,9,0.0,8361
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAB,250,2017/09/23,0,,8383
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,200,2017/09/30,3,0.0,8673
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2017/09/30,13,0.0,8063
+MD: Capital Region,DC Randonneurs / 946012,ACPB,400,2017/09/30,18,0.0,8121
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2017/09/30,13,0.0,8328
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,200,2017/09/30,7,0.0,8421
+MO: Kansas City,Kansas City Ultra Cycling / 925001,RUSAB,201,2017/09/30,4,0.0,8879
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,1000,2017/10/05,14,4.0,8292
+NC: High Point,Bicycle For Life Club / 933057,RM,1200,2017/10/06,11,3.0,8627
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2017/10/07,1,1.0,8066
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,200,2017/10/07,5,0.0,8677
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,400,2017/10/07,1,1.0,8184
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2017/10/07,7,0.0,8067
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,600,2017/10/07,4,0.0,8153
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2017/10/07,5,0.0,8064
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,600,2017/10/07,3,4.0,8678
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAB,200,2017/10/07,13,3.0,8894
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2017/10/07,24,0.0,8517
+FL: Southern,South Florida Randonneurs / 909014,ACPB,600,2017/10/07,12,3.0,8727
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2017/10/07,12,1.0,8209
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2017/10/07,11,0.0,8453
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2017/10/07,1,1.0,8065
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/10/07,3,0.0,8826
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,200,2017/10/08,19,0.0,8491
+MA: Westfield,Northeast Sport Cyclists / 921033,RUSAP,170,2017/10/08,7,0.0,8492
+MA: Westfield,Northeast Sport Cyclists / 921033,RUSAP,100,2017/10/08,3,0.0,8493
+TX: Houston,Houston Randonneurs / 943030,RUSAB,400,2017/10/14,2,0.0,8410
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2017/10/14,0,,8531
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,300,2017/10/14,7,0.0,8362
+OH: Columbus,Ohio Randonneurs / 935012,RUSAP,100,2017/10/14,15,0.0,8868
+TX: Houston,Houston Randonneurs / 943030,ACPB,1000,2017/10/14,5,0.0,8411
+MD: Capital Region,DC Randonneurs / 946012,ACPB,600,2017/10/14,15,0.0,8122
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2017/10/14,10,0.0,8329
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2017/10/14,0,,8409
+IL: Chicago,Great Lakes Randonneurs / 913005,RUSAB,400,2017/10/14,4,0.0,9627
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,200,2017/10/15,10,3.0,8264
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,204,2017/10/21,8,0.0,8913
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAB,200,2017/10/21,7,0.0,8384
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2017/10/21,29,0.0,8242
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAP,150,2017/10/21,7,2.0,8243
+FL: Central,Central Florida Randonneurs / 909062,RUSAB,1000,2017/10/27,5,0.0,9552
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,300,2017/10/28,7,0.0,8069
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,123,2017/10/28,3,0.0,9631
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,217,2017/10/28,0,,8068
+MD: Capital Region,DC Randonneurs / 946012,RUSAB,205,2017/10/28,29,4.0,8123
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAB,200,2017/10/28,18,11.0,9630
+CA: Los Angeles,Channel Islands Bike Club / 905082,RUSAB,200,2017/10/29,10,1.0,8706
+CA: Los Angeles,Channel Islands Bike Club / 905082,RUSAP,125,2017/11/04,3,1.0,8801
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,104,2017/11/04,13,2.0,8518
+TX: Houston,Houston Randonneurs / 943030,RUSAB,600,2017/11/04,0,,8413
+CA: Fresno,Fresno Cycling Club / 905058,RUSAP,139,2017/11/04,12,1.0,8994
+GA: Atlanta,Audax Atlanta / 910004,RUSAB,211,2017/11/04,9,0.0,8210
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAB,200,2017/11/04,50,2.0,8295
+IL: Chicago,Great Lakes Randonneurs / 913005,RUSAB,300,2017/11/04,4,0.0,9638
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAP,108,2017/11/04,1,0.0,8760
+CA: Fresno,Fresno Cycling Club / 905058,RUSAB,200,2017/11/04,0,,8433
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,400,2017/11/04,4,0.0,8363
+TX: Houston,Houston Randonneurs / 943030,RUSAB,400,2017/11/04,1,0.0,8412
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/11/04,5,0.0,8265
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2017/11/05,2,1.0,8414
+MA: Boston,New England Randonneurs / 921005,RUSAP,100,2017/11/05,5,0.0,9503
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2017/11/11,19,0.0,8244
+CA: Davis,Davis Bike Club / 905014,RUSAB,302,2017/11/11,9,1.0,9637
+CA: Davis,Davis Bike Club / 905014,RUSAP,103,2017/11/11,10,0.0,8174
+MD: Capital Region,DC Randonneurs / 946012,RUSAB,205,2017/11/11,36,3.0,8124
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,400,2017/11/11,5,0.0,8070
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2017/11/11,3,0.0,8866
+CA: Davis,Davis Bike Club / 905014,RUSAB,203,2017/11/11,16,1.0,8173
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAB,200,2017/11/18,44,2.0,8294
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,300,2017/11/18,7,0.0,8072
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAP,100,2017/11/18,5,0.0,8245
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,324,2017/11/18,5,0.0,9629
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2017/11/18,2,0.0,8071
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2017/11/25,1,0.0,8073
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAP,100,2017/11/25,0,,8385
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,210,2017/11/25,3,0.0,8074
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAB,200,2017/11/25,4,2.0,8386
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,200,2017/12/02,7,0.0,8075
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAB,300,2017/12/02,0,,9640
+GA: Atlanta,Audax Atlanta / 910004,RUSAB,206,2017/12/02,15,2.0,8211
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAB,200,2017/12/02,50,5.0,8296
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2017/12/02,15,0.0,8246
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAB,400,2017/12/02,11,0.0,9190
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,600,2017/12/02,7,1.0,8364
+MA: Boston,New England Randonneurs / 921005,RUSAP,100,2017/12/03,14,0.0,9504
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2017/12/03,6,0.0,8247
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,200,2017/12/09,6,0.0,8365
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2017/12/09,5,1.0,8415
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAP,100,2017/12/09,0,,8761
+FL: Central,Central Florida Randonneurs / 909062,RUSAP,100,2017/12/16,36,3.0,9647
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,211,2017/12/16,4,0.0,8076
+MD: Capital Region,DC Randonneurs / 946012,RUSAB,205,2017/12/16,14,0.0,8125
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,RUSAP,107,2017/12/16,15,0.0,9648
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,100,2017/12/22,16,4.0,9646
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,300,2017/12/23,0,1.0,8268
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAB,200,2017/12/23,1,3.0,8545
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,103,2017/12/30,3,0.0,9652
+CA: Davis,Davis Bike Club / 905014,RUSAB,204,2017/12/31,20,2.0,8175
+CA: Davis,Davis Bike Club / 905014,RUSAP,102,2017/12/31,4,0.0,8176
