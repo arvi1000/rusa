@@ -1,0 +1,952 @@
+region,club,type,distance,date,route,rt_url,rtid,event_url,eid
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/01/01,The Doctor's Daughter 100,/cgi-bin/routesearch_PF.pl?rtid=1491,1491,/cgi-bin/resultsearch_PF.pl?eid=10077&esortby=cert,10077
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2019/01/01,Orange County Pendleton 200K,/cgi-bin/routesearch_PF.pl?rtid=995,995,/cgi-bin/resultsearch_PF.pl?eid=10423&esortby=cert,10423
+CA: Davis,Davis Bike Club / 905014,ACPB,200,2019/01/01,Davis-Calistoga-Davis 200Km,/cgi-bin/routesearch_PF.pl?rtid=1163,1163,/cgi-bin/resultsearch_PF.pl?eid=9450&esortby=cert,9450
+CA: Davis,Davis Bike Club / 905014,RUSAP,103,2019/01/01,Moskowite Corner 100Km,/cgi-bin/routesearch_PF.pl?rtid=1322,1322,/cgi-bin/resultsearch_PF.pl?eid=9451&esortby=cert,9451
+VA: Tidewater,Tidewater Randonneurs / 946002,RUSAP,100,2019/01/01,Suffolk 100K,/cgi-bin/routesearch_PF.pl?rtid=2034,2034,/cgi-bin/resultsearch_PF.pl?eid=10050&esortby=cert,10050
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/01/01,Rip-Snortin' Rando Ride,/cgi-bin/routesearch_PF.pl?rtid=1495,1495,/cgi-bin/resultsearch_PF.pl?eid=10078&esortby=cert,10078
+MO: Kansas City,Audax Kansas City / 925005,ACPB,200,2019/01/01,Princeton Roundabout,/cgi-bin/routesearch_PF.pl?rtid=1125,1125,/cgi-bin/resultsearch_PF.pl?eid=9843&esortby=cert,9843
+FL: Southern,South Florida Randonneurs / 909014,ACPB,200,2019/01/05,Hammocks Flamingo 200K,/cgi-bin/routesearch_PF.pl?rtid=2360,2360,/cgi-bin/resultsearch_PF.pl?eid=9862&esortby=cert,9862
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2019/01/05,Brookshire-Burton,/cgi-bin/routesearch_PF.pl?rtid=924,924,/cgi-bin/resultsearch_PF.pl?eid=10012&esortby=cert,10012
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2019/01/05,Morgantown 200,/cgi-bin/routesearch_PF.pl?rtid=1358,1358,/cgi-bin/resultsearch_PF.pl?eid=10035&esortby=cert,10035
+TX: Houston,Houston Randonneurs / 943030,RUSAP,111,2019/01/05,Sunnyside Loop,/cgi-bin/routesearch_PF.pl?rtid=1183,1183,/cgi-bin/resultsearch_PF.pl?eid=10011&esortby=cert,10011
+AZ: Phoenix,Arizona Randonneurs / 903020,RUSAP,100,2019/01/05,Saguaro Lake 100K,/cgi-bin/routesearch_PF.pl?rtid=1677,1677,/cgi-bin/resultsearch_PF.pl?eid=10259&esortby=cert,10259
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,200,2019/01/05,Saguaro Lake 200k,/cgi-bin/routesearch_PF.pl?rtid=1502,1502,/cgi-bin/resultsearch_PF.pl?eid=10260&esortby=cert,10260
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2019/01/05,200k Natty Green's,/cgi-bin/routesearch_PF.pl?rtid=820,820,/cgi-bin/resultsearch_PF.pl?eid=10354&esortby=cert,10354
+MO: Kansas City,Audax Kansas City / 925005,RUSAP,100,2019/01/05,Barley's - Free State 104,/cgi-bin/routesearch_PF.pl?rtid=1953,1953,/cgi-bin/resultsearch_PF.pl?eid=9842&esortby=cert,9842
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,200,2019/01/05,Lake Travis Loop,/cgi-bin/routesearch_PF.pl?rtid=1655,1655,/cgi-bin/resultsearch_PF.pl?eid=9818&esortby=cert,9818
+FL: Gainesville,Gainesville Cycling Club / 909005,ACPB,200,2019/01/05,route 242 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=242,242,/cgi-bin/resultsearch_PF.pl?eid=10222&esortby=cert,10222
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,101,2019/01/06,Elfin Forest Populaire,/cgi-bin/routesearch_PF.pl?rtid=2106,2106,/cgi-bin/resultsearch_PF.pl?eid=10704&esortby=cert,10704
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,200,2019/01/12,No Return to Fitzhugh 200K,/cgi-bin/routesearch_PF.pl?rtid=1722,1722,/cgi-bin/resultsearch_PF.pl?eid=9819&esortby=cert,9819
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/01/12,Windsor Wanderer,/cgi-bin/routesearch_PF.pl?rtid=2173,2173,/cgi-bin/resultsearch_PF.pl?eid=10481&esortby=cert,10481
+OK: Norman,Oklahoma Randonneurs / 936006,ACPB,200,2019/01/12,Ghost Town 200,/cgi-bin/routesearch_PF.pl?rtid=1650,1650,/cgi-bin/resultsearch_PF.pl?eid=9965&esortby=cert,9965
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2019/01/12,Albany 200,/cgi-bin/routesearch_PF.pl?rtid=2290,2290,/cgi-bin/resultsearch_PF.pl?eid=9796&esortby=cert,9796
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2019/01/12,Santa Ana River Trail 200,/cgi-bin/routesearch_PF.pl?rtid=760,760,/cgi-bin/resultsearch_PF.pl?eid=10424&esortby=cert,10424
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAP,102,2019/01/12,Lafayette Populaire 102K,/cgi-bin/routesearch_PF.pl?rtid=2336,2336,/cgi-bin/resultsearch_PF.pl?eid=9779&esortby=cert,9779
+MD: Capital Region,DC Randonneurs / 946012,RUSAP,106,2019/01/12,Glen Echo 106k,/cgi-bin/routesearch_PF.pl?rtid=827,827,/cgi-bin/resultsearch_PF.pl?eid=10286&esortby=cert,10286
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,117,2019/01/13,Pt. Reyes Populaire,/cgi-bin/routesearch_PF.pl?rtid=803,803,/cgi-bin/resultsearch_PF.pl?eid=9977&esortby=cert,9977
+OK: Norman,Oklahoma Randonneurs / 936006,ACPB,300,2019/01/13,Arbuckle 300,/cgi-bin/routesearch_PF.pl?rtid=1675,1675,/cgi-bin/resultsearch_PF.pl?eid=9966&esortby=cert,9966
+FL: Central,Central Florida Randonneurs / 909062,ACPB,200,2019/01/19,Tavares-Lakeland 200K,/cgi-bin/routesearch_PF.pl?rtid=1682,1682,/cgi-bin/resultsearch_PF.pl?eid=10559&esortby=cert,10559
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,200,2019/01/19,Tepusquet 200k,/cgi-bin/routesearch_PF.pl?rtid=2366,2366,/cgi-bin/resultsearch_PF.pl?eid=10512&esortby=cert,10512
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,200,2019/01/19,route 116 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=116,116,/cgi-bin/resultsearch_PF.pl?eid=10517&esortby=cert,10517
+NC: High Point,Bicycle For Life Club / 933057,ACPB,300,2019/01/19,Sedalia-MtAiry 300k,/cgi-bin/routesearch_PF.pl?rtid=1793,1793,/cgi-bin/resultsearch_PF.pl?eid=10356&esortby=cert,10356
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2019/01/19,route 369 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=369,369,/cgi-bin/resultsearch_PF.pl?eid=10147&esortby=cert,10147
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,200,2019/01/19,route 300 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=300,300,/cgi-bin/resultsearch_PF.pl?eid=10064&esortby=cert,10064
+NC: High Point,Bicycle For Life Club / 933057,ACPB,200,2019/01/19,Sedalia-Danbury 200k,/cgi-bin/routesearch_PF.pl?rtid=1792,1792,/cgi-bin/resultsearch_PF.pl?eid=10355&esortby=cert,10355
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAP,100,2019/01/19,route 370 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=370,370,/cgi-bin/resultsearch_PF.pl?eid=10146&esortby=cert,10146
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2019/01/19,Rainbow 200K,/cgi-bin/routesearch_PF.pl?rtid=253,253,/cgi-bin/resultsearch_PF.pl?eid=9975&esortby=cert,9975
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/01/19,Rio Vista Rumble 200,/cgi-bin/routesearch_PF.pl?rtid=122,122,/cgi-bin/resultsearch_PF.pl?eid=10079&esortby=cert,10079
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,RUSAP,122,2019/01/19,Not quite Tepusquet 122k,/cgi-bin/routesearch_PF.pl?rtid=2365,2365,/cgi-bin/resultsearch_PF.pl?eid=10705&esortby=cert,10705
+LA: New Orleans,Crescent City Randonneurs / 918002,ACPB,200,2019/01/19,route 528 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=528,528,/cgi-bin/resultsearch_PF.pl?eid=10301&esortby=cert,10301
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2019/01/19,Rio Vista Rumble 306,/cgi-bin/routesearch_PF.pl?rtid=134,134,/cgi-bin/resultsearch_PF.pl?eid=10080&esortby=cert,10080
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,101,2019/01/19,Elfin Forest Populaire,/cgi-bin/routesearch_PF.pl?rtid=2106,2106,/cgi-bin/resultsearch_PF.pl?eid=9948&esortby=cert,9948
+FL: Central,Central Florida Randonneurs / 909062,ACPB,300,2019/01/20,Eustis-Flagler Beach 300K,/cgi-bin/routesearch_PF.pl?rtid=1590,1590,/cgi-bin/resultsearch_PF.pl?eid=10560&esortby=cert,10560
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2019/01/20,Rainbow 200K,/cgi-bin/routesearch_PF.pl?rtid=253,253,/cgi-bin/resultsearch_PF.pl?eid=9934&esortby=cert,9934
+FL: Southern,South Florida Randonneurs / 909014,ACPB,300,2019/01/26,Pompano Beach 300k,/cgi-bin/routesearch_PF.pl?rtid=1052,1052,/cgi-bin/resultsearch_PF.pl?eid=9863&esortby=cert,9863
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/01/26,Dillon Beach,/cgi-bin/routesearch_PF.pl?rtid=2376,2376,/cgi-bin/resultsearch_PF.pl?eid=9978&esortby=cert,9978
+TX: Houston,Houston Randonneurs / 943030,ACPB,300,2019/01/26,CFH 300,/cgi-bin/routesearch_PF.pl?rtid=270,270,/cgi-bin/resultsearch_PF.pl?eid=10015&esortby=cert,10015
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2019/01/26,De Luz 200K,/cgi-bin/routesearch_PF.pl?rtid=711,711,/cgi-bin/resultsearch_PF.pl?eid=9935&esortby=cert,9935
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2019/01/26,route 289 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=289,289,/cgi-bin/resultsearch_PF.pl?eid=10014&esortby=cert,10014
+TX: West Texas,West Texas Randonneurs / 943003,ACPB,200,2019/01/26,Alley Oop 200K,/cgi-bin/routesearch_PF.pl?rtid=934,934,/cgi-bin/resultsearch_PF.pl?eid=10144&esortby=cert,10144
+TX: Houston,Houston Randonneurs / 943030,RUSAP,111,2019/01/26,Sunnyside Loop,/cgi-bin/routesearch_PF.pl?rtid=1183,1183,/cgi-bin/resultsearch_PF.pl?eid=10013&esortby=cert,10013
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2019/02/02,Little Britain,/cgi-bin/routesearch_PF.pl?rtid=1884,1884,/cgi-bin/resultsearch_PF.pl?eid=10036&esortby=cert,10036
+NC: High Point,Bicycle For Life Club / 933057,ACPB,300,2019/02/02,Salisbury Hoffman 300k,/cgi-bin/routesearch_PF.pl?rtid=1002,1002,/cgi-bin/resultsearch_PF.pl?eid=10357&esortby=cert,10357
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAP,100,2019/02/02,route 246 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=246,246,/cgi-bin/resultsearch_PF.pl?eid=10148&esortby=cert,10148
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,300,2019/02/02,Saguaro National Park,/cgi-bin/routesearch_PF.pl?rtid=151,151,/cgi-bin/resultsearch_PF.pl?eid=10261&esortby=cert,10261
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,200,2019/02/02,route 550 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=550,550,/cgi-bin/resultsearch_PF.pl?eid=9820&esortby=cert,9820
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2019/02/02,Santa Barbara Easy 200k,/cgi-bin/routesearch_PF.pl?rtid=1977,1977,/cgi-bin/resultsearch_PF.pl?eid=10425&esortby=cert,10425
+NC: High Point,Bicycle For Life Club / 933057,ACPB,400,2019/02/02,Salisbury-Raeford-Laurel Hill 400k,/cgi-bin/routesearch_PF.pl?rtid=1530,1530,/cgi-bin/resultsearch_PF.pl?eid=10358&esortby=cert,10358
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,300,2019/02/02,Pedernales DC 2,/cgi-bin/routesearch_PF.pl?rtid=1852,1852,/cgi-bin/resultsearch_PF.pl?eid=9821&esortby=cert,9821
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2019/02/02,route 244 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=244,244,/cgi-bin/resultsearch_PF.pl?eid=10149&esortby=cert,10149
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,104,2019/02/03,Hill Street Blues 100k,/cgi-bin/routesearch_PF.pl?rtid=1756,1756,/cgi-bin/resultsearch_PF.pl?eid=9949&esortby=cert,9949
+CA: Davis,Davis Bike Club / 905014,RUSAP,100,2019/02/03,Sac River Ramble,/cgi-bin/routesearch_PF.pl?rtid=2385,2385,/cgi-bin/resultsearch_PF.pl?eid=10367&esortby=cert,10367
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/02/09,Rawhide Ramble,/cgi-bin/routesearch_PF.pl?rtid=1496,1496,/cgi-bin/resultsearch_PF.pl?eid=10482&esortby=cert,10482
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,300,2019/02/09,Joshua Tree to Vegas 300k,/cgi-bin/routesearch_PF.pl?rtid=1700,1700,/cgi-bin/resultsearch_PF.pl?eid=10426&esortby=cert,10426
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,101,2019/02/09,Scouting Combine 101,/cgi-bin/routesearch_PF.pl?rtid=388,388,/cgi-bin/resultsearch_PF.pl?eid=10081&esortby=cert,10081
+GA: Atlanta,Audax Atlanta / 910004,ACPB,300,2019/02/09,Monticello 300K,/cgi-bin/routesearch_PF.pl?rtid=2304,2304,/cgi-bin/resultsearch_PF.pl?eid=9797&esortby=cert,9797
+FL: Gainesville,Gainesville Cycling Club / 909005,ACPB,300,2019/02/09,route 221 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=221,221,/cgi-bin/resultsearch_PF.pl?eid=10223&esortby=cert,10223
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/02/09,Two Rock-Valley Ford 200,/cgi-bin/routesearch_PF.pl?rtid=809,809,/cgi-bin/resultsearch_PF.pl?eid=9979&esortby=cert,9979
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2019/02/09,Hillsboro-Dallas-Hillsboro,/cgi-bin/routesearch_PF.pl?rtid=996,996,/cgi-bin/resultsearch_PF.pl?eid=10460&esortby=cert,10460
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2019/02/09,Little Britain,/cgi-bin/routesearch_PF.pl?rtid=1884,1884,/cgi-bin/resultsearch_PF.pl?eid=10715&esortby=cert,10715
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2019/02/10,Lazy Lizard 200k,/cgi-bin/routesearch_PF.pl?rtid=1354,1354,/cgi-bin/resultsearch_PF.pl?eid=9936&esortby=cert,9936
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2019/02/16,Leiper's Fork 200K,/cgi-bin/routesearch_PF.pl?rtid=1528,1528,/cgi-bin/resultsearch_PF.pl?eid=10150&esortby=cert,10150
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,200,2019/02/16,West County,/cgi-bin/routesearch_PF.pl?rtid=2383,2383,/cgi-bin/resultsearch_PF.pl?eid=10065&esortby=cert,10065
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/02/16,Willow Park via Weatherford 200K,/cgi-bin/routesearch_PF.pl?rtid=1493,1493,/cgi-bin/resultsearch_PF.pl?eid=10083&esortby=cert,10083
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/02/16,Quicker Quickie to Granbury,/cgi-bin/routesearch_PF.pl?rtid=1642,1642,/cgi-bin/resultsearch_PF.pl?eid=10082&esortby=cert,10082
+AL: Birmingham,Montgomery Bicycle Club / 901005,ACPB,200,2019/02/16,Autauga 200K,/cgi-bin/routesearch_PF.pl?rtid=2268,2268,/cgi-bin/resultsearch_PF.pl?eid=9780&esortby=cert,9780
+FL: Southern,South Florida Randonneurs / 909014,ACPB,400,2019/02/16,Okeechobee BigCypress 400k,/cgi-bin/routesearch_PF.pl?rtid=2049,2049,/cgi-bin/resultsearch_PF.pl?eid=9864&esortby=cert,9864
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2019/02/16,Hill Street Blues 100k,/cgi-bin/routesearch_PF.pl?rtid=1756,1756,/cgi-bin/resultsearch_PF.pl?eid=9950&esortby=cert,9950
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,300,2019/02/16,route 372 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=372,372,/cgi-bin/resultsearch_PF.pl?eid=10151&esortby=cert,10151
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2019/02/16,Willow Park via Weatherford 300K,/cgi-bin/routesearch_PF.pl?rtid=1490,1490,/cgi-bin/resultsearch_PF.pl?eid=10084&esortby=cert,10084
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,200,2019/02/16,San Luis Obispo Coastal Cruise,/cgi-bin/routesearch_PF.pl?rtid=1133,1133,/cgi-bin/resultsearch_PF.pl?eid=10513&esortby=cert,10513
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,300,2019/02/17,Corona 300,/cgi-bin/routesearch_PF.pl?rtid=1007,1007,/cgi-bin/resultsearch_PF.pl?eid=9937&esortby=cert,9937
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,300,2019/02/17,San Luis Obispo 300K,/cgi-bin/routesearch_PF.pl?rtid=905,905,/cgi-bin/resultsearch_PF.pl?eid=10514&esortby=cert,10514
+TX: Houston,Houston Randonneurs / 943030,ACPB,400,2019/02/23,Brookshire-Columbus 400K,/cgi-bin/routesearch_PF.pl?rtid=1064,1064,/cgi-bin/resultsearch_PF.pl?eid=10018&esortby=cert,10018
+TX: Houston,Houston Randonneurs / 943030,ACPB,300,2019/02/23,2018 Brookshire Columbus 300K,/cgi-bin/routesearch_PF.pl?rtid=2193,2193,/cgi-bin/resultsearch_PF.pl?eid=10017&esortby=cert,10017
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,300,2019/02/23,Mueller Double Century,/cgi-bin/routesearch_PF.pl?rtid=1726,1726,/cgi-bin/resultsearch_PF.pl?eid=9822&esortby=cert,9822
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/02/23,Mt Hamilton 200k,/cgi-bin/routesearch_PF.pl?rtid=2051,2051,/cgi-bin/resultsearch_PF.pl?eid=9980&esortby=cert,9980
+KY: Louisville,Louisville Bicycle Club / 917002,ACPB,200,2019/02/23,Shelbyville - Georgetown 200K,/cgi-bin/routesearch_PF.pl?rtid=1350,1350,/cgi-bin/resultsearch_PF.pl?eid=10266&esortby=cert,10266
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2019/02/23,route 72 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=72,72,/cgi-bin/resultsearch_PF.pl?eid=10016&esortby=cert,10016
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,200,2019/02/23,Travelers Rest 200,/cgi-bin/routesearch_PF.pl?rtid=2342,2342,/cgi-bin/resultsearch_PF.pl?eid=10135&esortby=cert,10135
+LA: New Orleans,Crescent City Randonneurs / 918002,ACPB,200,2019/02/23,route 587 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=587,587,/cgi-bin/resultsearch_PF.pl?eid=10302&esortby=cert,10302
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/02/23,Silverbell 200K,/cgi-bin/routesearch_PF.pl?rtid=2339,2339,/cgi-bin/resultsearch_PF.pl?eid=10004&esortby=cert,10004
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/02/23,Circling Tucson,/cgi-bin/routesearch_PF.pl?rtid=1685,1685,/cgi-bin/resultsearch_PF.pl?eid=9925&esortby=cert,9925
+NC: High Point,Bicycle For Life Club / 933057,ACPB,400,2019/02/23,Lumberton - Roseboro - Surf City - Wallace 400k,/cgi-bin/routesearch_PF.pl?rtid=1475,1475,/cgi-bin/resultsearch_PF.pl?eid=10359&esortby=cert,10359
+NC: High Point,Bicycle For Life Club / 933057,ACPB,600,2019/02/23,Lumberton - Roseboro- Surf City - Maple Hill - Atlantic Beach - Wallace 600k,/cgi-bin/routesearch_PF.pl?rtid=1476,1476,/cgi-bin/resultsearch_PF.pl?eid=10360&esortby=cert,10360
+TX: West Texas,West Texas Randonneurs / 943003,ACPB,200,2019/02/23,Alley Oop 200K,/cgi-bin/routesearch_PF.pl?rtid=934,934,/cgi-bin/resultsearch_PF.pl?eid=10145&esortby=cert,10145
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,200,2019/02/24,200LR_3 Womens Rights Loop,/cgi-bin/routesearch_PF.pl?rtid=1082,1082,/cgi-bin/resultsearch_PF.pl?eid=10540&esortby=cert,10540
+OR: Eugene,South Willamette Randonneurs / 937003,RUSAP,100,2019/02/24,Brunch at Veneta,/cgi-bin/routesearch_PF.pl?rtid=2400,2400,/cgi-bin/resultsearch_PF.pl?eid=10401&esortby=cert,10401
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,400,2019/03/02,Around the Bend 400K,/cgi-bin/routesearch_PF.pl?rtid=2064,2064,/cgi-bin/resultsearch_PF.pl?eid=10262&esortby=cert,10262
+CA: Davis,Davis Bike Club / 905014,ACPB,200,2019/03/02,Davis - Pope Valley - Davis,/cgi-bin/routesearch_PF.pl?rtid=1200,1200,/cgi-bin/resultsearch_PF.pl?eid=10368&esortby=cert,10368
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,300,2019/03/02,People's Peachoid 300k,/cgi-bin/routesearch_PF.pl?rtid=2248,2248,/cgi-bin/resultsearch_PF.pl?eid=10136&esortby=cert,10136
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/02,Silverbell 200K,/cgi-bin/routesearch_PF.pl?rtid=2339,2339,/cgi-bin/resultsearch_PF.pl?eid=10005&esortby=cert,10005
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,300,2019/03/02,Five Rivers 300k,/cgi-bin/routesearch_PF.pl?rtid=1674,1674,/cgi-bin/resultsearch_PF.pl?eid=10427&esortby=cert,10427
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2019/03/02,route 369 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=369,369,/cgi-bin/resultsearch_PF.pl?eid=10153&esortby=cert,10153
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,200,2019/03/02,route 550 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=550,550,/cgi-bin/resultsearch_PF.pl?eid=9823&esortby=cert,9823
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAP,100,2019/03/02,route 370 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=370,370,/cgi-bin/resultsearch_PF.pl?eid=10152&esortby=cert,10152
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,400,2019/03/02,Come and Take It 400K,/cgi-bin/routesearch_PF.pl?rtid=598,598,/cgi-bin/resultsearch_PF.pl?eid=9824&esortby=cert,9824
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/02,Circling Tucson,/cgi-bin/routesearch_PF.pl?rtid=1685,1685,/cgi-bin/resultsearch_PF.pl?eid=9926&esortby=cert,9926
+OK: Norman,Oklahoma Randonneurs / 936006,ACPB,200,2019/03/02,Ghost Town 200,/cgi-bin/routesearch_PF.pl?rtid=1650,1650,/cgi-bin/resultsearch_PF.pl?eid=9967&esortby=cert,9967
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2019/03/02,Little White House 200k Brevet,/cgi-bin/routesearch_PF.pl?rtid=1167,1167,/cgi-bin/resultsearch_PF.pl?eid=9798&esortby=cert,9798
+OK: Norman,Oklahoma Randonneurs / 936006,ACPB,300,2019/03/03,Arbuckle 300,/cgi-bin/routesearch_PF.pl?rtid=1675,1675,/cgi-bin/resultsearch_PF.pl?eid=9968&esortby=cert,9968
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2019/03/03,SoDidoBonsOVista Populaire,/cgi-bin/routesearch_PF.pl?rtid=2055,2055,/cgi-bin/resultsearch_PF.pl?eid=9951&esortby=cert,9951
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,300,2019/03/09,Ocean Beach 300k,/cgi-bin/routesearch_PF.pl?rtid=2250,2250,/cgi-bin/resultsearch_PF.pl?eid=9939&esortby=cert,9939
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/09,Silverbell 200K,/cgi-bin/routesearch_PF.pl?rtid=2339,2339,/cgi-bin/resultsearch_PF.pl?eid=10006&esortby=cert,10006
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/09,Circling Tucson,/cgi-bin/routesearch_PF.pl?rtid=1685,1685,/cgi-bin/resultsearch_PF.pl?eid=9927&esortby=cert,9927
+MO: Kansas City,Audax Kansas City / 925005,ACPB,200,2019/03/09,Golden 200K,/cgi-bin/routesearch_PF.pl?rtid=681,681,/cgi-bin/resultsearch_PF.pl?eid=9844&esortby=cert,9844
+GA: Atlanta,Audax Atlanta / 910004,ACPB,400,2019/03/09,Athens-Augusta-Athens 400k,/cgi-bin/routesearch_PF.pl?rtid=1543,1543,/cgi-bin/resultsearch_PF.pl?eid=9799&esortby=cert,9799
+NC: High Point,Bicycle For Life Club / 933057,ACPB,1000,2019/03/09,Salisbury-Wilmington SB 1000k,/cgi-bin/routesearch_PF.pl?rtid=1532,1532,/cgi-bin/resultsearch_PF.pl?eid=10362&esortby=cert,10362
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2019/03/09,Fleas & Trees 406,/cgi-bin/routesearch_PF.pl?rtid=836,836,/cgi-bin/resultsearch_PF.pl?eid=10087&esortby=cert,10087
+FL: Gainesville,Gainesville Cycling Club / 909005,ACPB,400,2019/03/09,route 427 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=427,427,/cgi-bin/resultsearch_PF.pl?eid=10224&esortby=cert,10224
+OR: Portland,Oregon Randonneurs / 937020,ACPB,300,2019/03/09,Grab Bag 300,/cgi-bin/routesearch_PF.pl?rtid=498,498,/cgi-bin/resultsearch_PF.pl?eid=10462&esortby=cert,10462
+NC: High Point,Bicycle For Life Club / 933057,ACPB,600,2019/03/09,Salisbury - Garland 600k,/cgi-bin/routesearch_PF.pl?rtid=1531,1531,/cgi-bin/resultsearch_PF.pl?eid=10361&esortby=cert,10361
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,300,2019/03/09,Healdsburg 300,/cgi-bin/routesearch_PF.pl?rtid=214,214,/cgi-bin/resultsearch_PF.pl?eid=9981&esortby=cert,9981
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,100,2019/03/09,SIR Spring 2014 Populaire,/cgi-bin/routesearch_PF.pl?rtid=1539,1539,/cgi-bin/resultsearch_PF.pl?eid=10169&esortby=cert,10169
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/03/09,Fleas & Trees 201,/cgi-bin/routesearch_PF.pl?rtid=834,834,/cgi-bin/resultsearch_PF.pl?eid=10086&esortby=cert,10086
+OR: Eugene,South Willamette Randonneurs / 937003,ACPB,200,2019/03/09,Five Rivers,/cgi-bin/routesearch_PF.pl?rtid=2197,2197,/cgi-bin/resultsearch_PF.pl?eid=10402&esortby=cert,10402
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2019/03/09,Ocean Beach 200k,/cgi-bin/routesearch_PF.pl?rtid=2249,2249,/cgi-bin/resultsearch_PF.pl?eid=9938&esortby=cert,9938
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2019/03/09,Grab Bag 200,/cgi-bin/routesearch_PF.pl?rtid=499,499,/cgi-bin/resultsearch_PF.pl?eid=10461&esortby=cert,10461
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,325,2019/03/09,Fleas & Trees 325,/cgi-bin/routesearch_PF.pl?rtid=835,835,/cgi-bin/resultsearch_PF.pl?eid=10085&esortby=cert,10085
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/03/09,Pierce Point 200k,/cgi-bin/routesearch_PF.pl?rtid=1681,1681,/cgi-bin/resultsearch_PF.pl?eid=9982&esortby=cert,9982
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,400,2019/03/16,Believe it If You Need it,/cgi-bin/routesearch_PF.pl?rtid=2367,2367,/cgi-bin/resultsearch_PF.pl?eid=10137&esortby=cert,10137
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,300,2019/03/16,route 249 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=249,249,/cgi-bin/resultsearch_PF.pl?eid=10155&esortby=cert,10155
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,103,2019/03/16,Zion Natl Park 100,/cgi-bin/routesearch_PF.pl?rtid=1676,1676,/cgi-bin/resultsearch_PF.pl?eid=10721&esortby=cert,10721
+MO: Kansas City,Audax Kansas City / 925005,RUSAP,103,2019/03/16,Signal Oak Mixed Surface 103K (50/50 Gravel/Road),/cgi-bin/routesearch_PF.pl?rtid=2185,2185,/cgi-bin/resultsearch_PF.pl?eid=10708&esortby=cert,10708
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,200,2019/03/16,HBUH 200,/cgi-bin/routesearch_PF.pl?rtid=806,806,/cgi-bin/resultsearch_PF.pl?eid=10060&esortby=cert,10060
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2019/03/16,George Dickel Distillery 200k,/cgi-bin/routesearch_PF.pl?rtid=1219,1219,/cgi-bin/resultsearch_PF.pl?eid=10154&esortby=cert,10154
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,400,2019/03/16,Monterey Bay 400,/cgi-bin/routesearch_PF.pl?rtid=691,691,/cgi-bin/resultsearch_PF.pl?eid=10071&esortby=cert,10071
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/03/16,The Doctor's Daughter 100,/cgi-bin/routesearch_PF.pl?rtid=1491,1491,/cgi-bin/resultsearch_PF.pl?eid=10720&esortby=cert,10720
+LA: New Orleans,Crescent City Randonneurs / 918002,ACPB,300,2019/03/16,route 527 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=527,527,/cgi-bin/resultsearch_PF.pl?eid=10303&esortby=cert,10303
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,100,2019/03/16,Snoozeville/Verboort,/cgi-bin/routesearch_PF.pl?rtid=239,239,/cgi-bin/resultsearch_PF.pl?eid=10463&esortby=cert,10463
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,200,2019/03/16,El Granada 200k,/cgi-bin/routesearch_PF.pl?rtid=1386,1386,/cgi-bin/resultsearch_PF.pl?eid=10069&esortby=cert,10069
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,300,2019/03/16,Sky Londa 300K,/cgi-bin/routesearch_PF.pl?rtid=1928,1928,/cgi-bin/resultsearch_PF.pl?eid=10070&esortby=cert,10070
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2019/03/16,Seattle 2019 Spring 200K,/cgi-bin/routesearch_PF.pl?rtid=2395,2395,/cgi-bin/resultsearch_PF.pl?eid=10170&esortby=cert,10170
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2019/03/16,Zion Natl Park 200,/cgi-bin/routesearch_PF.pl?rtid=1673,1673,/cgi-bin/resultsearch_PF.pl?eid=10407&esortby=cert,10407
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/16,Circling Tucson,/cgi-bin/routesearch_PF.pl?rtid=1685,1685,/cgi-bin/resultsearch_PF.pl?eid=10003&esortby=cert,10003
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,300,2019/03/16,route 117 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=117,117,/cgi-bin/resultsearch_PF.pl?eid=10519&esortby=cert,10519
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2019/03/16,Reading Pagoda,/cgi-bin/routesearch_PF.pl?rtid=2373,2373,/cgi-bin/resultsearch_PF.pl?eid=10037&esortby=cert,10037
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/16,Silverbell 200K,/cgi-bin/routesearch_PF.pl?rtid=2339,2339,/cgi-bin/resultsearch_PF.pl?eid=10007&esortby=cert,10007
+FL: Southern,South Florida Randonneurs / 909014,ACPB,600,2019/03/16,Okeechobee-Polk-City-Cracker-Trail,/cgi-bin/routesearch_PF.pl?rtid=2194,2194,/cgi-bin/resultsearch_PF.pl?eid=9865&esortby=cert,9865
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,200,2019/03/16,route 116 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=116,116,/cgi-bin/resultsearch_PF.pl?eid=10518&esortby=cert,10518
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,273,2019/03/17,Dublin Dr Pepper,/cgi-bin/routesearch_PF.pl?rtid=2316,2316,/cgi-bin/resultsearch_PF.pl?eid=10088&esortby=cert,10088
+MA: Westfield,Northeast Sport Cyclists / 921033,RUSAP,100,2019/03/17,route 301 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=301,301,/cgi-bin/resultsearch_PF.pl?eid=10383&esortby=cert,10383
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAP,112,2019/03/17,Carter Lake - Paradise Valley Populaire,/cgi-bin/routesearch_PF.pl?rtid=727,727,/cgi-bin/resultsearch_PF.pl?eid=10483&esortby=cert,10483
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,600,2019/03/23,Orange County Borrego Springs 600Km,/cgi-bin/routesearch_PF.pl?rtid=1711,1711,/cgi-bin/resultsearch_PF.pl?eid=10428&esortby=cert,10428
+KY: Louisville,Louisville Bicycle Club / 917002,ACPB,300,2019/03/23,Shelbyville  North Middletown 300K,/cgi-bin/routesearch_PF.pl?rtid=1360,1360,/cgi-bin/resultsearch_PF.pl?eid=10267&esortby=cert,10267
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,400,2019/03/23,Mueller-Burnet-Cameron 400,/cgi-bin/routesearch_PF.pl?rtid=1741,1741,/cgi-bin/resultsearch_PF.pl?eid=9825&esortby=cert,9825
+MA: Boston,New England Randonneurs / 921005,RUSAP,100,2019/03/23,Sterling Populaire (NBS Start),/cgi-bin/routesearch_PF.pl?rtid=2199,2199,/cgi-bin/resultsearch_PF.pl?eid=10439&esortby=cert,10439
+MO: Kansas City,Audax Kansas City / 925005,RUSAP,149,2019/03/23,Meathead,/cgi-bin/routesearch_PF.pl?rtid=2047,2047,/cgi-bin/resultsearch_PF.pl?eid=10713&esortby=cert,10713
+MO: Kansas City,Audax Kansas City / 925005,ACPB,200,2019/03/23,The Archie Bunker,/cgi-bin/routesearch_PF.pl?rtid=1890,1890,/cgi-bin/resultsearch_PF.pl?eid=9845&esortby=cert,9845
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,200,2019/03/23,Suffolk-Drewryville 200,/cgi-bin/routesearch_PF.pl?rtid=1849,1849,/cgi-bin/resultsearch_PF.pl?eid=10051&esortby=cert,10051
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,300,2019/03/23,Hermiston-Pendleton-H-P-H,/cgi-bin/routesearch_PF.pl?rtid=1703,1703,/cgi-bin/resultsearch_PF.pl?eid=10056&esortby=cert,10056
+AL: Birmingham,Montgomery Bicycle Club / 901005,ACPB,300,2019/03/23,Springville 300k,/cgi-bin/routesearch_PF.pl?rtid=1389,1389,/cgi-bin/resultsearch_PF.pl?eid=9781&esortby=cert,9781
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,300,2019/03/23,route 117 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=117,117,/cgi-bin/resultsearch_PF.pl?eid=10521&esortby=cert,10521
+OH: Columbus,Ohio Randonneurs / 935012,ACPB,200,2019/03/23,Lancaster to Jackson,/cgi-bin/routesearch_PF.pl?rtid=2398,2398,/cgi-bin/resultsearch_PF.pl?eid=9725&esortby=cert,9725
+TX: Houston,Houston Randonneurs / 943030,ACPB,600,2019/03/23,McMahon 600k,/cgi-bin/routesearch_PF.pl?rtid=1194,1194,/cgi-bin/resultsearch_PF.pl?eid=10021&esortby=cert,10021
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/23,Silverbell 200K,/cgi-bin/routesearch_PF.pl?rtid=2339,2339,/cgi-bin/resultsearch_PF.pl?eid=10008&esortby=cert,10008
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/03/23,Kersey Kick,/cgi-bin/routesearch_PF.pl?rtid=538,538,/cgi-bin/resultsearch_PF.pl?eid=10484&esortby=cert,10484
+MD: Capital Region,DC Randonneurs / 946012,ACPB,200,2019/03/23,Pastries & Coffee Brevet,/cgi-bin/routesearch_PF.pl?rtid=1597,1597,/cgi-bin/resultsearch_PF.pl?eid=10287&esortby=cert,10287
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/23,Circling Tucson,/cgi-bin/routesearch_PF.pl?rtid=1685,1685,/cgi-bin/resultsearch_PF.pl?eid=9929&esortby=cert,9929
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2019/03/23,route 289 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=289,289,/cgi-bin/resultsearch_PF.pl?eid=10019&esortby=cert,10019
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,200,2019/03/23,route 116 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=116,116,/cgi-bin/resultsearch_PF.pl?eid=10520&esortby=cert,10520
+TX: Houston,Houston Randonneurs / 943030,ACPB,400,2019/03/23,McMahon 400k,/cgi-bin/routesearch_PF.pl?rtid=1193,1193,/cgi-bin/resultsearch_PF.pl?eid=10020&esortby=cert,10020
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2019/03/23,Orange County Borrego Springs 400Km,/cgi-bin/routesearch_PF.pl?rtid=2042,2042,/cgi-bin/resultsearch_PF.pl?eid=10429&esortby=cert,10429
+NY: Long Island,Long Island Randonneurs / 932005,RUSAP,120,2019/03/23,Jones Beach Populaire,/cgi-bin/routesearch_PF.pl?rtid=1779,1779,/cgi-bin/resultsearch_PF.pl?eid=10364&esortby=cert,10364
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,109,2019/03/23,Sleepy Hollow Populaire,/cgi-bin/routesearch_PF.pl?rtid=2403,2403,/cgi-bin/resultsearch_PF.pl?eid=10619&esortby=cert,10619
+MA: Westfield,Northeast Sport Cyclists / 921033,ACPB,200,2019/03/24,route 6 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=6,6,/cgi-bin/resultsearch_PF.pl?eid=10384&esortby=cert,10384
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,400,2019/03/29,Border to Temescal Canyon,/cgi-bin/routesearch_PF.pl?rtid=2390,2390,/cgi-bin/resultsearch_PF.pl?eid=9940&esortby=cert,9940
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2019/03/30,OK is OK 309,/cgi-bin/routesearch_PF.pl?rtid=614,614,/cgi-bin/resultsearch_PF.pl?eid=10090&esortby=cert,10090
+LA: New Orleans,Crescent City Randonneurs / 918002,ACPB,400,2019/03/30,400K Along Da River,/cgi-bin/routesearch_PF.pl?rtid=851,851,/cgi-bin/resultsearch_PF.pl?eid=10304&esortby=cert,10304
+OR: Portland,Oregon Randonneurs / 937020,ACPB,300,2019/03/30,Olney-Gothic Logger,/cgi-bin/routesearch_PF.pl?rtid=1238,1238,/cgi-bin/resultsearch_PF.pl?eid=10464&esortby=cert,10464
+GA: Atlanta,Audax Atlanta / 910004,ACPB,600,2019/03/30,Sweet Onion Six,/cgi-bin/routesearch_PF.pl?rtid=1371,1371,/cgi-bin/resultsearch_PF.pl?eid=9800&esortby=cert,9800
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/30,Silverbell 200K,/cgi-bin/routesearch_PF.pl?rtid=2339,2339,/cgi-bin/resultsearch_PF.pl?eid=9930&esortby=cert,9930
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,300,2019/03/30,route 117 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=117,117,/cgi-bin/resultsearch_PF.pl?eid=10523&esortby=cert,10523
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2019/03/30,Narragansett Bridges & Bays 200k,/cgi-bin/routesearch_PF.pl?rtid=2190,2190,/cgi-bin/resultsearch_PF.pl?eid=10440&esortby=cert,10440
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,200,2019/03/30,Nebraska City - DuBois 200K,/cgi-bin/routesearch_PF.pl?rtid=1718,1718,/cgi-bin/resultsearch_PF.pl?eid=9835&esortby=cert,9835
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,RUSAP,118,2019/03/30,Nebraska City  Tecumseh 118 km,/cgi-bin/routesearch_PF.pl?rtid=2036,2036,/cgi-bin/resultsearch_PF.pl?eid=10718&esortby=cert,10718
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,300,2019/03/30,2018 Camano Island 300K,/cgi-bin/routesearch_PF.pl?rtid=2211,2211,/cgi-bin/resultsearch_PF.pl?eid=10171&esortby=cert,10171
+OR: Eugene,South Willamette Randonneurs / 937003,ACPB,200,2019/03/30,Cottage Grove - Umpqua Loop,/cgi-bin/routesearch_PF.pl?rtid=2414,2414,/cgi-bin/resultsearch_PF.pl?eid=10403&esortby=cert,10403
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,200,2019/03/30,route 116 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=116,116,/cgi-bin/resultsearch_PF.pl?eid=10522&esortby=cert,10522
+AZ: Tucson,PAC Tour / 949005,ACPB,200,2019/03/30,Circling Tucson,/cgi-bin/routesearch_PF.pl?rtid=1685,1685,/cgi-bin/resultsearch_PF.pl?eid=10009&esortby=cert,10009
+VA: Northern,Fredericksburg Cyclists Club / 946018,ACPB,200,2019/03/30,Northern Neck 200k,/cgi-bin/routesearch_PF.pl?rtid=2349,2349,/cgi-bin/resultsearch_PF.pl?eid=9734&esortby=cert,9734
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,300,2019/03/30,Hawks Nest,/cgi-bin/routesearch_PF.pl?rtid=2374,2374,/cgi-bin/resultsearch_PF.pl?eid=10038&esortby=cert,10038
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,400,2019/03/30,route 484 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=484,484,/cgi-bin/resultsearch_PF.pl?eid=10157&esortby=cert,10157
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,600,2019/03/30,So Many Roads,/cgi-bin/routesearch_PF.pl?rtid=2368,2368,/cgi-bin/resultsearch_PF.pl?eid=10138&esortby=cert,10138
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2019/03/30,Manchester 200K,/cgi-bin/routesearch_PF.pl?rtid=2015,2015,/cgi-bin/resultsearch_PF.pl?eid=10156&esortby=cert,10156
+MO: Kansas City,Audax Kansas City / 925005,ACPB,300,2019/03/30,Miller-Jasper-Joplin 300 K,/cgi-bin/routesearch_PF.pl?rtid=682,682,/cgi-bin/resultsearch_PF.pl?eid=9846&esortby=cert,9846
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2019/03/30,Greeenville Kickapoo Joy Juice 400k,/cgi-bin/routesearch_PF.pl?rtid=2393,2393,/cgi-bin/resultsearch_PF.pl?eid=10091&esortby=cert,10091
+FL: Central,Central Florida Randonneurs / 909062,ACPB,400,2019/03/30,Dunnellon - Branford - Citra 400K,/cgi-bin/routesearch_PF.pl?rtid=2413,2413,/cgi-bin/resultsearch_PF.pl?eid=10561&esortby=cert,10561
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,600,2019/03/30,Patagonia 600k,/cgi-bin/routesearch_PF.pl?rtid=2362,2362,/cgi-bin/resultsearch_PF.pl?eid=10263&esortby=cert,10263
+CA: Davis,Davis Bike Club / 905014,ACPB,300,2019/03/30,Davis - Pope Valley - Cobb Mountain - Davis,/cgi-bin/routesearch_PF.pl?rtid=1204,1204,/cgi-bin/resultsearch_PF.pl?eid=10369&esortby=cert,10369
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,217,2019/03/30,OK is OK 217,/cgi-bin/routesearch_PF.pl?rtid=613,613,/cgi-bin/resultsearch_PF.pl?eid=10089&esortby=cert,10089
+NY: Saratoga,Upstate NY Brevet Series / 932034,ACPB,200,2019/03/31,Schroon Lake 200k,/cgi-bin/routesearch_PF.pl?rtid=1061,1061,/cgi-bin/resultsearch_PF.pl?eid=10226&esortby=cert,10226
+NY: Central/Western,Rochester Bicycling Club / 932030,ACPB,200,2019/03/31,200LR_3 Womens Rights Loop,/cgi-bin/routesearch_PF.pl?rtid=1082,1082,/cgi-bin/resultsearch_PF.pl?eid=10541&esortby=cert,10541
+AZ: Tucson,PAC Tour / 949005,ACPB,300,2019/03/31,Pac Tour 300k,/cgi-bin/routesearch_PF.pl?rtid=1687,1687,/cgi-bin/resultsearch_PF.pl?eid=9931&esortby=cert,9931
+AZ: Tucson,PAC Tour / 949005,ACPB,400,2019/04/02,Pac Tour 400k,/cgi-bin/routesearch_PF.pl?rtid=1699,1699,/cgi-bin/resultsearch_PF.pl?eid=9932&esortby=cert,9932
+AZ: Tucson,PAC Tour / 949005,ACPB,600,2019/04/05,Pac Tour 600k,/cgi-bin/routesearch_PF.pl?rtid=1712,1712,/cgi-bin/resultsearch_PF.pl?eid=9933&esortby=cert,9933
+CA: Humboldt,Humboldt Randonneurs / 905176,ACPB,1000,2019/04/05,Gamblers' 1000,/cgi-bin/routesearch_PF.pl?rtid=2363,2363,/cgi-bin/resultsearch_PF.pl?eid=10509&esortby=cert,10509
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,200,2019/04/06,route 363 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=363,363,/cgi-bin/resultsearch_PF.pl?eid=10196&esortby=cert,10196
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,200,2019/04/06,route 116 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=116,116,/cgi-bin/resultsearch_PF.pl?eid=10524&esortby=cert,10524
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2019/04/06,"Wachusett, Oakham, and Purgatory",/cgi-bin/routesearch_PF.pl?rtid=2229,2229,/cgi-bin/resultsearch_PF.pl?eid=10441&esortby=cert,10441
+MO: Kansas City,Audax Kansas City / 925005,ACPB,300,2019/04/06,Oak Grove - Fayette 300K,/cgi-bin/routesearch_PF.pl?rtid=821,821,/cgi-bin/resultsearch_PF.pl?eid=9847&esortby=cert,9847
+MO: Kansas City,Audax Kansas City / 925005,RUSAP,126,2019/04/06,Alma 126K,/cgi-bin/routesearch_PF.pl?rtid=2378,2378,/cgi-bin/resultsearch_PF.pl?eid=10714&esortby=cert,10714
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,300,2019/04/06,Olympia - Westport 300K,/cgi-bin/routesearch_PF.pl?rtid=2412,2412,/cgi-bin/resultsearch_PF.pl?eid=10172&esortby=cert,10172
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,100,2019/04/06,Eleven City Loop,/cgi-bin/routesearch_PF.pl?rtid=2097,2097,/cgi-bin/resultsearch_PF.pl?eid=9952&esortby=cert,9952
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,135,2019/04/06,Granbury Lollipop,/cgi-bin/routesearch_PF.pl?rtid=2410,2410,/cgi-bin/resultsearch_PF.pl?eid=10725&esortby=cert,10725
+FL: Gainesville,Gainesville Cycling Club / 909005,ACPB,600,2019/04/06,route 447 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=447,447,/cgi-bin/resultsearch_PF.pl?eid=10225&esortby=cert,10225
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,300,2019/04/06,Suffolk-Jarret 300K,/cgi-bin/routesearch_PF.pl?rtid=2017,2017,/cgi-bin/resultsearch_PF.pl?eid=10052&esortby=cert,10052
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,200,2019/04/06,Basin's Edge,/cgi-bin/routesearch_PF.pl?rtid=2239,2239,/cgi-bin/resultsearch_PF.pl?eid=10057&esortby=cert,10057
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,600,2019/04/06,Old Dime Box 600K,/cgi-bin/routesearch_PF.pl?rtid=1887,1887,/cgi-bin/resultsearch_PF.pl?eid=9826&esortby=cert,9826
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2019/04/06,Rochester - Wanamingo 100k,/cgi-bin/routesearch_PF.pl?rtid=2408,2408,/cgi-bin/resultsearch_PF.pl?eid=10307&esortby=cert,10307
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,600,2019/04/06,route 118 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=118,118,/cgi-bin/resultsearch_PF.pl?eid=10527&esortby=cert,10527
+MD: Capital Region,DC Randonneurs / 946012,ACPB,200,2019/04/06,Nokesville Nomad,/cgi-bin/routesearch_PF.pl?rtid=1886,1886,/cgi-bin/resultsearch_PF.pl?eid=10288&esortby=cert,10288
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,200,2019/04/06,route 227 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=227,227,/cgi-bin/resultsearch_PF.pl?eid=9969&esortby=cert,9969
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,600,2019/04/06,Triple Loop 600k,/cgi-bin/routesearch_PF.pl?rtid=2377,2377,/cgi-bin/resultsearch_PF.pl?eid=10432&esortby=cert,10432
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,400,2019/04/06,route 21 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=21,21,/cgi-bin/resultsearch_PF.pl?eid=10526&esortby=cert,10526
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2019/04/06,2019 Triple Loop 400k,/cgi-bin/routesearch_PF.pl?rtid=2361,2361,/cgi-bin/resultsearch_PF.pl?eid=10431&esortby=cert,10431
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,300,2019/04/06,route 117 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=117,117,/cgi-bin/resultsearch_PF.pl?eid=10525&esortby=cert,10525
+MI: Detroit,Detroit Randonneurs / 922015,RUSAP,116,2019/04/06,Northeast Populaire,/cgi-bin/routesearch_PF.pl?rtid=1731,1731,/cgi-bin/resultsearch_PF.pl?eid=9893&esortby=cert,9893
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2019/04/06,Birkie,/cgi-bin/routesearch_PF.pl?rtid=268,268,/cgi-bin/resultsearch_PF.pl?eid=10465&esortby=cert,10465
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,300,2019/04/06,YOLO,/cgi-bin/routesearch_PF.pl?rtid=2407,2407,/cgi-bin/resultsearch_PF.pl?eid=10061&esortby=cert,10061
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,200,2019/04/06,Orange 200K,/cgi-bin/routesearch_PF.pl?rtid=2043,2043,/cgi-bin/resultsearch_PF.pl?eid=10430&esortby=cert,10430
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2019/04/07,Olympia-Tono 200K,/cgi-bin/routesearch_PF.pl?rtid=2415,2415,/cgi-bin/resultsearch_PF.pl?eid=10173&esortby=cert,10173
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAP,121,2019/04/07,Horsetooth,/cgi-bin/routesearch_PF.pl?rtid=172,172,/cgi-bin/resultsearch_PF.pl?eid=10485&esortby=cert,10485
+FL: Central,Central Florida Randonneurs / 909062,ACPB,200,2019/04/08,Tavares-Polk City-Tavares,/cgi-bin/routesearch_PF.pl?rtid=1879,1879,/cgi-bin/resultsearch_PF.pl?eid=10566&esortby=cert,10566
+FL: Central,Central Florida Randonneurs / 909062,ACPB,300,2019/04/09,Eustis-Flagler Beach 300K,/cgi-bin/routesearch_PF.pl?rtid=1590,1590,/cgi-bin/resultsearch_PF.pl?eid=10567&esortby=cert,10567
+FL: Central,Central Florida Randonneurs / 909062,ACPB,400,2019/04/11,Eustis-Gainesville 400K,/cgi-bin/routesearch_PF.pl?rtid=1595,1595,/cgi-bin/resultsearch_PF.pl?eid=10568&esortby=cert,10568
+WA: Seattle,Seattle International Randonneurs / 947018,ACPR,200,2019/04/12,?,,,/cgi-bin/resultsearch_PF.pl?eid=13488&esortby=cert,13488
+CA: San Diego,San Diego Randonneurs / 905140,ACPF,360,2019/04/12,route TBD (unnamed),/cgi-bin/routesearch_PF.pl?rtid=TBD,TBD,/cgi-bin/resultsearch_PF.pl?eid=9941&esortby=cert,9941
+WA: Seattle,Seattle International Randonneurs / 947018,ACPF,360,2019/04/12,route TBD (unnamed),/cgi-bin/routesearch_PF.pl?rtid=TBD,TBD,/cgi-bin/resultsearch_PF.pl?eid=10174&esortby=cert,10174
+FL: Southern,South Florida Randonneurs / 909014,ACPF,360,2019/04/12,?,,,/cgi-bin/resultsearch_PF.pl?eid=9976&esortby=cert,9976
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/04/13,Eldridge North 200K,/cgi-bin/routesearch_PF.pl?rtid=1906,1906,/cgi-bin/resultsearch_PF.pl?eid=10572&esortby=cert,10572
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2019/04/13,Goatneck China Valley,/cgi-bin/routesearch_PF.pl?rtid=1929,1929,/cgi-bin/resultsearch_PF.pl?eid=10095&esortby=cert,10095
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,200,2019/04/13,200LR_3 Womens Rights Loop,/cgi-bin/routesearch_PF.pl?rtid=1082,1082,/cgi-bin/resultsearch_PF.pl?eid=10542&esortby=cert,10542
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,300,2019/04/13,route 117 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=117,117,/cgi-bin/resultsearch_PF.pl?eid=10529&esortby=cert,10529
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,600,2019/04/13,route 671 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=671,671,/cgi-bin/resultsearch_PF.pl?eid=10161&esortby=cert,10161
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,400,2019/04/13,Hopland 400,/cgi-bin/routesearch_PF.pl?rtid=441,441,/cgi-bin/resultsearch_PF.pl?eid=9983&esortby=cert,9983
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,400,2019/04/13,route 21 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=21,21,/cgi-bin/resultsearch_PF.pl?eid=10530&esortby=cert,10530
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,RUSAP,118,2019/04/13,Nebraska City  Tecumseh 118 km,/cgi-bin/routesearch_PF.pl?rtid=2036,2036,/cgi-bin/resultsearch_PF.pl?eid=10719&esortby=cert,10719
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,300,2019/04/13,Natchez Trace 300k,/cgi-bin/routesearch_PF.pl?rtid=992,992,/cgi-bin/resultsearch_PF.pl?eid=10159&esortby=cert,10159
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2019/04/13,Cleburne Goatneck 400K - Godley Ending,/cgi-bin/routesearch_PF.pl?rtid=2209,2209,/cgi-bin/resultsearch_PF.pl?eid=10094&esortby=cert,10094
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2019/04/13,Mini Twin Cities Tour - Flood Version,/cgi-bin/routesearch_PF.pl?rtid=2418,2418,/cgi-bin/resultsearch_PF.pl?eid=10308&esortby=cert,10308
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,200,2019/04/13,route 116 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=116,116,/cgi-bin/resultsearch_PF.pl?eid=10528&esortby=cert,10528
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,400,2019/04/13,Natchez Trace 400k,/cgi-bin/routesearch_PF.pl?rtid=993,993,/cgi-bin/resultsearch_PF.pl?eid=10160&esortby=cert,10160
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/04/13,On a Lark 200k,/cgi-bin/routesearch_PF.pl?rtid=1932,1932,/cgi-bin/resultsearch_PF.pl?eid=10486&esortby=cert,10486
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,300,2019/04/13,route 28 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=28,28,/cgi-bin/resultsearch_PF.pl?eid=10385&esortby=cert,10385
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,400,2019/04/13,New Blue Redeux,/cgi-bin/routesearch_PF.pl?rtid=2375,2375,/cgi-bin/resultsearch_PF.pl?eid=10039&esortby=cert,10039
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2019/04/13,Natchez Trace 200k,/cgi-bin/routesearch_PF.pl?rtid=991,991,/cgi-bin/resultsearch_PF.pl?eid=10158&esortby=cert,10158
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/04/13,Goat Neck 206,/cgi-bin/routesearch_PF.pl?rtid=125,125,/cgi-bin/resultsearch_PF.pl?eid=10093&esortby=cert,10093
+IA: Central,Iowa Randonneurs / 915005,ACPB,200,2019/04/13,Triple Dip 200k,/cgi-bin/routesearch_PF.pl?rtid=1168,1168,/cgi-bin/resultsearch_PF.pl?eid=10343&esortby=cert,10343
+GA: Atlanta,Audax Atlanta / 910004,ACPB,400,2019/04/13,Dublin 400k,/cgi-bin/routesearch_PF.pl?rtid=1345,1345,/cgi-bin/resultsearch_PF.pl?eid=9801&esortby=cert,9801
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,300,2019/04/13,Nebraska City - Crete 300 K,/cgi-bin/routesearch_PF.pl?rtid=1717,1717,/cgi-bin/resultsearch_PF.pl?eid=9836&esortby=cert,9836
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,200,2019/04/13,North Park 200,/cgi-bin/routesearch_PF.pl?rtid=799,799,/cgi-bin/resultsearch_PF.pl?eid=10276&esortby=cert,10276
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,317,2019/04/13,Goat Neck 308,/cgi-bin/routesearch_PF.pl?rtid=131,131,/cgi-bin/resultsearch_PF.pl?eid=10092&esortby=cert,10092
+IA: Central,Iowa Randonneurs / 915005,RUSAP,110,2019/04/13,Polk City Populaire,/cgi-bin/routesearch_PF.pl?rtid=1261,1261,/cgi-bin/resultsearch_PF.pl?eid=10342&esortby=cert,10342
+FL: Central,Central Florida Randonneurs / 909062,ACPB,600,2019/04/13,Eustis-Seville Loop,/cgi-bin/routesearch_PF.pl?rtid=1579,1579,/cgi-bin/resultsearch_PF.pl?eid=10562&esortby=cert,10562
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2019/04/13,Eldridge North 300k,/cgi-bin/routesearch_PF.pl?rtid=1924,1924,/cgi-bin/resultsearch_PF.pl?eid=10573&esortby=cert,10573
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,200,2019/04/13,Indianapolis Story Indianapolis,/cgi-bin/routesearch_PF.pl?rtid=1576,1576,/cgi-bin/resultsearch_PF.pl?eid=10603&esortby=cert,10603
+MO: Kansas City,Audax Kansas City / 925005,RUSAB,201,2019/04/13,Olathe to Mound City Gravel Run 201K,/cgi-bin/routesearch_PF.pl?rtid=1893,1893,/cgi-bin/resultsearch_PF.pl?eid=10709&esortby=cert,10709
+LA: New Orleans,Crescent City Randonneurs / 918002,ACPB,600,2019/04/13,"Up, Down and All Around the Mighty",/cgi-bin/routesearch_PF.pl?rtid=908,908,/cgi-bin/resultsearch_PF.pl?eid=10305&esortby=cert,10305
+VA: Northern,Fredericksburg Cyclists Club / 946018,ACPB,300,2019/04/13,West Augusta 300,/cgi-bin/routesearch_PF.pl?rtid=2419,2419,/cgi-bin/resultsearch_PF.pl?eid=9735&esortby=cert,9735
+MO: Kansas City,Audax Kansas City / 925005,RUSAP,130,2019/04/13,Olathe to LaCygne Gravel Run 130K,/cgi-bin/routesearch_PF.pl?rtid=1891,1891,/cgi-bin/resultsearch_PF.pl?eid=10710&esortby=cert,10710
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,600,2019/04/13,route 118 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=118,118,/cgi-bin/resultsearch_PF.pl?eid=10531&esortby=cert,10531
+OH: Columbus,Ohio Randonneurs / 935012,ACPB,300,2019/04/13,Canal - Chilli-Logan,/cgi-bin/routesearch_PF.pl?rtid=1736,1736,/cgi-bin/resultsearch_PF.pl?eid=9726&esortby=cert,9726
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/04/14,Laguna Lake,/cgi-bin/routesearch_PF.pl?rtid=2416,2416,/cgi-bin/resultsearch_PF.pl?eid=9984&esortby=cert,9984
+CA: Davis,Davis Bike Club / 905014,ACPF,360,2019/04/19,?,,,/cgi-bin/resultsearch_PF.pl?eid=10370&esortby=cert,10370
+FL: Central,Central Florida Randonneurs / 909062,ACPF,360,2019/04/19,?,,,/cgi-bin/resultsearch_PF.pl?eid=10557&esortby=cert,10557
+MO: Kansas City,Audax Kansas City / 925005,ACPF,360,2019/04/19,route TBD (unnamed),/cgi-bin/routesearch_PF.pl?rtid=TBD,TBD,/cgi-bin/resultsearch_PF.pl?eid=9848&esortby=cert,9848
+TX: Houston,Houston Randonneurs / 943030,ACPF,360,2019/04/19,McMahon 600k,/cgi-bin/routesearch_PF.pl?rtid=1194,1194,/cgi-bin/resultsearch_PF.pl?eid=10022&esortby=cert,10022
+NC: Asheville,Asheville International Randonneurs / 933011,ACPF,360,2019/04/19,route TBD (unnamed),/cgi-bin/routesearch_PF.pl?rtid=TBD,TBD,/cgi-bin/resultsearch_PF.pl?eid=10139&esortby=cert,10139
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,300,2019/04/20,Sky Londa 300K,/cgi-bin/routesearch_PF.pl?rtid=1928,1928,/cgi-bin/resultsearch_PF.pl?eid=10072&esortby=cert,10072
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,125,2019/04/20,Escape to Wisconsin 2022,/cgi-bin/routesearch_PF.pl?rtid=1565,1565,/cgi-bin/resultsearch_PF.pl?eid=10309&esortby=cert,10309
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/04/20,Stove Prairie Counterclockwise,/cgi-bin/routesearch_PF.pl?rtid=177,177,/cgi-bin/resultsearch_PF.pl?eid=10487&esortby=cert,10487
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,400,2019/04/20,Suffolk 400k,/cgi-bin/routesearch_PF.pl?rtid=1467,1467,/cgi-bin/resultsearch_PF.pl?eid=10053&esortby=cert,10053
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,400,2019/04/20,DRR Northern Explorer,/cgi-bin/routesearch_PF.pl?rtid=2417,2417,/cgi-bin/resultsearch_PF.pl?eid=10058&esortby=cert,10058
+MD: Capital Region,DC Randonneurs / 946012,ACPB,300,2019/04/20,Ye Olde Frederick 300,/cgi-bin/routesearch_PF.pl?rtid=630,630,/cgi-bin/resultsearch_PF.pl?eid=10289&esortby=cert,10289
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2019/04/20,Orange County IE 2012 400K,/cgi-bin/routesearch_PF.pl?rtid=1216,1216,/cgi-bin/resultsearch_PF.pl?eid=10433&esortby=cert,10433
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2019/04/20,200k West,/cgi-bin/routesearch_PF.pl?rtid=1423,1423,/cgi-bin/resultsearch_PF.pl?eid=9909&esortby=cert,9909
+CA: Humboldt,Humboldt Randonneurs / 905176,ACPB,200,2019/04/20,Humboldt Bay 200k,/cgi-bin/routesearch_PF.pl?rtid=2260,2260,/cgi-bin/resultsearch_PF.pl?eid=10254&esortby=cert,10254
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2019/04/20,Willard Bay and Beyond,/cgi-bin/routesearch_PF.pl?rtid=1011,1011,/cgi-bin/resultsearch_PF.pl?eid=10408&esortby=cert,10408
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,600,2019/04/20,Surf City 600 II,/cgi-bin/routesearch_PF.pl?rtid=744,744,/cgi-bin/resultsearch_PF.pl?eid=10074&esortby=cert,10074
+OR: Portland,Oregon Randonneurs / 937020,ACPB,300,2019/04/20,Three Capes Classic,/cgi-bin/routesearch_PF.pl?rtid=1909,1909,/cgi-bin/resultsearch_PF.pl?eid=10466&esortby=cert,10466
+NY: Long Island,Long Island Randonneurs / 932005,ACPB,200,2019/04/20,Ronkonkoma 200k,/cgi-bin/routesearch_PF.pl?rtid=1405,1405,/cgi-bin/resultsearch_PF.pl?eid=10365&esortby=cert,10365
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,400,2019/04/20,Monterey Bay 400,/cgi-bin/routesearch_PF.pl?rtid=691,691,/cgi-bin/resultsearch_PF.pl?eid=10073&esortby=cert,10073
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,104,2019/04/20,Willard Bay Populaire,/cgi-bin/routesearch_PF.pl?rtid=1400,1400,/cgi-bin/resultsearch_PF.pl?eid=10722&esortby=cert,10722
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2019/04/20,Evanston Bull Valley 200k,/cgi-bin/routesearch_PF.pl?rtid=2394,2394,/cgi-bin/resultsearch_PF.pl?eid=10204&esortby=cert,10204
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,200,2019/04/20,route 40 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=40,40,/cgi-bin/resultsearch_PF.pl?eid=10543&esortby=cert,10543
+MA: Boston,New England Randonneurs / 921005,RUSAP,100,2019/04/20,Piedmont Populaire,/cgi-bin/routesearch_PF.pl?rtid=1738,1738,/cgi-bin/resultsearch_PF.pl?eid=10442&esortby=cert,10442
+KY: Louisville,Louisville Bicycle Club / 917002,ACPB,400,2019/04/20,Shelbyville Clay City 400K,/cgi-bin/routesearch_PF.pl?rtid=1368,1368,/cgi-bin/resultsearch_PF.pl?eid=10268&esortby=cert,10268
+MD: Capital Region,DC Randonneurs / 946012,ACPF,360,2019/04/26,route TBD (unnamed),/cgi-bin/routesearch_PF.pl?rtid=TBD,TBD,/cgi-bin/resultsearch_PF.pl?eid=10297&esortby=cert,10297
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,600,2019/04/27,California Bight 600k,/cgi-bin/routesearch_PF.pl?rtid=2389,2389,/cgi-bin/resultsearch_PF.pl?eid=10435&esortby=cert,10435
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,300,2019/04/27,route 228 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=228,228,/cgi-bin/resultsearch_PF.pl?eid=9970&esortby=cert,9970
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,200,2019/04/27,Bitterroot 200K,/cgi-bin/routesearch_PF.pl?rtid=2213,2213,/cgi-bin/resultsearch_PF.pl?eid=10279&esortby=cert,10279
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,400,2019/04/27,Border to Temescal Canyon,/cgi-bin/routesearch_PF.pl?rtid=2390,2390,/cgi-bin/resultsearch_PF.pl?eid=9942&esortby=cert,9942
+IA: Central,Iowa Randonneurs / 915005,ACPB,200,2019/04/27,Brushy Trestle (Ames start),/cgi-bin/routesearch_PF.pl?rtid=1919,1919,/cgi-bin/resultsearch_PF.pl?eid=10345&esortby=cert,10345
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,200,2019/04/27,route 27 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=27,27,/cgi-bin/resultsearch_PF.pl?eid=10386&esortby=cert,10386
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/04/27,route 95 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=95,95,/cgi-bin/resultsearch_PF.pl?eid=10310&esortby=cert,10310
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,600,2019/04/27,route 118 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=118,118,/cgi-bin/resultsearch_PF.pl?eid=10535&esortby=cert,10535
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2019/04/27,California Bight 400k,/cgi-bin/routesearch_PF.pl?rtid=2388,2388,/cgi-bin/resultsearch_PF.pl?eid=10434&esortby=cert,10434
+IA: Central,Iowa Randonneurs / 915005,RUSAP,110,2019/04/27,Pufferbilly Populaire (Ames Start),/cgi-bin/routesearch_PF.pl?rtid=1916,1916,/cgi-bin/resultsearch_PF.pl?eid=10344&esortby=cert,10344
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,600,2019/04/27,Border to Glendora 600,/cgi-bin/routesearch_PF.pl?rtid=2404,2404,/cgi-bin/resultsearch_PF.pl?eid=9943&esortby=cert,9943
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,400,2019/04/27,route 21 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=21,21,/cgi-bin/resultsearch_PF.pl?eid=10534&esortby=cert,10534
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2019/04/27,Fennimore 300K,/cgi-bin/routesearch_PF.pl?rtid=1662,1662,/cgi-bin/resultsearch_PF.pl?eid=10231&esortby=cert,10231
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,111,2019/04/27,Quickie to Granbury,/cgi-bin/routesearch_PF.pl?rtid=1643,1643,/cgi-bin/resultsearch_PF.pl?eid=10729&esortby=cert,10729
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,600,2019/04/27,"Oak Grove, KY 600k",/cgi-bin/routesearch_PF.pl?rtid=1545,1545,/cgi-bin/resultsearch_PF.pl?eid=10164&esortby=cert,10164
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,600,2019/04/27,Pinnacles Traveler 600k,/cgi-bin/routesearch_PF.pl?rtid=1715,1715,/cgi-bin/resultsearch_PF.pl?eid=10515&esortby=cert,10515
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,300,2019/04/27,route 117 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=117,117,/cgi-bin/resultsearch_PF.pl?eid=10533&esortby=cert,10533
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2019/04/27,Fennimore Frolic,/cgi-bin/routesearch_PF.pl?rtid=1732,1732,/cgi-bin/resultsearch_PF.pl?eid=10230&esortby=cert,10230
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,300,2019/04/27,John's Waterfall 300,/cgi-bin/routesearch_PF.pl?rtid=1589,1589,/cgi-bin/resultsearch_PF.pl?eid=10544&esortby=cert,10544
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,400,2019/04/27,"Oak Grove, KY 400k",/cgi-bin/routesearch_PF.pl?rtid=1546,1546,/cgi-bin/resultsearch_PF.pl?eid=10163&esortby=cert,10163
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,400,2019/04/27,route 307 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=307,307,/cgi-bin/resultsearch_PF.pl?eid=10062&esortby=cert,10062
+TX: Austin,Hill Country Randonneurs / 943025,ACPB,1000,2019/04/27,1000K Burnet-New Braunfels-Burton,/cgi-bin/routesearch_PF.pl?rtid=2230,2230,/cgi-bin/resultsearch_PF.pl?eid=9827&esortby=cert,9827
+MO: Kansas City,Audax Kansas City / 925005,ACPB,400,2019/04/27,Grain Valley - Cole Camp Lolly 410K,/cgi-bin/routesearch_PF.pl?rtid=2095,2095,/cgi-bin/resultsearch_PF.pl?eid=9849&esortby=cert,9849
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,200,2019/04/27,route 116 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=116,116,/cgi-bin/resultsearch_PF.pl?eid=10532&esortby=cert,10532
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,200,2019/04/27,route 506 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=506,506,/cgi-bin/resultsearch_PF.pl?eid=10197&esortby=cert,10197
+IA: Central,Iowa Randonneurs / 915005,ACPB,300,2019/04/27,Brushy Raccoon 300k,/cgi-bin/routesearch_PF.pl?rtid=1923,1923,/cgi-bin/resultsearch_PF.pl?eid=10346&esortby=cert,10346
+TN: Nashville,Harpeth Bicycle Club / 942046,ACPB,200,2019/04/27,Christian County 200k,/cgi-bin/routesearch_PF.pl?rtid=1524,1524,/cgi-bin/resultsearch_PF.pl?eid=10162&esortby=cert,10162
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,300,2019/04/27,Shelburne Falls 300k,/cgi-bin/routesearch_PF.pl?rtid=1264,1264,/cgi-bin/resultsearch_PF.pl?eid=10387&esortby=cert,10387
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/04/27,Talkeetna South 200K,/cgi-bin/routesearch_PF.pl?rtid=1244,1244,/cgi-bin/resultsearch_PF.pl?eid=9754&esortby=cert,9754
+NY: Saratoga,Upstate NY Brevet Series / 932034,ACPB,300,2019/04/28,Elizabethtown 300k,/cgi-bin/routesearch_PF.pl?rtid=1081,1081,/cgi-bin/resultsearch_PF.pl?eid=10227&esortby=cert,10227
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPF,360,2019/05/03,route TBD (unnamed),/cgi-bin/routesearch_PF.pl?rtid=TBD,TBD,/cgi-bin/resultsearch_PF.pl?eid=10040&esortby=cert,10040
+MA: Westfield,New Horizons Cycling Club / 921009,ACPF,360,2019/05/03,?,,,/cgi-bin/resultsearch_PF.pl?eid=10388&esortby=cert,10388
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPF,360,2019/05/03,?,,,/cgi-bin/resultsearch_PF.pl?eid=10488&esortby=cert,10488
+OH: Columbus,Ohio Randonneurs / 935012,ACPF,360,2019/05/03,?,,,/cgi-bin/resultsearch_PF.pl?eid=9923&esortby=cert,9923
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2019/05/04,Where Eagles Dare 300K,/cgi-bin/routesearch_PF.pl?rtid=1882,1882,/cgi-bin/resultsearch_PF.pl?eid=10233&esortby=cert,10233
+TX: Houston,Houston Randonneurs / 943030,ACPB,400,2019/05/04,Brookshire-Columbus 400K,/cgi-bin/routesearch_PF.pl?rtid=1064,1064,/cgi-bin/resultsearch_PF.pl?eid=10024&esortby=cert,10024
+VA: Northern,Fredericksburg Cyclists Club / 946018,ACPB,400,2019/05/04,Battlefield 400,/cgi-bin/routesearch_PF.pl?rtid=2424,2424,/cgi-bin/resultsearch_PF.pl?eid=9736&esortby=cert,9736
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2019/05/04,Where Fledglings Dare 200K,/cgi-bin/routesearch_PF.pl?rtid=1999,1999,/cgi-bin/resultsearch_PF.pl?eid=10232&esortby=cert,10232
+CA: Humboldt,Humboldt Randonneurs / 905176,ACPB,300,2019/05/04,Unknown Coast 300K,/cgi-bin/routesearch_PF.pl?rtid=2070,2070,/cgi-bin/resultsearch_PF.pl?eid=10255&esortby=cert,10255
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2019/05/04,Eldridge North 400K,/cgi-bin/routesearch_PF.pl?rtid=2255,2255,/cgi-bin/resultsearch_PF.pl?eid=10576&esortby=cert,10576
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2019/05/04,Kenai Populaire,/cgi-bin/routesearch_PF.pl?rtid=2037,2037,/cgi-bin/resultsearch_PF.pl?eid=9755&esortby=cert,9755
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2019/05/04,Pony Express Gravel 200,/cgi-bin/routesearch_PF.pl?rtid=2323,2323,/cgi-bin/resultsearch_PF.pl?eid=10409&esortby=cert,10409
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2019/05/04,route 72 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=72,72,/cgi-bin/resultsearch_PF.pl?eid=10023&esortby=cert,10023
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2019/05/04,Eldridge North 300k,/cgi-bin/routesearch_PF.pl?rtid=1924,1924,/cgi-bin/resultsearch_PF.pl?eid=10575&esortby=cert,10575
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2019/05/04,Newberg-Scio,/cgi-bin/routesearch_PF.pl?rtid=1933,1933,/cgi-bin/resultsearch_PF.pl?eid=10479&esortby=cert,10479
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2019/05/04,Ellensburg Roundup,/cgi-bin/routesearch_PF.pl?rtid=2422,2422,/cgi-bin/resultsearch_PF.pl?eid=10176&esortby=cert,10176
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,300,2019/05/04,My nose is bleeding 300k,/cgi-bin/routesearch_PF.pl?rtid=2345,2345,/cgi-bin/resultsearch_PF.pl?eid=10206&esortby=cert,10206
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,200,2019/05/04,route 40 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=40,40,/cgi-bin/resultsearch_PF.pl?eid=10545&esortby=cert,10545
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2019/05/04,Huron River Cruise 200K,/cgi-bin/routesearch_PF.pl?rtid=2071,2071,/cgi-bin/resultsearch_PF.pl?eid=9895&esortby=cert,9895
+OR: Portland,Oregon Randonneurs / 937020,ACPB,400,2019/05/04,Covered Bridges,/cgi-bin/routesearch_PF.pl?rtid=299,299,/cgi-bin/resultsearch_PF.pl?eid=10480&esortby=cert,10480
+NY: Long Island,Long Island Randonneurs / 932005,ACPB,300,2019/05/04,Bethpage 300k,/cgi-bin/routesearch_PF.pl?rtid=1435,1435,/cgi-bin/resultsearch_PF.pl?eid=10366&esortby=cert,10366
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,106,2019/05/04,Fix My Bike Populaire,/cgi-bin/routesearch_PF.pl?rtid=2132,2132,/cgi-bin/resultsearch_PF.pl?eid=9953&esortby=cert,9953
+MO: Kansas City,Audax Kansas City / 925005,RUSAB,212,2019/05/04,No Wet Crossing Gravel 213K,/cgi-bin/routesearch_PF.pl?rtid=2183,2183,/cgi-bin/resultsearch_PF.pl?eid=10712&esortby=cert,10712
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/05/04,route 712 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=712,712,/cgi-bin/resultsearch_PF.pl?eid=9756&esortby=cert,9756
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/05/04,Eldridge North 200K,/cgi-bin/routesearch_PF.pl?rtid=1906,1906,/cgi-bin/resultsearch_PF.pl?eid=10574&esortby=cert,10574
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,300,2019/05/04,Indianapolis Seymour Indianapolis,/cgi-bin/routesearch_PF.pl?rtid=1588,1588,/cgi-bin/resultsearch_PF.pl?eid=10604&esortby=cert,10604
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,103,2019/05/04,Pony Express Gravel 100,/cgi-bin/routesearch_PF.pl?rtid=2321,2321,/cgi-bin/resultsearch_PF.pl?eid=10723&esortby=cert,10723
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2019/05/04,My Hip is Bleeding 200k,/cgi-bin/routesearch_PF.pl?rtid=2347,2347,/cgi-bin/resultsearch_PF.pl?eid=10205&esortby=cert,10205
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2019/05/04,Green Mountain 200k,/cgi-bin/routesearch_PF.pl?rtid=1766,1766,/cgi-bin/resultsearch_PF.pl?eid=10443&esortby=cert,10443
+MO: Kansas City,Audax Kansas City / 925005,RUSAB,300,2019/05/04,CB Wet Crossing Gravel 300K,/cgi-bin/routesearch_PF.pl?rtid=2184,2184,/cgi-bin/resultsearch_PF.pl?eid=10711&esortby=cert,10711
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,300,2019/05/04,Huron River Cruise 300K,/cgi-bin/routesearch_PF.pl?rtid=2072,2072,/cgi-bin/resultsearch_PF.pl?eid=9896&esortby=cert,9896
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,202,2019/05/04,Rattlesnakes & Rocks,/cgi-bin/routesearch_PF.pl?rtid=2409,2409,/cgi-bin/resultsearch_PF.pl?eid=10096&esortby=cert,10096
+TX: Houston,Houston Randonneurs / 943030,ACPB,600,2019/05/04,Columbus Fayetteville 600K,/cgi-bin/routesearch_PF.pl?rtid=1142,1142,/cgi-bin/resultsearch_PF.pl?eid=10025&esortby=cert,10025
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,400,2019/05/04,Lincoln-Superior 400 K,/cgi-bin/routesearch_PF.pl?rtid=1716,1716,/cgi-bin/resultsearch_PF.pl?eid=9837&esortby=cert,9837
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/05/04,City Slickers 200k,/cgi-bin/routesearch_PF.pl?rtid=1578,1578,/cgi-bin/resultsearch_PF.pl?eid=10311&esortby=cert,10311
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,300,2019/05/05,Ellensburg - Leavenworth - Selah 300K,/cgi-bin/routesearch_PF.pl?rtid=2426,2426,/cgi-bin/resultsearch_PF.pl?eid=10177&esortby=cert,10177
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAP,100,2019/05/05,Kittens & Puppies Monaca 100K,/cgi-bin/routesearch_PF.pl?rtid=1866,1866,/cgi-bin/resultsearch_PF.pl?eid=10727&esortby=cert,10727
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,400,2019/05/07,Ellensburg - Old Blewett Pass 400K,/cgi-bin/routesearch_PF.pl?rtid=2427,2427,/cgi-bin/resultsearch_PF.pl?eid=10178&esortby=cert,10178
+NC: High Point,Bicycle For Life Club / 933057,RM,1200,2019/05/09,2016CS1200,/cgi-bin/routesearch_PF.pl?rtid=1934,1934,/cgi-bin/resultsearch_PF.pl?eid=10363&esortby=cert,10363
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,600,2019/05/10,Ellensburg 600k,/cgi-bin/routesearch_PF.pl?rtid=2428,2428,/cgi-bin/resultsearch_PF.pl?eid=10179&esortby=cert,10179
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,300,2019/05/11,Castle Mountains 300K,/cgi-bin/routesearch_PF.pl?rtid=2252,2252,/cgi-bin/resultsearch_PF.pl?eid=10280&esortby=cert,10280
+OR: Portland,Oregon Randonneurs / 937020,ACPB,400,2019/05/11,Covered Bridges,/cgi-bin/routesearch_PF.pl?rtid=299,299,/cgi-bin/resultsearch_PF.pl?eid=10469&esortby=cert,10469
+MO: Kansas City,Audax Kansas City / 925005,ACPB,600,2019/05/11,Junction City 600K,/cgi-bin/routesearch_PF.pl?rtid=828,828,/cgi-bin/resultsearch_PF.pl?eid=9850&esortby=cert,9850
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2019/05/11,Barrington Boomerang 200k,/cgi-bin/routesearch_PF.pl?rtid=2396,2396,/cgi-bin/resultsearch_PF.pl?eid=10207&esortby=cert,10207
+OH: Columbus,Ohio Randonneurs / 935012,ACPB,400,2019/05/11,route 467 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=467,467,/cgi-bin/resultsearch_PF.pl?eid=9727&esortby=cert,9727
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2019/05/11,Mimi's 200k,/cgi-bin/routesearch_PF.pl?rtid=2246,2246,/cgi-bin/resultsearch_PF.pl?eid=10445&esortby=cert,10445
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2019/05/11,RUSA Anniversary,/cgi-bin/routesearch_PF.pl?rtid=660,660,/cgi-bin/resultsearch_PF.pl?eid=10468&esortby=cert,10468
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2019/05/11,Tailwinds N to S,/cgi-bin/routesearch_PF.pl?rtid=2423,2423,/cgi-bin/resultsearch_PF.pl?eid=10410&esortby=cert,10410
+WI: Western,Driftless Randonneurs / 949007,ACPB,400,2019/05/11,Perfectly Horeble 400k,/cgi-bin/routesearch_PF.pl?rtid=2370,2370,/cgi-bin/resultsearch_PF.pl?eid=10236&esortby=cert,10236
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,400,2019/05/11,BashBish 400k,/cgi-bin/routesearch_PF.pl?rtid=1270,1270,/cgi-bin/resultsearch_PF.pl?eid=10391&esortby=cert,10391
+MD: Capital Region,DC Randonneurs / 946012,ACPB,300,2019/05/11,Warrenton 300,/cgi-bin/routesearch_PF.pl?rtid=632,632,/cgi-bin/resultsearch_PF.pl?eid=10290&esortby=cert,10290
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,255,2019/05/11,West out and Back 255,/cgi-bin/routesearch_PF.pl?rtid=130,130,/cgi-bin/resultsearch_PF.pl?eid=10098&esortby=cert,10098
+MA: Boston,New England Randonneurs / 921005,ACPB,300,2019/05/11,Ware's The Quabbin,/cgi-bin/routesearch_PF.pl?rtid=2247,2247,/cgi-bin/resultsearch_PF.pl?eid=10444&esortby=cert,10444
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,300,2019/05/11,Rochester Money Creek 300K,/cgi-bin/routesearch_PF.pl?rtid=1564,1564,/cgi-bin/resultsearch_PF.pl?eid=10313&esortby=cert,10313
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2019/05/11,Not so Horeble 300K,/cgi-bin/routesearch_PF.pl?rtid=2243,2243,/cgi-bin/resultsearch_PF.pl?eid=10235&esortby=cert,10235
+CA: Davis,Davis Bike Club / 905014,ACPB,400,2019/05/11,Davis-Fairfield-Calistoga-Lk Sonoma-Vacaville-Davis,/cgi-bin/routesearch_PF.pl?rtid=1207,1207,/cgi-bin/resultsearch_PF.pl?eid=10372&esortby=cert,10372
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,300,2019/05/11,route 302 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=302,302,/cgi-bin/resultsearch_PF.pl?eid=10390&esortby=cert,10390
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,300,2019/05/11,Pinelands 300K,/cgi-bin/routesearch_PF.pl?rtid=1640,1640,/cgi-bin/resultsearch_PF.pl?eid=10198&esortby=cert,10198
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,162,2019/05/11,Lynn Creek Marina Century 162,/cgi-bin/routesearch_PF.pl?rtid=121,121,/cgi-bin/resultsearch_PF.pl?eid=10097&esortby=cert,10097
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,200,2019/05/11,Up The Creek,/cgi-bin/routesearch_PF.pl?rtid=1926,1926,/cgi-bin/resultsearch_PF.pl?eid=10140&esortby=cert,10140
+NY: Saratoga,Upstate NY Brevet Series / 932034,ACPB,400,2019/05/11,route 418 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=418,418,/cgi-bin/resultsearch_PF.pl?eid=10228&esortby=cert,10228
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,300,2019/05/11,Black Forest,/cgi-bin/routesearch_PF.pl?rtid=179,179,/cgi-bin/resultsearch_PF.pl?eid=10489&esortby=cert,10489
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,600,2019/05/11,Mendocino Coast 600k,/cgi-bin/routesearch_PF.pl?rtid=216,216,/cgi-bin/resultsearch_PF.pl?eid=9985&esortby=cert,9985
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/05/11,route 95 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=95,95,/cgi-bin/resultsearch_PF.pl?eid=10312&esortby=cert,10312
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2019/05/11,Blue River 200K,/cgi-bin/routesearch_PF.pl?rtid=2233,2233,/cgi-bin/resultsearch_PF.pl?eid=10234&esortby=cert,10234
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAP,100,2019/05/11,Homestead Hollow 100 Km,/cgi-bin/routesearch_PF.pl?rtid=1951,1951,/cgi-bin/resultsearch_PF.pl?eid=9785&esortby=cert,9785
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/05/12,Dillon Beach,/cgi-bin/routesearch_PF.pl?rtid=2376,2376,/cgi-bin/resultsearch_PF.pl?eid=9986&esortby=cert,9986
+FL: Central,Central Florida Randonneurs / 909062,ACPB,1000,2019/05/16,Sunshine 1000,/cgi-bin/routesearch_PF.pl?rtid=2341,2341,/cgi-bin/resultsearch_PF.pl?eid=10564&esortby=cert,10564
+FL: Central,Central Florida Randonneurs / 909062,RM,1200,2019/05/16,Sunshine 1200KM,/cgi-bin/routesearch_PF.pl?rtid=1778,1778,/cgi-bin/resultsearch_PF.pl?eid=10563&esortby=cert,10563
+MA: Boston,New England Randonneurs / 921005,ACPR,200,2019/05/17,?,,,/cgi-bin/resultsearch_PF.pl?eid=13489&esortby=cert,13489
+MA: Boston,New England Randonneurs / 921005,ACPF,360,2019/05/17,?,,,/cgi-bin/resultsearch_PF.pl?eid=10446&esortby=cert,10446
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,400,2019/05/17,"What Goes Around, Comes Around - Redux",/cgi-bin/routesearch_PF.pl?rtid=469,469,/cgi-bin/resultsearch_PF.pl?eid=10546&esortby=cert,10546
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,600,2019/05/17,Border to Glendora 600,/cgi-bin/routesearch_PF.pl?rtid=2404,2404,/cgi-bin/resultsearch_PF.pl?eid=9944&esortby=cert,9944
+WI: Western,Driftless Randonneurs / 949007,ACPB,400,2019/05/18,Back in Black (River Falls) 400k,/cgi-bin/routesearch_PF.pl?rtid=2061,2061,/cgi-bin/resultsearch_PF.pl?eid=10238&esortby=cert,10238
+WA: Tri-Cities,Desert River Randonneurs / 947004,ACPB,600,2019/05/18,Double Cheeseburger 600,/cgi-bin/routesearch_PF.pl?rtid=1943,1943,/cgi-bin/resultsearch_PF.pl?eid=10059&esortby=cert,10059
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,RUSAB,315,2019/05/18,Falls City - Fairbury 315K,/cgi-bin/routesearch_PF.pl?rtid=1980,1980,/cgi-bin/resultsearch_PF.pl?eid=10726&esortby=cert,10726
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,300,2019/05/18,John's Waterfall 300,/cgi-bin/routesearch_PF.pl?rtid=1589,1589,/cgi-bin/resultsearch_PF.pl?eid=10547&esortby=cert,10547
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/05/18,Apple Valley Classic 200,/cgi-bin/routesearch_PF.pl?rtid=581,581,/cgi-bin/resultsearch_PF.pl?eid=10315&esortby=cert,10315
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,300,2019/05/18,Cantwell - Nenana - Cantwell,/cgi-bin/routesearch_PF.pl?rtid=2397,2397,/cgi-bin/resultsearch_PF.pl?eid=9758&esortby=cert,9758
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2019/05/18,Wildcat Mountain Wander 300k,/cgi-bin/routesearch_PF.pl?rtid=2092,2092,/cgi-bin/resultsearch_PF.pl?eid=10237&esortby=cert,10237
+MD: Capital Region,DC Randonneurs / 946012,ACPB,400,2019/05/18,Northern Exposure 400km,/cgi-bin/routesearch_PF.pl?rtid=1558,1558,/cgi-bin/resultsearch_PF.pl?eid=10291&esortby=cert,10291
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,400,2019/05/18,Falls City - Deshler,/cgi-bin/routesearch_PF.pl?rtid=1488,1488,/cgi-bin/resultsearch_PF.pl?eid=9838&esortby=cert,9838
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,600,2019/05/18,Philly Pagoda Pocono 600K,/cgi-bin/routesearch_PF.pl?rtid=2382,2382,/cgi-bin/resultsearch_PF.pl?eid=10041&esortby=cert,10041
+IA: Central,Iowa Randonneurs / 915005,ACPB,400,2019/05/18,Ames to Audubon 400K,/cgi-bin/routesearch_PF.pl?rtid=1170,1170,/cgi-bin/resultsearch_PF.pl?eid=10349&esortby=cert,10349
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,400,2019/05/18,route 229 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=229,229,/cgi-bin/resultsearch_PF.pl?eid=9971&esortby=cert,9971
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,102,2019/05/18,Dakota County Frolic,/cgi-bin/routesearch_PF.pl?rtid=1760,1760,/cgi-bin/resultsearch_PF.pl?eid=10314&esortby=cert,10314
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,600,2019/05/18,Poudre Canyon 600K,/cgi-bin/routesearch_PF.pl?rtid=1583,1583,/cgi-bin/resultsearch_PF.pl?eid=10492&esortby=cert,10492
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,300,2019/05/18,Cheese Ride Plus (Minerva),/cgi-bin/routesearch_PF.pl?rtid=968,968,/cgi-bin/resultsearch_PF.pl?eid=10277&esortby=cert,10277
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,300,2019/05/18,Tour of Detroit 300K,/cgi-bin/routesearch_PF.pl?rtid=1427,1427,/cgi-bin/resultsearch_PF.pl?eid=9912&esortby=cert,9912
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,400,2019/05/18,Columbus Loop,/cgi-bin/routesearch_PF.pl?rtid=1668,1668,/cgi-bin/resultsearch_PF.pl?eid=10605&esortby=cert,10605
+IA: Central,Iowa Randonneurs / 915005,ACPB,200,2019/05/18,Triple Dip 200k,/cgi-bin/routesearch_PF.pl?rtid=1168,1168,/cgi-bin/resultsearch_PF.pl?eid=10348&esortby=cert,10348
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,600,2019/05/18,Cabeceras Faro,/cgi-bin/routesearch_PF.pl?rtid=2429,2429,/cgi-bin/resultsearch_PF.pl?eid=10063&esortby=cert,10063
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,600,2019/05/18,Falls City - Red Cloud 600K,/cgi-bin/routesearch_PF.pl?rtid=1734,1734,/cgi-bin/resultsearch_PF.pl?eid=9839&esortby=cert,9839
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,400,2019/05/18,Pine Mountain 400k,/cgi-bin/routesearch_PF.pl?rtid=2205,2205,/cgi-bin/resultsearch_PF.pl?eid=10437&esortby=cert,10437
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,400,2019/05/18,Poudre Canyon 400K,/cgi-bin/routesearch_PF.pl?rtid=1582,1582,/cgi-bin/resultsearch_PF.pl?eid=10491&esortby=cert,10491
+IA: Central,Iowa Randonneurs / 915005,RUSAP,110,2019/05/18,Polk City Populaire,/cgi-bin/routesearch_PF.pl?rtid=1261,1261,/cgi-bin/resultsearch_PF.pl?eid=10347&esortby=cert,10347
+KY: Louisville,Louisville Bicycle Club / 917002,ACPB,600,2019/05/18,Shelby Clay City Lebanon 600k,/cgi-bin/routesearch_PF.pl?rtid=1374,1374,/cgi-bin/resultsearch_PF.pl?eid=10269&esortby=cert,10269
+CA: Los Angeles,Channel Islands Bike Club / 905082,ACPB,300,2019/05/18,Pine Mountain 300k,/cgi-bin/routesearch_PF.pl?rtid=2198,2198,/cgi-bin/resultsearch_PF.pl?eid=10436&esortby=cert,10436
+WI: Western,Driftless Randonneurs / 949007,ACPB,600,2019/05/18,Cranberry Country 600K,/cgi-bin/routesearch_PF.pl?rtid=2411,2411,/cgi-bin/resultsearch_PF.pl?eid=10239&esortby=cert,10239
+GA: Atlanta,Audax Atlanta / 910004,ACPB,600,2019/05/18,Thomasville 600k,/cgi-bin/routesearch_PF.pl?rtid=2307,2307,/cgi-bin/resultsearch_PF.pl?eid=9802&esortby=cert,9802
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,300,2019/05/18,Poudre Canyon,/cgi-bin/routesearch_PF.pl?rtid=1776,1776,/cgi-bin/resultsearch_PF.pl?eid=10490&esortby=cert,10490
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/05/18,Anchorage Seward 200KM Brevet,/cgi-bin/routesearch_PF.pl?rtid=887,887,/cgi-bin/resultsearch_PF.pl?eid=9757&esortby=cert,9757
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,400,2019/05/18,Pacific Beach 400,/cgi-bin/routesearch_PF.pl?rtid=2431,2431,/cgi-bin/resultsearch_PF.pl?eid=10180&esortby=cert,10180
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,300,2019/05/18,Psychedelic Turtle 300,/cgi-bin/routesearch_PF.pl?rtid=2348,2348,/cgi-bin/resultsearch_PF.pl?eid=10614&esortby=cert,10614
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,300,2019/05/18,route 642 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=642,642,/cgi-bin/resultsearch_PF.pl?eid=10316&esortby=cert,10316
+FL: Central,Central Florida Randonneurs / 909062,ACPB,200,2019/05/19,Sunshine 200,/cgi-bin/routesearch_PF.pl?rtid=2340,2340,/cgi-bin/resultsearch_PF.pl?eid=10565&esortby=cert,10565
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,102,2019/05/19,Bonzai Express,/cgi-bin/routesearch_PF.pl?rtid=1555,1555,/cgi-bin/resultsearch_PF.pl?eid=10730&esortby=cert,10730
+CA: Humboldt,Humboldt Randonneurs / 905176,ACPB,400,2019/05/25,Oregon Hill 400,/cgi-bin/routesearch_PF.pl?rtid=2437,2437,/cgi-bin/resultsearch_PF.pl?eid=10256&esortby=cert,10256
+VA: Tidewater,Tidewater Randonneurs / 946002,ACPB,600,2019/05/25,Suffolk 2loop 600,/cgi-bin/routesearch_PF.pl?rtid=2217,2217,/cgi-bin/resultsearch_PF.pl?eid=10054&esortby=cert,10054
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2019/05/25,La Bella Rani Quattrocento 403,/cgi-bin/routesearch_PF.pl?rtid=547,547,/cgi-bin/resultsearch_PF.pl?eid=10102&esortby=cert,10102
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2019/05/25,My Fingers are Bleeding 200k,/cgi-bin/routesearch_PF.pl?rtid=2355,2355,/cgi-bin/resultsearch_PF.pl?eid=10208&esortby=cert,10208
+MO: Kansas City,Audax Kansas City / 925005,ACPB,400,2019/05/25,Saint Joseph  Lamoni 401 K,/cgi-bin/routesearch_PF.pl?rtid=2186,2186,/cgi-bin/resultsearch_PF.pl?eid=9853&esortby=cert,9853
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2019/05/25,Wasatch Front/Antelope Island 200,/cgi-bin/routesearch_PF.pl?rtid=2063,2063,/cgi-bin/resultsearch_PF.pl?eid=10411&esortby=cert,10411
+OR: Portland,Oregon Randonneurs / 937020,ACPB,600,2019/05/25,Kings Valley 600,/cgi-bin/routesearch_PF.pl?rtid=611,611,/cgi-bin/resultsearch_PF.pl?eid=10470&esortby=cert,10470
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,600,2019/05/25,Laramie - Cheyenne 600k,/cgi-bin/routesearch_PF.pl?rtid=2430,2430,/cgi-bin/resultsearch_PF.pl?eid=10493&esortby=cert,10493
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,600,2019/05/25,Surf City 600 II,/cgi-bin/routesearch_PF.pl?rtid=744,744,/cgi-bin/resultsearch_PF.pl?eid=10076&esortby=cert,10076
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,211,2019/05/25,La Bella Rani Duecento 211,/cgi-bin/routesearch_PF.pl?rtid=515,515,/cgi-bin/resultsearch_PF.pl?eid=10099&esortby=cert,10099
+OR: Eugene,South Willamette Randonneurs / 937003,ACPB,400,2019/05/25,Eugene - Forest Grove - Eugene,/cgi-bin/routesearch_PF.pl?rtid=2284,2284,/cgi-bin/resultsearch_PF.pl?eid=10404&esortby=cert,10404
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,355,2019/05/25,La Bella Pammie Trecento Piu,/cgi-bin/routesearch_PF.pl?rtid=1780,1780,/cgi-bin/resultsearch_PF.pl?eid=10101&esortby=cert,10101
+MO: Kansas City,Audax Kansas City / 925005,ACPB,600,2019/05/25,Saint Joseph Double Loop 600K,/cgi-bin/routesearch_PF.pl?rtid=2207,2207,/cgi-bin/resultsearch_PF.pl?eid=9854&esortby=cert,9854
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,ACPB,400,2019/05/25,Monterey Bay 400,/cgi-bin/routesearch_PF.pl?rtid=691,691,/cgi-bin/resultsearch_PF.pl?eid=10075&esortby=cert,10075
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,400,2019/05/25,Wildwood 400k,/cgi-bin/routesearch_PF.pl?rtid=2077,2077,/cgi-bin/resultsearch_PF.pl?eid=10199&esortby=cert,10199
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,308,2019/05/25,La Bella Rani Trecento 308,/cgi-bin/routesearch_PF.pl?rtid=514,514,/cgi-bin/resultsearch_PF.pl?eid=10100&esortby=cert,10100
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,108,2019/05/25,Wasatch Front 100,/cgi-bin/routesearch_PF.pl?rtid=2050,2050,/cgi-bin/resultsearch_PF.pl?eid=10724&esortby=cert,10724
+MO: Kansas City,Audax Kansas City / 925005,ACPB,200,2019/05/25,Saint Joseph - Pattonsburg 216K,/cgi-bin/routesearch_PF.pl?rtid=2165,2165,/cgi-bin/resultsearch_PF.pl?eid=9851&esortby=cert,9851
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,400,2019/05/25,route 25 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=25,25,/cgi-bin/resultsearch_PF.pl?eid=9759&esortby=cert,9759
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,1000,2019/05/25,La Bella Vickie Mille,/cgi-bin/routesearch_PF.pl?rtid=1584,1584,/cgi-bin/resultsearch_PF.pl?eid=10104&esortby=cert,10104
+MO: Kansas City,Audax Kansas City / 925005,ACPB,1000,2019/05/25,Saint Joseph Triple Loop 1000K,/cgi-bin/routesearch_PF.pl?rtid=2236,2236,/cgi-bin/resultsearch_PF.pl?eid=9855&esortby=cert,9855
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2019/05/25,Dakota County Frolic,/cgi-bin/routesearch_PF.pl?rtid=1760,1760,/cgi-bin/resultsearch_PF.pl?eid=10317&esortby=cert,10317
+MO: Kansas City,Audax Kansas City / 925005,ACPB,300,2019/05/25,Saint Joseph - Conception 300K,/cgi-bin/routesearch_PF.pl?rtid=2166,2166,/cgi-bin/resultsearch_PF.pl?eid=9852&esortby=cert,9852
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2019/05/25,La Bella Rani Seicento 600,/cgi-bin/routesearch_PF.pl?rtid=575,575,/cgi-bin/resultsearch_PF.pl?eid=10103&esortby=cert,10103
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,400,2019/05/25,My Eyes Are Bleeding 400k,/cgi-bin/routesearch_PF.pl?rtid=2372,2372,/cgi-bin/resultsearch_PF.pl?eid=10209&esortby=cert,10209
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,300,2019/05/25,route 52 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=52,52,/cgi-bin/resultsearch_PF.pl?eid=10548&esortby=cert,10548
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,300,2019/05/25,Backroads of the Great Basin 300k,/cgi-bin/routesearch_PF.pl?rtid=1215,1215,/cgi-bin/resultsearch_PF.pl?eid=10412&esortby=cert,10412
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/05/26,West Union 200k Harmony is Fine with Me,/cgi-bin/routesearch_PF.pl?rtid=2435,2435,/cgi-bin/resultsearch_PF.pl?eid=10577&esortby=cert,10577
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2019/05/26,West Union 400K,/cgi-bin/routesearch_PF.pl?rtid=1753,1753,/cgi-bin/resultsearch_PF.pl?eid=10579&esortby=cert,10579
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,600,2019/05/26,West Union 600K is A OK.,/cgi-bin/routesearch_PF.pl?rtid=2436,2436,/cgi-bin/resultsearch_PF.pl?eid=10580&esortby=cert,10580
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2019/05/26,West Union 300K,/cgi-bin/routesearch_PF.pl?rtid=1752,1752,/cgi-bin/resultsearch_PF.pl?eid=10578&esortby=cert,10578
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2019/05/27,West Union 400K,/cgi-bin/routesearch_PF.pl?rtid=1753,1753,/cgi-bin/resultsearch_PF.pl?eid=10583&esortby=cert,10583
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2019/05/27,West Union 300K,/cgi-bin/routesearch_PF.pl?rtid=1752,1752,/cgi-bin/resultsearch_PF.pl?eid=10582&esortby=cert,10582
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/05/27,West Union 200k Harmony is Fine with Me,/cgi-bin/routesearch_PF.pl?rtid=2435,2435,/cgi-bin/resultsearch_PF.pl?eid=10581&esortby=cert,10581
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,600,2019/05/27,West Union 600K,/cgi-bin/routesearch_PF.pl?rtid=1761,1761,/cgi-bin/resultsearch_PF.pl?eid=10584&esortby=cert,10584
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/05/27,route 23 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=23,23,/cgi-bin/resultsearch_PF.pl?eid=9760&esortby=cert,9760
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,600,2019/05/28,West Union 600K,/cgi-bin/routesearch_PF.pl?rtid=1761,1761,/cgi-bin/resultsearch_PF.pl?eid=10588&esortby=cert,10588
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,300,2019/05/28,Anchorage-Palmer 300,/cgi-bin/routesearch_PF.pl?rtid=737,737,/cgi-bin/resultsearch_PF.pl?eid=9761&esortby=cert,9761
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2019/05/28,West Union 400K,/cgi-bin/routesearch_PF.pl?rtid=1753,1753,/cgi-bin/resultsearch_PF.pl?eid=10587&esortby=cert,10587
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2019/05/28,West Union 300K,/cgi-bin/routesearch_PF.pl?rtid=1752,1752,/cgi-bin/resultsearch_PF.pl?eid=10586&esortby=cert,10586
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/05/28,West Union 200K,/cgi-bin/routesearch_PF.pl?rtid=1751,1751,/cgi-bin/resultsearch_PF.pl?eid=10585&esortby=cert,10585
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2019/05/29,West Union 300K,/cgi-bin/routesearch_PF.pl?rtid=1752,1752,/cgi-bin/resultsearch_PF.pl?eid=10590&esortby=cert,10590
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,600,2019/05/29,West Union 600K,/cgi-bin/routesearch_PF.pl?rtid=1761,1761,/cgi-bin/resultsearch_PF.pl?eid=10592&esortby=cert,10592
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2019/05/29,West Union 400K,/cgi-bin/routesearch_PF.pl?rtid=1753,1753,/cgi-bin/resultsearch_PF.pl?eid=10591&esortby=cert,10591
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/05/29,West Union 200k Harmony is Fine with Me,/cgi-bin/routesearch_PF.pl?rtid=2435,2435,/cgi-bin/resultsearch_PF.pl?eid=10589&esortby=cert,10589
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2019/05/30,West Union 400K,/cgi-bin/routesearch_PF.pl?rtid=1753,1753,/cgi-bin/resultsearch_PF.pl?eid=10595&esortby=cert,10595
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2019/05/30,West Union 300K,/cgi-bin/routesearch_PF.pl?rtid=1752,1752,/cgi-bin/resultsearch_PF.pl?eid=10594&esortby=cert,10594
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/05/30,West Union 200k Harmony is Fine with Me,/cgi-bin/routesearch_PF.pl?rtid=2435,2435,/cgi-bin/resultsearch_PF.pl?eid=10593&esortby=cert,10593
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,600,2019/05/30,Solstice Southcentral 600k,/cgi-bin/routesearch_PF.pl?rtid=1797,1797,/cgi-bin/resultsearch_PF.pl?eid=9762&esortby=cert,9762
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,600,2019/05/30,West Union 600K,/cgi-bin/routesearch_PF.pl?rtid=1761,1761,/cgi-bin/resultsearch_PF.pl?eid=10596&esortby=cert,10596
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPR,200,2019/05/31,?,,,/cgi-bin/resultsearch_PF.pl?eid=13490&esortby=cert,13490
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/05/31,West Union 200k Harmony is Fine with Me,/cgi-bin/routesearch_PF.pl?rtid=2435,2435,/cgi-bin/resultsearch_PF.pl?eid=10597&esortby=cert,10597
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPF,360,2019/05/31,?,,,/cgi-bin/resultsearch_PF.pl?eid=10549&esortby=cert,10549
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,300,2019/06/01,Rawhide,/cgi-bin/routesearch_PF.pl?rtid=1876,1876,/cgi-bin/resultsearch_PF.pl?eid=10494&esortby=cert,10494
+WI: Western,Driftless Randonneurs / 949007,RUSAB,205,2019/06/01,Fennimore Frolic,/cgi-bin/routesearch_PF.pl?rtid=1732,1732,/cgi-bin/resultsearch_PF.pl?eid=10732&esortby=cert,10732
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,400,2019/06/01,route 303 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=303,303,/cgi-bin/resultsearch_PF.pl?eid=10392&esortby=cert,10392
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,ACPB,400,2019/06/01,400K Pittsburgh-Erie-Pittsburgh,/cgi-bin/routesearch_PF.pl?rtid=965,965,/cgi-bin/resultsearch_PF.pl?eid=10278&esortby=cert,10278
+FL: Central,Central Florida Randonneurs / 909062,RUSAP,100,2019/06/01,San An 100k,/cgi-bin/routesearch_PF.pl?rtid=1266,1266,/cgi-bin/resultsearch_PF.pl?eid=10569&esortby=cert,10569
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/06/01,La Ruta Loca Randonnee,/cgi-bin/routesearch_PF.pl?rtid=1415,1415,/cgi-bin/resultsearch_PF.pl?eid=9987&esortby=cert,9987
+VA: Northern,Fredericksburg Cyclists Club / 946018,ACPB,600,2019/06/01,Stephens City 600,/cgi-bin/routesearch_PF.pl?rtid=2441,2441,/cgi-bin/resultsearch_PF.pl?eid=9737&esortby=cert,9737
+WI: Western,Driftless Randonneurs / 949007,ACPB,600,2019/06/01,South and West 600K,/cgi-bin/routesearch_PF.pl?rtid=1903,1903,/cgi-bin/resultsearch_PF.pl?eid=10242&esortby=cert,10242
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,300,2019/06/01,UNAKA MOUNTAINS 300k,/cgi-bin/routesearch_PF.pl?rtid=1949,1949,/cgi-bin/resultsearch_PF.pl?eid=10141&esortby=cert,10141
+NY: Saratoga,Upstate NY Brevet Series / 932034,ACPB,600,2019/06/01,Quebec 600km,/cgi-bin/routesearch_PF.pl?rtid=1092,1092,/cgi-bin/resultsearch_PF.pl?eid=10229&esortby=cert,10229
+MA: Boston,New England Randonneurs / 921005,ACPB,300,2019/06/01,Lake Champlain 300k,/cgi-bin/routesearch_PF.pl?rtid=2443,2443,/cgi-bin/resultsearch_PF.pl?eid=10449&esortby=cert,10449
+OH: Columbus,Ohio Randonneurs / 935012,ACPB,600,2019/06/01,Macedonia-Waterford-Salem 600k,/cgi-bin/routesearch_PF.pl?rtid=2433,2433,/cgi-bin/resultsearch_PF.pl?eid=9728&esortby=cert,9728
+WI: Western,Driftless Randonneurs / 949007,ACPB,400,2019/06/01,Scale the Mound 400K,/cgi-bin/routesearch_PF.pl?rtid=1854,1854,/cgi-bin/resultsearch_PF.pl?eid=10241&esortby=cert,10241
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2019/06/01,Lake Champlain 200k,/cgi-bin/routesearch_PF.pl?rtid=2442,2442,/cgi-bin/resultsearch_PF.pl?eid=10448&esortby=cert,10448
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,600,2019/06/01,route 114 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=114,114,/cgi-bin/resultsearch_PF.pl?eid=10181&esortby=cert,10181
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,400,2019/06/01,Hell Backwards,/cgi-bin/routesearch_PF.pl?rtid=2214,2214,/cgi-bin/resultsearch_PF.pl?eid=9913&esortby=cert,9913
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,119,2019/06/01,Old Town to Oceanside Populaire,/cgi-bin/routesearch_PF.pl?rtid=1830,1830,/cgi-bin/resultsearch_PF.pl?eid=9954&esortby=cert,9954
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2019/06/01,Going for the Green 300K,/cgi-bin/routesearch_PF.pl?rtid=2102,2102,/cgi-bin/resultsearch_PF.pl?eid=10240&esortby=cert,10240
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAP,100,2019/06/02,Kittens & Puppies Monaca 100K,/cgi-bin/routesearch_PF.pl?rtid=1866,1866,/cgi-bin/resultsearch_PF.pl?eid=10731&esortby=cert,10731
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,400,2019/06/07,"What Goes Around, Comes Around - Redux",/cgi-bin/routesearch_PF.pl?rtid=469,469,/cgi-bin/resultsearch_PF.pl?eid=10551&esortby=cert,10551
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2019/06/08,Kings Valley 200,/cgi-bin/routesearch_PF.pl?rtid=608,608,/cgi-bin/resultsearch_PF.pl?eid=10471&esortby=cert,10471
+MD: Capital Region,DC Randonneurs / 946012,ACPB,600,2019/06/08,Shenandoah 600,/cgi-bin/routesearch_PF.pl?rtid=639,639,/cgi-bin/resultsearch_PF.pl?eid=10292&esortby=cert,10292
+OR: Eugene,South Willamette Randonneurs / 937003,ACPB,600,2019/06/08,Smith 600,/cgi-bin/routesearch_PF.pl?rtid=2452,2452,/cgi-bin/resultsearch_PF.pl?eid=10405&esortby=cert,10405
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2019/06/08,Lake Acworth 200k,/cgi-bin/routesearch_PF.pl?rtid=1298,1298,/cgi-bin/resultsearch_PF.pl?eid=9803&esortby=cert,9803
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,400,2019/06/08,route 25 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=25,25,/cgi-bin/resultsearch_PF.pl?eid=9764&esortby=cert,9764
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,300,2019/06/08,Eldridge North 300k,/cgi-bin/routesearch_PF.pl?rtid=1924,1924,/cgi-bin/resultsearch_PF.pl?eid=10599&esortby=cert,10599
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,600,2019/06/08,Eldridge North 600k,/cgi-bin/routesearch_PF.pl?rtid=1968,1968,/cgi-bin/resultsearch_PF.pl?eid=10601&esortby=cert,10601
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,600,2019/06/08,Columbus 600,/cgi-bin/routesearch_PF.pl?rtid=1759,1759,/cgi-bin/resultsearch_PF.pl?eid=10606&esortby=cert,10606
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,600,2019/06/08,600LR_2 (Stuart's 600k),/cgi-bin/routesearch_PF.pl?rtid=1085,1085,/cgi-bin/resultsearch_PF.pl?eid=10552&esortby=cert,10552
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,300,2019/06/08,route 642 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=642,642,/cgi-bin/resultsearch_PF.pl?eid=10319&esortby=cert,10319
+MA: Boston,New England Randonneurs / 921005,ACPB,200,2019/06/08,portland express,/cgi-bin/routesearch_PF.pl?rtid=1955,1955,/cgi-bin/resultsearch_PF.pl?eid=10451&esortby=cert,10451
+CA: Davis,Davis Bike Club / 905014,ACPB,600,2019/06/08,Davis-Oroville-Antelope Lake-Oroville-Davis,/cgi-bin/routesearch_PF.pl?rtid=1212,1212,/cgi-bin/resultsearch_PF.pl?eid=10373&esortby=cert,10373
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/06/08,Eldridge North 200K,/cgi-bin/routesearch_PF.pl?rtid=1906,1906,/cgi-bin/resultsearch_PF.pl?eid=10598&esortby=cert,10598
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,400,2019/06/08,Eldridge North 400K,/cgi-bin/routesearch_PF.pl?rtid=2255,2255,/cgi-bin/resultsearch_PF.pl?eid=10600&esortby=cert,10600
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,400,2019/06/08,Apple Valley Classic 400K,/cgi-bin/routesearch_PF.pl?rtid=685,685,/cgi-bin/resultsearch_PF.pl?eid=10320&esortby=cert,10320
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/06/08,Beanstalk 100,/cgi-bin/routesearch_PF.pl?rtid=551,551,/cgi-bin/resultsearch_PF.pl?eid=10105&esortby=cert,10105
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,400,2019/06/08,Double Loop 400,/cgi-bin/routesearch_PF.pl?rtid=1370,1370,/cgi-bin/resultsearch_PF.pl?eid=10414&esortby=cert,10414
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/06/08,Apple Valley Classic 200,/cgi-bin/routesearch_PF.pl?rtid=581,581,/cgi-bin/resultsearch_PF.pl?eid=10318&esortby=cert,10318
+MA: Boston,New England Randonneurs / 921005,ACPB,400,2019/06/08,Portland daytrip,/cgi-bin/routesearch_PF.pl?rtid=1956,1956,/cgi-bin/resultsearch_PF.pl?eid=10450&esortby=cert,10450
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,600,2019/06/08,Jamestown-Raymond Two Prong (600),/cgi-bin/routesearch_PF.pl?rtid=1260,1260,/cgi-bin/resultsearch_PF.pl?eid=10496&esortby=cert,10496
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,600,2019/06/08,route 230 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=230,230,/cgi-bin/resultsearch_PF.pl?eid=9972&esortby=cert,9972
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,600,2019/06/08,East Creek 600,/cgi-bin/routesearch_PF.pl?rtid=1257,1257,/cgi-bin/resultsearch_PF.pl?eid=10200&esortby=cert,10200
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2019/06/08,Yuba Res Express 200,/cgi-bin/routesearch_PF.pl?rtid=2343,2343,/cgi-bin/resultsearch_PF.pl?eid=10413&esortby=cert,10413
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,102,2019/06/08,Palomar Loop,/cgi-bin/routesearch_PF.pl?rtid=1349,1349,/cgi-bin/resultsearch_PF.pl?eid=10734&esortby=cert,10734
+OR: Portland,Oregon Randonneurs / 937020,ACPB,600,2019/06/08,Kings Valley 600,/cgi-bin/routesearch_PF.pl?rtid=611,611,/cgi-bin/resultsearch_PF.pl?eid=10472&esortby=cert,10472
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,400,2019/06/08,Lefthand Canyon,/cgi-bin/routesearch_PF.pl?rtid=183,183,/cgi-bin/resultsearch_PF.pl?eid=10495&esortby=cert,10495
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/06/08,South Anchorage 200k,/cgi-bin/routesearch_PF.pl?rtid=1785,1785,/cgi-bin/resultsearch_PF.pl?eid=9763&esortby=cert,9763
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,400,2019/06/08,Beaverhead 400k,/cgi-bin/routesearch_PF.pl?rtid=2434,2434,/cgi-bin/resultsearch_PF.pl?eid=10281&esortby=cert,10281
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2019/06/08,Hampshire Rock 200,/cgi-bin/routesearch_PF.pl?rtid=2358,2358,/cgi-bin/resultsearch_PF.pl?eid=10210&esortby=cert,10210
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2019/06/09,2019 Whidbey Island Views & Hills Makeup 200k,/cgi-bin/routesearch_PF.pl?rtid=2438,2438,/cgi-bin/resultsearch_PF.pl?eid=10182&esortby=cert,10182
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,600,2019/06/14,6 Valley Tour 600,/cgi-bin/routesearch_PF.pl?rtid=2380,2380,/cgi-bin/resultsearch_PF.pl?eid=10422&esortby=cert,10422
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,400,2019/06/14,6-Valley Tour 400,/cgi-bin/routesearch_PF.pl?rtid=1659,1659,/cgi-bin/resultsearch_PF.pl?eid=10421&esortby=cert,10421
+IA: Central,Iowa Randonneurs / 915005,ACPB,400,2019/06/15,Ames to Audubon 400K,/cgi-bin/routesearch_PF.pl?rtid=1170,1170,/cgi-bin/resultsearch_PF.pl?eid=10352&esortby=cert,10352
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,300,2019/06/15,Rochester Money Creek 300K,/cgi-bin/routesearch_PF.pl?rtid=1564,1564,/cgi-bin/resultsearch_PF.pl?eid=10322&esortby=cert,10322
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,300,2019/06/15,Willow Park via Weatherford 300K,/cgi-bin/routesearch_PF.pl?rtid=1490,1490,/cgi-bin/resultsearch_PF.pl?eid=10107&esortby=cert,10107
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2019/06/15,A Victory to Remember,/cgi-bin/routesearch_PF.pl?rtid=1982,1982,/cgi-bin/resultsearch_PF.pl?eid=10042&esortby=cert,10042
+WI: Western,Driftless Randonneurs / 949007,ACPB,600,2019/06/15,E-F Huntin' 600K Mk2,/cgi-bin/routesearch_PF.pl?rtid=2224,2224,/cgi-bin/resultsearch_PF.pl?eid=10244&esortby=cert,10244
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,600,2019/06/15,Chuckamano Fork of Diamonds,/cgi-bin/routesearch_PF.pl?rtid=2432,2432,/cgi-bin/resultsearch_PF.pl?eid=10184&esortby=cert,10184
+IA: Central,Iowa Randonneurs / 915005,ACPB,300,2019/06/15,Brushy Raccoon 300k,/cgi-bin/routesearch_PF.pl?rtid=1923,1923,/cgi-bin/resultsearch_PF.pl?eid=10351&esortby=cert,10351
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,300,2019/06/15,Ocean Beach 300k,/cgi-bin/routesearch_PF.pl?rtid=2250,2250,/cgi-bin/resultsearch_PF.pl?eid=9946&esortby=cert,9946
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,210,2019/06/15,Willow Park via Weatherford 200K,/cgi-bin/routesearch_PF.pl?rtid=1493,1493,/cgi-bin/resultsearch_PF.pl?eid=10106&esortby=cert,10106
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/06/15,route 95 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=95,95,/cgi-bin/resultsearch_PF.pl?eid=10321&esortby=cert,10321
+WI: Western,Driftless Randonneurs / 949007,ACPB,400,2019/06/15,Off to Elkader 400K,/cgi-bin/routesearch_PF.pl?rtid=1904,1904,/cgi-bin/resultsearch_PF.pl?eid=10243&esortby=cert,10243
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,400,2019/06/15,Asheville-Damascus-Asheville 400k,/cgi-bin/routesearch_PF.pl?rtid=1747,1747,/cgi-bin/resultsearch_PF.pl?eid=10142&esortby=cert,10142
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,400,2019/06/15,Chuckamano Diamond 400k,/cgi-bin/routesearch_PF.pl?rtid=2439,2439,/cgi-bin/resultsearch_PF.pl?eid=10183&esortby=cert,10183
+IA: Central,Iowa Randonneurs / 915005,ACPB,200,2019/06/15,Brushy Trestle (Ames start),/cgi-bin/routesearch_PF.pl?rtid=1919,1919,/cgi-bin/resultsearch_PF.pl?eid=10350&esortby=cert,10350
+TX: Houston,Houston Randonneurs / 943030,ACPB,300,2019/06/15,CFH 300,/cgi-bin/routesearch_PF.pl?rtid=270,270,/cgi-bin/resultsearch_PF.pl?eid=10027&esortby=cert,10027
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,600,2019/06/15,My Ears are Bleeding 600k,/cgi-bin/routesearch_PF.pl?rtid=2369,2369,/cgi-bin/resultsearch_PF.pl?eid=10212&esortby=cert,10212
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,400,2019/06/15,Sleeping Bear 400K,/cgi-bin/routesearch_PF.pl?rtid=2225,2225,/cgi-bin/resultsearch_PF.pl?eid=9900&esortby=cert,9900
+TX: Houston,Houston Randonneurs / 943030,ACPB,200,2019/06/15,route 289 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=289,289,/cgi-bin/resultsearch_PF.pl?eid=10026&esortby=cert,10026
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2019/06/15,Big Mac 200,/cgi-bin/routesearch_PF.pl?rtid=2210,2210,/cgi-bin/resultsearch_PF.pl?eid=9899&esortby=cert,9899
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,400,2019/06/15,Psychedelic Cow 400,/cgi-bin/routesearch_PF.pl?rtid=2359,2359,/cgi-bin/resultsearch_PF.pl?eid=10211&esortby=cert,10211
+IA: Central,Iowa Randonneurs / 915005,ACPB,600,2019/06/15,Central Iowa Sampler 600K,/cgi-bin/routesearch_PF.pl?rtid=1171,1171,/cgi-bin/resultsearch_PF.pl?eid=10353&esortby=cert,10353
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,400,2019/06/15,RST 400K 2017,/cgi-bin/routesearch_PF.pl?rtid=2112,2112,/cgi-bin/resultsearch_PF.pl?eid=10323&esortby=cert,10323
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2019/06/15,Panama Road Willow Park 400K,/cgi-bin/routesearch_PF.pl?rtid=2157,2157,/cgi-bin/resultsearch_PF.pl?eid=10108&esortby=cert,10108
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,600,2019/06/15,Third Coast 600K,/cgi-bin/routesearch_PF.pl?rtid=2226,2226,/cgi-bin/resultsearch_PF.pl?eid=9901&esortby=cert,9901
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,200,2019/06/15,Ocean Beach 200k,/cgi-bin/routesearch_PF.pl?rtid=2249,2249,/cgi-bin/resultsearch_PF.pl?eid=9945&esortby=cert,9945
+VA: Northern,Northern Virginia Randonneurs / 946020,ACPB,1000,2019/06/20,Shenandoah 1000,/cgi-bin/routesearch_PF.pl?rtid=2459,2459,/cgi-bin/resultsearch_PF.pl?eid=9869&esortby=cert,9869
+AL: Birmingham,Montgomery Bicycle Club / 901005,ACPB,200,2019/06/21,All Aboard to Rockmart,/cgi-bin/routesearch_PF.pl?rtid=1451,1451,/cgi-bin/resultsearch_PF.pl?eid=9786&esortby=cert,9786
+WI: Western,Driftless Randonneurs / 949007,ACPB,1000,2019/06/21,Tour of the Driftless 1000K,/cgi-bin/routesearch_PF.pl?rtid=2251,2251,/cgi-bin/resultsearch_PF.pl?eid=10245&esortby=cert,10245
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,146,2019/06/22,Whiskey River 145km,/cgi-bin/routesearch_PF.pl?rtid=2406,2406,/cgi-bin/resultsearch_PF.pl?eid=10738&esortby=cert,10738
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,600,2019/06/22,route 304 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=304,304,/cgi-bin/resultsearch_PF.pl?eid=10393&esortby=cert,10393
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,1000,2019/06/22,Lefthand Canyon - Ft. Morgan - Devil's Gulch,/cgi-bin/routesearch_PF.pl?rtid=185,185,/cgi-bin/resultsearch_PF.pl?eid=10499&esortby=cert,10499
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,200,2019/06/22,A Real Doozy,/cgi-bin/routesearch_PF.pl?rtid=2455,2455,/cgi-bin/resultsearch_PF.pl?eid=10607&esortby=cert,10607
+SD: Sioux Falls,Falls Area Randonneurs / 941005,ACPB,600,2019/06/22,2016 SD Ramble 600k,/cgi-bin/routesearch_PF.pl?rtid=1993,1993,/cgi-bin/resultsearch_PF.pl?eid=9875&esortby=cert,9875
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,600,2019/06/22,600LR_2 (Stuart's 600k),/cgi-bin/routesearch_PF.pl?rtid=1085,1085,/cgi-bin/resultsearch_PF.pl?eid=10553&esortby=cert,10553
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,600,2019/06/22,St. Vrain Canyon - Devil's Gulch,/cgi-bin/routesearch_PF.pl?rtid=184,184,/cgi-bin/resultsearch_PF.pl?eid=10498&esortby=cert,10498
+GA: Atlanta,Audax Atlanta / 910004,ACPB,300,2019/06/22,Solstice 300,/cgi-bin/routesearch_PF.pl?rtid=759,759,/cgi-bin/resultsearch_PF.pl?eid=9804&esortby=cert,9804
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,400,2019/06/22,Lefthand Canyon,/cgi-bin/routesearch_PF.pl?rtid=183,183,/cgi-bin/resultsearch_PF.pl?eid=10497&esortby=cert,10497
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,600,2019/06/22,route 26 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=26,26,/cgi-bin/resultsearch_PF.pl?eid=9765&esortby=cert,9765
+OR: Portland,Oregon Randonneurs / 937020,ACPB,400,2019/06/22,Lebanon-Dee Wright Observatory,/cgi-bin/routesearch_PF.pl?rtid=1988,1988,/cgi-bin/resultsearch_PF.pl?eid=10473&esortby=cert,10473
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,300,2019/06/22,SF to Davis 300,/cgi-bin/routesearch_PF.pl?rtid=2440,2440,/cgi-bin/resultsearch_PF.pl?eid=10258&esortby=cert,10258
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,200,2019/06/22,Double Deuce Leg 1,/cgi-bin/routesearch_PF.pl?rtid=2128,2128,/cgi-bin/resultsearch_PF.pl?eid=10395&esortby=cert,10395
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,600,2019/06/22,Apple Valley - Winona 600k,/cgi-bin/routesearch_PF.pl?rtid=686,686,/cgi-bin/resultsearch_PF.pl?eid=10324&esortby=cert,10324
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,600,2019/06/22,Molt Metro 600K,/cgi-bin/routesearch_PF.pl?rtid=2121,2121,/cgi-bin/resultsearch_PF.pl?eid=10282&esortby=cert,10282
+WI: Western,Driftless Randonneurs / 949007,RUSAB,309,2019/06/22,Where Eagles Dare 300K,/cgi-bin/routesearch_PF.pl?rtid=1882,1882,/cgi-bin/resultsearch_PF.pl?eid=10739&esortby=cert,10739
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,400,2019/06/22,route 303 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=303,303,/cgi-bin/resultsearch_PF.pl?eid=10394&esortby=cert,10394
+WI: Western,Driftless Randonneurs / 949007,RUSAB,207,2019/06/22,Where Fledglings Dare 200K,/cgi-bin/routesearch_PF.pl?rtid=1999,1999,/cgi-bin/resultsearch_PF.pl?eid=10740&esortby=cert,10740
+OR: Eugene,South Willamette Randonneurs / 937003,ACPB,300,2019/06/22,Smith River Loop,/cgi-bin/routesearch_PF.pl?rtid=2123,2123,/cgi-bin/resultsearch_PF.pl?eid=10406&esortby=cert,10406
+CA: Davis,Davis Bike Club / 905014,ACPB,200,2019/06/23,Davis 2 Santa Rosa,/cgi-bin/routesearch_PF.pl?rtid=2444,2444,/cgi-bin/resultsearch_PF.pl?eid=10374&esortby=cert,10374
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,200,2019/06/23,Double Deuce Leg 2 200K,/cgi-bin/routesearch_PF.pl?rtid=2129,2129,/cgi-bin/resultsearch_PF.pl?eid=10396&esortby=cert,10396
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,400,2019/06/25,Arcata 400k,/cgi-bin/routesearch_PF.pl?rtid=2453,2453,/cgi-bin/resultsearch_PF.pl?eid=10195&esortby=cert,10195
+CA: Humboldt,Humboldt Randonneurs / 905176,ACPB,600,2019/06/27,Nor-Cal Coast View,/cgi-bin/routesearch_PF.pl?rtid=2456,2456,/cgi-bin/resultsearch_PF.pl?eid=10257&esortby=cert,10257
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,400,2019/06/28,Raspberry Ramble 400k,/cgi-bin/routesearch_PF.pl?rtid=1399,1399,/cgi-bin/resultsearch_PF.pl?eid=10416&esortby=cert,10416
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,300,2019/06/28,Raspberry Ramble 300k,/cgi-bin/routesearch_PF.pl?rtid=1398,1398,/cgi-bin/resultsearch_PF.pl?eid=10415&esortby=cert,10415
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,600,2019/06/28,Raspberry Ramble 600k,/cgi-bin/routesearch_PF.pl?rtid=1402,1402,/cgi-bin/resultsearch_PF.pl?eid=10417&esortby=cert,10417
+MO: Kansas City,Audax Kansas City / 925005,ACPB,400,2019/06/29,Saint Joseph  Lamoni 401 K,/cgi-bin/routesearch_PF.pl?rtid=2186,2186,/cgi-bin/resultsearch_PF.pl?eid=9856&esortby=cert,9856
+NC: Asheville,Asheville International Randonneurs / 933011,ACPB,600,2019/06/29,Asheville-Wytheville-Asheville,/cgi-bin/routesearch_PF.pl?rtid=2091,2091,/cgi-bin/resultsearch_PF.pl?eid=10143&esortby=cert,10143
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,300,2019/06/29,Psychedelic Turtle 300,/cgi-bin/routesearch_PF.pl?rtid=2348,2348,/cgi-bin/resultsearch_PF.pl?eid=10214&esortby=cert,10214
+MA: Boston,New England Randonneurs / 921005,ACPB,600,2019/06/29,Connecticut River Tango (Concord start),/cgi-bin/routesearch_PF.pl?rtid=1974,1974,/cgi-bin/resultsearch_PF.pl?eid=10452&esortby=cert,10452
+MO: Kansas City,Audax Kansas City / 925005,ACPB,600,2019/06/29,Saint Joseph Double Loop 600K,/cgi-bin/routesearch_PF.pl?rtid=2207,2207,/cgi-bin/resultsearch_PF.pl?eid=9857&esortby=cert,9857
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,600,2019/06/29,Puff the Magic 600k,/cgi-bin/routesearch_PF.pl?rtid=2379,2379,/cgi-bin/resultsearch_PF.pl?eid=10213&esortby=cert,10213
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,400,2019/06/29,2019 Catskill 400,/cgi-bin/routesearch_PF.pl?rtid=561,561,/cgi-bin/resultsearch_PF.pl?eid=10201&esortby=cert,10201
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,135,2019/06/29,Half Nelson,/cgi-bin/routesearch_PF.pl?rtid=1523,1523,/cgi-bin/resultsearch_PF.pl?eid=10325&esortby=cert,10325
+MO: Kansas City,Audax Kansas City / 925005,RUSAB,300,2019/06/29,Saint Joseph - Conception 300K,/cgi-bin/routesearch_PF.pl?rtid=2166,2166,/cgi-bin/resultsearch_PF.pl?eid=10742&esortby=cert,10742
+WI: Western,Driftless Randonneurs / 949007,ACPB,600,2019/06/29,Cranberry Country 600K,/cgi-bin/routesearch_PF.pl?rtid=2411,2411,/cgi-bin/resultsearch_PF.pl?eid=10247&esortby=cert,10247
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,1000,2019/06/29,SIR Crowsnest 1000k,/cgi-bin/routesearch_PF.pl?rtid=2149,2149,/cgi-bin/resultsearch_PF.pl?eid=10187&esortby=cert,10187
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,400,2019/06/29,Thumbs Up 400,/cgi-bin/routesearch_PF.pl?rtid=1630,1630,/cgi-bin/resultsearch_PF.pl?eid=9903&esortby=cert,9903
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2019/06/29,MW 600 - 2008,/cgi-bin/routesearch_PF.pl?rtid=609,609,/cgi-bin/resultsearch_PF.pl?eid=10111&esortby=cert,10111
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/06/29,Fault Line,/cgi-bin/routesearch_PF.pl?rtid=2261,2261,/cgi-bin/resultsearch_PF.pl?eid=9988&esortby=cert,9988
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,362,2019/06/29,Mineral Wells 360k,/cgi-bin/routesearch_PF.pl?rtid=1089,1089,/cgi-bin/resultsearch_PF.pl?eid=10109&esortby=cert,10109
+WI: Western,Driftless Randonneurs / 949007,ACPB,400,2019/06/29,Back in Black (River Falls) 400k,/cgi-bin/routesearch_PF.pl?rtid=2061,2061,/cgi-bin/resultsearch_PF.pl?eid=10246&esortby=cert,10246
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,600,2019/06/29,Chuckamano Fork of Diamonds,/cgi-bin/routesearch_PF.pl?rtid=2432,2432,/cgi-bin/resultsearch_PF.pl?eid=10186&esortby=cert,10186
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/06/29,MW 200 - In conjuction W/ 600 (Out to Tolar & Back),/cgi-bin/routesearch_PF.pl?rtid=129,129,/cgi-bin/resultsearch_PF.pl?eid=10110&esortby=cert,10110
+MD: Capital Region,DC Randonneurs / 946012,ACPB,400,2019/06/29,Firefly 400,/cgi-bin/routesearch_PF.pl?rtid=1087,1087,/cgi-bin/resultsearch_PF.pl?eid=10293&esortby=cert,10293
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,600,2019/06/29,Thumbs Up 600K,/cgi-bin/routesearch_PF.pl?rtid=2081,2081,/cgi-bin/resultsearch_PF.pl?eid=9904&esortby=cert,9904
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,400,2019/06/29,Chuckamano Diamond 400k,/cgi-bin/routesearch_PF.pl?rtid=2439,2439,/cgi-bin/resultsearch_PF.pl?eid=10185&esortby=cert,10185
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2019/06/29,Thumbs Up 200K,/cgi-bin/routesearch_PF.pl?rtid=1773,1773,/cgi-bin/resultsearch_PF.pl?eid=9917&esortby=cert,9917
+NY: Central/Western,Finger Lakes Randonneurs / 932007,RUSAP,101,2019/06/30,Wolcott Falls Populaire,/cgi-bin/routesearch_PF.pl?rtid=1625,1625,/cgi-bin/resultsearch_PF.pl?eid=10741&esortby=cert,10741
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,RUSAP,100,2019/07/04,Memorial Populaire,/cgi-bin/routesearch_PF.pl?rtid=1602,1602,/cgi-bin/resultsearch_PF.pl?eid=10283&esortby=cert,10283
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,600,2019/07/06,Orr Springs 600k,/cgi-bin/routesearch_PF.pl?rtid=1513,1513,/cgi-bin/resultsearch_PF.pl?eid=10510&esortby=cert,10510
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,1000,2019/07/11,LOL (Lap Of the Lake),/cgi-bin/routesearch_PF.pl?rtid=913,913,/cgi-bin/resultsearch_PF.pl?eid=10554&esortby=cert,10554
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,1000,2019/07/12,Border-to-Border 1000k,/cgi-bin/routesearch_PF.pl?rtid=2283,2283,/cgi-bin/resultsearch_PF.pl?eid=10189&esortby=cert,10189
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,400,2019/07/12,SIR Spring 2014 400K Baker Lake,/cgi-bin/routesearch_PF.pl?rtid=1587,1587,/cgi-bin/resultsearch_PF.pl?eid=10188&esortby=cert,10188
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,1000,2019/07/12,Million Meters 2 The Dark Chocolate Cow,/cgi-bin/routesearch_PF.pl?rtid=2381,2381,/cgi-bin/resultsearch_PF.pl?eid=10215&esortby=cert,10215
+AZ: Phoenix,Arizona Randonneurs / 903020,RUSAP,120,2019/07/13,Lowell Observatory 120k,/cgi-bin/routesearch_PF.pl?rtid=2292,2292,/cgi-bin/resultsearch_PF.pl?eid=10703&esortby=cert,10703
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,107,2019/07/13,SD County Loop,/cgi-bin/routesearch_PF.pl?rtid=1721,1721,/cgi-bin/resultsearch_PF.pl?eid=9955&esortby=cert,9955
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/07/13,Independence 200,/cgi-bin/routesearch_PF.pl?rtid=2276,2276,/cgi-bin/resultsearch_PF.pl?eid=10500&esortby=cert,10500
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/07/13,Northern Pancake 202,/cgi-bin/routesearch_PF.pl?rtid=1361,1361,/cgi-bin/resultsearch_PF.pl?eid=10326&esortby=cert,10326
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/07/13,SF to Cloverdale 200,/cgi-bin/routesearch_PF.pl?rtid=1120,1120,/cgi-bin/resultsearch_PF.pl?eid=9990&esortby=cert,9990
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,200,2019/07/13,Lowell Observatory 200k,/cgi-bin/routesearch_PF.pl?rtid=2291,2291,/cgi-bin/resultsearch_PF.pl?eid=10264&esortby=cert,10264
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2019/07/13,Hoot Owl 200k,/cgi-bin/routesearch_PF.pl?rtid=2303,2303,/cgi-bin/resultsearch_PF.pl?eid=9805&esortby=cert,9805
+IL: Chicago,Great Lakes Randonneurs / 913005,RUSAP,118,2019/07/13,Chocolate Chicken 120k,/cgi-bin/routesearch_PF.pl?rtid=2384,2384,/cgi-bin/resultsearch_PF.pl?eid=10716&esortby=cert,10716
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,300,2019/07/13,Upper Door Tour 300k,/cgi-bin/routesearch_PF.pl?rtid=2386,2386,/cgi-bin/resultsearch_PF.pl?eid=10216&esortby=cert,10216
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2019/07/13,Bushkill Lackawaxen,/cgi-bin/routesearch_PF.pl?rtid=2466,2466,/cgi-bin/resultsearch_PF.pl?eid=10043&esortby=cert,10043
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,300,2019/07/13,Boonville Lollipop,/cgi-bin/routesearch_PF.pl?rtid=1119,1119,/cgi-bin/resultsearch_PF.pl?eid=9989&esortby=cert,9989
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,206,2019/07/13,University Loop,/cgi-bin/routesearch_PF.pl?rtid=2114,2114,/cgi-bin/resultsearch_PF.pl?eid=10751&esortby=cert,10751
+IL: Chicago,Great Lakes Randonneurs / 913005,RUSAP,110,2019/07/14,High Cliff 110k,/cgi-bin/routesearch_PF.pl?rtid=2387,2387,/cgi-bin/resultsearch_PF.pl?eid=10717&esortby=cert,10717
+WA: Tri-Cities,Desert River Randonneurs / 947004,RUSAP,132,2019/07/14,Wenatchee Dryside Adventure Short,/cgi-bin/routesearch_PF.pl?rtid=2463,2463,/cgi-bin/resultsearch_PF.pl?eid=10753&esortby=cert,10753
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/07/14,East Side Story,/cgi-bin/routesearch_PF.pl?rtid=2461,2461,/cgi-bin/resultsearch_PF.pl?eid=9991&esortby=cert,9991
+WA: Tri-Cities,Desert River Randonneurs / 947004,RUSAB,200,2019/07/14,Wenatchee Dryside Adventure 200k,/cgi-bin/routesearch_PF.pl?rtid=2462,2462,/cgi-bin/resultsearch_PF.pl?eid=10752&esortby=cert,10752
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAP,100,2019/07/18,Pittsburgh 100,/cgi-bin/routesearch_PF.pl?rtid=789,789,/cgi-bin/resultsearch_PF.pl?eid=10754&esortby=cert,10754
+FL: Central,Central Florida Randonneurs / 909062,ACPB,200,2019/07/19,Once is Not Enough 200k,/cgi-bin/routesearch_PF.pl?rtid=1332,1332,/cgi-bin/resultsearch_PF.pl?eid=10570&esortby=cert,10570
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,200,2019/07/20,route 233 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=233,233,/cgi-bin/resultsearch_PF.pl?eid=10203&esortby=cert,10203
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/07/20,Anchorage Palmer Anchorage,/cgi-bin/routesearch_PF.pl?rtid=1585,1585,/cgi-bin/resultsearch_PF.pl?eid=9767&esortby=cert,9767
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,102,2019/07/20,Mini Twin Cities Tour - Flood Version,/cgi-bin/routesearch_PF.pl?rtid=2418,2418,/cgi-bin/resultsearch_PF.pl?eid=10327&esortby=cert,10327
+TX: Houston,Houston Randonneurs / 943030,RUSAB,312,2019/07/20,route 652 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=652,652,/cgi-bin/resultsearch_PF.pl?eid=10029&esortby=cert,10029
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2019/07/20,Nowhere but Norwalk,/cgi-bin/routesearch_PF.pl?rtid=1856,1856,/cgi-bin/resultsearch_PF.pl?eid=10249&esortby=cert,10249
+WI: Western,Driftless Randonneurs / 949007,ACPB,300,2019/07/20,Wildcat Mountain Wander 300k,/cgi-bin/routesearch_PF.pl?rtid=2092,2092,/cgi-bin/resultsearch_PF.pl?eid=10250&esortby=cert,10250
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,ACPB,300,2019/07/20,route 15 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=15,15,/cgi-bin/resultsearch_PF.pl?eid=10202&esortby=cert,10202
+MA: Boston,New England Randonneurs / 921005,RUSAB,315,2019/07/20,Newport 315km,/cgi-bin/routesearch_PF.pl?rtid=2142,2142,/cgi-bin/resultsearch_PF.pl?eid=10748&esortby=cert,10748
+TX: Houston,Houston Randonneurs / 943030,RUSAB,207,2019/07/20,route 690 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=690,690,/cgi-bin/resultsearch_PF.pl?eid=10028&esortby=cert,10028
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,300,2019/07/20,Anchorage-Palmer 300,/cgi-bin/routesearch_PF.pl?rtid=737,737,/cgi-bin/resultsearch_PF.pl?eid=9768&esortby=cert,9768
+MO: Kansas City,Audax Kansas City / 925005,RUSAP,104,2019/07/20,Barley's - Free State 104,/cgi-bin/routesearch_PF.pl?rtid=1953,1953,/cgi-bin/resultsearch_PF.pl?eid=10747&esortby=cert,10747
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,300,2019/07/20,Mirror Lake Classic,/cgi-bin/routesearch_PF.pl?rtid=1814,1814,/cgi-bin/resultsearch_PF.pl?eid=10419&esortby=cert,10419
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2019/07/20,Nord 100,/cgi-bin/routesearch_PF.pl?rtid=943,943,/cgi-bin/resultsearch_PF.pl?eid=9766&esortby=cert,9766
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,600,2019/07/20,Jamestown-Raymond Two Prong (600),/cgi-bin/routesearch_PF.pl?rtid=1260,1260,/cgi-bin/resultsearch_PF.pl?eid=10615&esortby=cert,10615
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2019/07/20,Heber Valley 200,/cgi-bin/routesearch_PF.pl?rtid=1822,1822,/cgi-bin/resultsearch_PF.pl?eid=10418&esortby=cert,10418
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAB,207,2019/07/20,Pgh Weirton Monongahela 200k,/cgi-bin/routesearch_PF.pl?rtid=1359,1359,/cgi-bin/resultsearch_PF.pl?eid=10757&esortby=cert,10757
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/07/20,William Dodd Road Ramble,/cgi-bin/routesearch_PF.pl?rtid=1631,1631,/cgi-bin/resultsearch_PF.pl?eid=10328&esortby=cert,10328
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,300,2019/07/20,SonoMendo Coast 300,/cgi-bin/routesearch_PF.pl?rtid=2144,2144,/cgi-bin/resultsearch_PF.pl?eid=10066&esortby=cert,10066
+NY: Central/Western,Finger Lakes Randonneurs / 932007,RUSAP,100,2019/07/25,Wolcott Falls Populaire,/cgi-bin/routesearch_PF.pl?rtid=1625,1625,/cgi-bin/resultsearch_PF.pl?eid=10756&esortby=cert,10756
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/07/27,Davis 200,/cgi-bin/routesearch_PF.pl?rtid=753,753,/cgi-bin/resultsearch_PF.pl?eid=9992&esortby=cert,9992
+MA: Boston,New England Randonneurs / 921005,RUSAB,200,2019/07/27,Overnight 200K,/cgi-bin/routesearch_PF.pl?rtid=1798,1798,/cgi-bin/resultsearch_PF.pl?eid=10749&esortby=cert,10749
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,300,2019/07/27,Tune-up 300k 2019,/cgi-bin/routesearch_PF.pl?rtid=2468,2468,/cgi-bin/resultsearch_PF.pl?eid=10190&esortby=cert,10190
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,300,2019/07/27,route 331 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=331,331,/cgi-bin/resultsearch_PF.pl?eid=10397&esortby=cert,10397
+WI: Western,Driftless Randonneurs / 949007,RUSAF,120,2019/07/27,?,,,/cgi-bin/resultsearch_PF.pl?eid=10248&esortby=cert,10248
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,400,2019/07/27,King Ridge 400K,/cgi-bin/routesearch_PF.pl?rtid=1302,1302,/cgi-bin/resultsearch_PF.pl?eid=10511&esortby=cert,10511
+AZ: Phoenix,Arizona Randonneurs / 903020,ACPB,300,2019/07/27,Standing on the Corner 300k,/cgi-bin/routesearch_PF.pl?rtid=2401,2401,/cgi-bin/resultsearch_PF.pl?eid=10265&esortby=cert,10265
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAB,200,2019/07/27,Meanville Greenville,/cgi-bin/routesearch_PF.pl?rtid=2420,2420,/cgi-bin/resultsearch_PF.pl?eid=10735&esortby=cert,10735
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/07/27,Smiling Elephant,/cgi-bin/routesearch_PF.pl?rtid=2447,2447,/cgi-bin/resultsearch_PF.pl?eid=10329&esortby=cert,10329
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,200,2019/07/28,Tune-up 200k 2019,/cgi-bin/routesearch_PF.pl?rtid=2467,2467,/cgi-bin/resultsearch_PF.pl?eid=10191&esortby=cert,10191
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/07/28,Dairyland Dandy Brevet,/cgi-bin/routesearch_PF.pl?rtid=1175,1175,/cgi-bin/resultsearch_PF.pl?eid=10331&esortby=cert,10331
+WI: Western,Driftless Randonneurs / 949007,RUSAP,100,2019/07/28,Spring Green Populaire,/cgi-bin/routesearch_PF.pl?rtid=1824,1824,/cgi-bin/resultsearch_PF.pl?eid=10728&esortby=cert,10728
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2019/07/28,Whitetail Wander Populaire,/cgi-bin/routesearch_PF.pl?rtid=1384,1384,/cgi-bin/resultsearch_PF.pl?eid=10330&esortby=cert,10330
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAP,100,2019/07/7,Pittsburgh 100,/cgi-bin/routesearch_PF.pl?rtid=789,789,/cgi-bin/resultsearch_PF.pl?eid=10737&esortby=cert,10737
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,300,2019/08/03,Coffee Cup Classic,/cgi-bin/routesearch_PF.pl?rtid=2473,2473,/cgi-bin/resultsearch_PF.pl?eid=10501&esortby=cert,10501
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,300,2019/08/03,Willow Park via Weatherford 300K,/cgi-bin/routesearch_PF.pl?rtid=1490,1490,/cgi-bin/resultsearch_PF.pl?eid=10744&esortby=cert,10744
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/08/03,Glennallen/Chitna/Glennallen 200K,/cgi-bin/routesearch_PF.pl?rtid=1018,1018,/cgi-bin/resultsearch_PF.pl?eid=9770&esortby=cert,9770
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/08/03,route 95 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=95,95,/cgi-bin/resultsearch_PF.pl?eid=10332&esortby=cert,10332
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2019/08/03,Psychedelic Eagle 200,/cgi-bin/routesearch_PF.pl?rtid=2364,2364,/cgi-bin/resultsearch_PF.pl?eid=10218&esortby=cert,10218
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,400,2019/08/03,Copper - Valdez - Copper,/cgi-bin/routesearch_PF.pl?rtid=2087,2087,/cgi-bin/resultsearch_PF.pl?eid=9771&esortby=cert,9771
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,102,2019/08/03,Summer Coast Populaire,/cgi-bin/routesearch_PF.pl?rtid=2118,2118,/cgi-bin/resultsearch_PF.pl?eid=9956&esortby=cert,9956
+VA: Northern,Northern Virginia Randonneurs / 946020,ACPB,300,2019/08/03,Madison 300,/cgi-bin/routesearch_PF.pl?rtid=2472,2472,/cgi-bin/resultsearch_PF.pl?eid=9870&esortby=cert,9870
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,400,2019/08/03,Psychedelic Cow 400,/cgi-bin/routesearch_PF.pl?rtid=2359,2359,/cgi-bin/resultsearch_PF.pl?eid=10217&esortby=cert,10217
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2019/08/03,Copper 110k,/cgi-bin/routesearch_PF.pl?rtid=1978,1978,/cgi-bin/resultsearch_PF.pl?eid=9769&esortby=cert,9769
+GA: Atlanta,Audax Atlanta / 910004,ACPB,200,2019/08/03,Amicalola Foothills Ramble,/cgi-bin/routesearch_PF.pl?rtid=1878,1878,/cgi-bin/resultsearch_PF.pl?eid=9811&esortby=cert,9811
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2019/08/03,Yet Another River to River Ride,/cgi-bin/routesearch_PF.pl?rtid=1963,1963,/cgi-bin/resultsearch_PF.pl?eid=10044&esortby=cert,10044
+MA: Boston,New England Randonneurs / 921005,ACPB,400,2019/08/03,Oh Canada 400,/cgi-bin/routesearch_PF.pl?rtid=1795,1795,/cgi-bin/resultsearch_PF.pl?eid=10454&esortby=cert,10454
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,210,2019/08/03,Willow Park via Weatherford 200K,/cgi-bin/routesearch_PF.pl?rtid=1493,1493,/cgi-bin/resultsearch_PF.pl?eid=10745&esortby=cert,10745
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,103,2019/08/04,El Paseito Mixto 103k,/cgi-bin/routesearch_PF.pl?rtid=1517,1517,/cgi-bin/resultsearch_PF.pl?eid=9993&esortby=cert,9993
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,112,2019/08/04,Lucas Valley Populaire,/cgi-bin/routesearch_PF.pl?rtid=1335,1335,/cgi-bin/resultsearch_PF.pl?eid=9994&esortby=cert,9994
+VA: Northern,Northern Virginia Randonneurs / 946020,ACPB,200,2019/08/04,Waynesboro 200,/cgi-bin/routesearch_PF.pl?rtid=2469,2469,/cgi-bin/resultsearch_PF.pl?eid=9871&esortby=cert,9871
+GA: Atlanta,Audax Atlanta / 910004,RUSAP,100,2019/08/10,Euharlee 3 BBQ Populaire,/cgi-bin/routesearch_PF.pl?rtid=1489,1489,/cgi-bin/resultsearch_PF.pl?eid=9806&esortby=cert,9806
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2019/08/10,Dakota County Frolic,/cgi-bin/routesearch_PF.pl?rtid=1760,1760,/cgi-bin/resultsearch_PF.pl?eid=10333&esortby=cert,10333
+TX: Houston,Houston Randonneurs / 943030,RUSAB,205,2019/08/10,route 289 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=289,289,/cgi-bin/resultsearch_PF.pl?eid=10030&esortby=cert,10030
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,ACPB,200,2019/08/10,Antelope Island 200,/cgi-bin/routesearch_PF.pl?rtid=2474,2474,/cgi-bin/resultsearch_PF.pl?eid=10420&esortby=cert,10420
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAB,300,2019/08/10,Kittens and Puppies 300k,/cgi-bin/routesearch_PF.pl?rtid=1366,1366,/cgi-bin/resultsearch_PF.pl?eid=10746&esortby=cert,10746
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,101,2019/08/17,Trails to Trails Populaire,/cgi-bin/routesearch_PF.pl?rtid=1554,1554,/cgi-bin/resultsearch_PF.pl?eid=10334&esortby=cert,10334
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,300,2019/08/17,Anchorage-Palmer 300,/cgi-bin/routesearch_PF.pl?rtid=737,737,/cgi-bin/resultsearch_PF.pl?eid=9773&esortby=cert,9773
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,600,2019/08/17,Anchorage to Fairbanks 600k,/cgi-bin/routesearch_PF.pl?rtid=1969,1969,/cgi-bin/resultsearch_PF.pl?eid=9774&esortby=cert,9774
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/08/17,HTF2,/cgi-bin/routesearch_PF.pl?rtid=2315,2315,/cgi-bin/resultsearch_PF.pl?eid=10112&esortby=cert,10112
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAP,100,2019/08/17,BCLA Metric Century,/cgi-bin/routesearch_PF.pl?rtid=2117,2117,/cgi-bin/resultsearch_PF.pl?eid=9787&esortby=cert,9787
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/08/17,Anchorage Palmer Anchorage,/cgi-bin/routesearch_PF.pl?rtid=1585,1585,/cgi-bin/resultsearch_PF.pl?eid=9772&esortby=cert,9772
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/08/17,James Canyon Jaunt,/cgi-bin/routesearch_PF.pl?rtid=971,971,/cgi-bin/resultsearch_PF.pl?eid=10502&esortby=cert,10502
+MI: Detroit,Detroit Randonneurs / 922015,RUSAP,104,2019/08/18,104k Novi Populaire,/cgi-bin/routesearch_PF.pl?rtid=1416,1416,/cgi-bin/resultsearch_PF.pl?eid=9890&esortby=cert,9890
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAB,300,2019/08/24,Washington PA - Meyersdale 300k,/cgi-bin/routesearch_PF.pl?rtid=930,930,/cgi-bin/resultsearch_PF.pl?eid=10773&esortby=cert,10773
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,362,2019/08/31,Mineral Wells 360k,/cgi-bin/routesearch_PF.pl?rtid=1089,1089,/cgi-bin/resultsearch_PF.pl?eid=10113&esortby=cert,10113
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,411,2019/08/31,MW 411 - in conjuntion W/ 600 (to WhataBurger),/cgi-bin/routesearch_PF.pl?rtid=141,141,/cgi-bin/resultsearch_PF.pl?eid=10755&esortby=cert,10755
+MA: Boston,New England Randonneurs / 921005,RUSAB,200,2019/08/31,Five Hills in New Hampshire,/cgi-bin/routesearch_PF.pl?rtid=2329,2329,/cgi-bin/resultsearch_PF.pl?eid=10455&esortby=cert,10455
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,200,2019/08/31,Mt. Tam 200k,/cgi-bin/routesearch_PF.pl?rtid=2265,2265,/cgi-bin/resultsearch_PF.pl?eid=10067&esortby=cert,10067
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2019/08/31,MW 600 - 2008,/cgi-bin/routesearch_PF.pl?rtid=609,609,/cgi-bin/resultsearch_PF.pl?eid=10115&esortby=cert,10115
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/08/31,Sakatah Singing Hills #2,/cgi-bin/routesearch_PF.pl?rtid=1172,1172,/cgi-bin/resultsearch_PF.pl?eid=10335&esortby=cert,10335
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAB,200,2019/08/31,Land O'Goshen 200,/cgi-bin/routesearch_PF.pl?rtid=2477,2477,/cgi-bin/resultsearch_PF.pl?eid=10775&esortby=cert,10775
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/08/31,MW 200 - In conjuction W/ 600 (Out to Tolar & Back),/cgi-bin/routesearch_PF.pl?rtid=129,129,/cgi-bin/resultsearch_PF.pl?eid=10114&esortby=cert,10114
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/09/02,Possum Pedal 205,/cgi-bin/routesearch_PF.pl?rtid=654,654,/cgi-bin/resultsearch_PF.pl?eid=10116&esortby=cert,10116
+CA: Davis,Davis Bike Club / 905014,ACPB,200,2019/09/07,Davis-Calistoga-Davis 200Km,/cgi-bin/routesearch_PF.pl?rtid=1163,1163,/cgi-bin/resultsearch_PF.pl?eid=10375&esortby=cert,10375
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2019/09/07,Psychedelic Eagle 200,/cgi-bin/routesearch_PF.pl?rtid=2364,2364,/cgi-bin/resultsearch_PF.pl?eid=10219&esortby=cert,10219
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,600,2019/09/07,Puff the Magic 600k,/cgi-bin/routesearch_PF.pl?rtid=2379,2379,/cgi-bin/resultsearch_PF.pl?eid=10220&esortby=cert,10220
+PA: Eastern,Pennsylvania Randonneurs / 938017,ACPB,200,2019/09/07,Stillwater 200,/cgi-bin/routesearch_PF.pl?rtid=833,833,/cgi-bin/resultsearch_PF.pl?eid=10045&esortby=cert,10045
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/09/07,Stove Prairie Counterclockwise,/cgi-bin/routesearch_PF.pl?rtid=177,177,/cgi-bin/resultsearch_PF.pl?eid=10503&esortby=cert,10503
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,109,2019/09/07,Tour de South Bay,/cgi-bin/routesearch_PF.pl?rtid=2018,2018,/cgi-bin/resultsearch_PF.pl?eid=9957&esortby=cert,9957
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAB,600,2019/09/07,Poudre Canyon 600K,/cgi-bin/routesearch_PF.pl?rtid=1583,1583,/cgi-bin/resultsearch_PF.pl?eid=10871&esortby=cert,10871
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2019/09/07,Johnson City Stretch,/cgi-bin/routesearch_PF.pl?rtid=1504,1504,/cgi-bin/resultsearch_PF.pl?eid=10811&esortby=cert,10811
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAB,300,2019/09/14,Washington PA - Meyersdale 300k,/cgi-bin/routesearch_PF.pl?rtid=930,930,/cgi-bin/resultsearch_PF.pl?eid=10785&esortby=cert,10785
+GA: Atlanta,Audax Atlanta / 910004,RUSAB,200,2019/09/14,Secret Gaps 200k Brevet,/cgi-bin/routesearch_PF.pl?rtid=2145,2145,/cgi-bin/resultsearch_PF.pl?eid=10618&esortby=cert,10618
+MT: Bozeman,Gallatin Valley Bicycle Club / 926001,ACPB,200,2019/09/14,Yellowstone National Park South Loop,/cgi-bin/routesearch_PF.pl?rtid=1470,1470,/cgi-bin/resultsearch_PF.pl?eid=10284&esortby=cert,10284
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2019/09/14,Willow Park via Weatherford 400K,/cgi-bin/routesearch_PF.pl?rtid=1494,1494,/cgi-bin/resultsearch_PF.pl?eid=10117&esortby=cert,10117
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2019/09/14,Trail Mix,/cgi-bin/routesearch_PF.pl?rtid=1998,1998,/cgi-bin/resultsearch_PF.pl?eid=9906&esortby=cert,9906
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,600,2019/09/14,Apple Valley - Winona 600k,/cgi-bin/routesearch_PF.pl?rtid=686,686,/cgi-bin/resultsearch_PF.pl?eid=10336&esortby=cert,10336
+MD: Capital Region,DC Randonneurs / 946012,ACPB,200,2019/09/14,Damsels Detour,/cgi-bin/routesearch_PF.pl?rtid=2470,2470,/cgi-bin/resultsearch_PF.pl?eid=10294&esortby=cert,10294
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2019/09/14,Homer 100k,/cgi-bin/routesearch_PF.pl?rtid=2136,2136,/cgi-bin/resultsearch_PF.pl?eid=9775&esortby=cert,9775
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,400,2019/09/14,Poudre Canyon 400K,/cgi-bin/routesearch_PF.pl?rtid=1582,1582,/cgi-bin/resultsearch_PF.pl?eid=10508&esortby=cert,10508
+AL: Birmingham,Montgomery Bicycle Club / 901005,ACPB,300,2019/09/14,Prattville 300K,/cgi-bin/routesearch_PF.pl?rtid=1157,1157,/cgi-bin/resultsearch_PF.pl?eid=9788&esortby=cert,9788
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,200,2019/09/14,200 LR_2 Seaway Diner Ride,/cgi-bin/routesearch_PF.pl?rtid=1325,1325,/cgi-bin/resultsearch_PF.pl?eid=10555&esortby=cert,10555
+WA: Seattle,Seattle International Randonneurs / 947018,ACPB,1000,2019/09/14,2019 Sep 1000k,/cgi-bin/routesearch_PF.pl?rtid=2483,2483,/cgi-bin/resultsearch_PF.pl?eid=10192&esortby=cert,10192
+AK: Anchorage,Denali Randonneurs / 902007,ACPB,200,2019/09/14,route 705 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=705,705,/cgi-bin/resultsearch_PF.pl?eid=9776&esortby=cert,9776
+SD: Sioux Falls,Falls Area Randonneurs / 941005,ACPB,200,2019/09/15,Wandering Around in Walleye County,/cgi-bin/routesearch_PF.pl?rtid=2140,2140,/cgi-bin/resultsearch_PF.pl?eid=9876&esortby=cert,9876
+FL: Central,Central Florida Randonneurs / 909062,RUSAB,1000,2019/09/20,Pine Island 1000K,/cgi-bin/routesearch_PF.pl?rtid=2478,2478,/cgi-bin/resultsearch_PF.pl?eid=10774&esortby=cert,10774
+IL: Chicago,Great Lakes Randonneurs / 913005,ACPB,200,2019/09/21,Evanston Bull Valley 200k,/cgi-bin/routesearch_PF.pl?rtid=2394,2394,/cgi-bin/resultsearch_PF.pl?eid=10221&esortby=cert,10221
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/09/21,Further North to Siren,/cgi-bin/routesearch_PF.pl?rtid=2180,2180,/cgi-bin/resultsearch_PF.pl?eid=10338&esortby=cert,10338
+NC: Raleigh,North Carolina Bicycle Club / 933045,RUSAP,100,2019/09/21,route 655 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=655,655,/cgi-bin/resultsearch_PF.pl?eid=9974&esortby=cert,9974
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAF,200,2019/09/21,?,,,/cgi-bin/resultsearch_PF.pl?eid=10505&esortby=cert,10505
+AK: Anchorage,Denali Randonneurs / 902007,RUSAP,100,2019/09/21,Nord 100,/cgi-bin/routesearch_PF.pl?rtid=943,943,/cgi-bin/resultsearch_PF.pl?eid=9777&esortby=cert,9777
+CA: San Luis Obispo,San Luis Obispo Randonneurs / 905166,ACPB,400,2019/09/21,Outlaw 400k,/cgi-bin/routesearch_PF.pl?rtid=2062,2062,/cgi-bin/resultsearch_PF.pl?eid=10516&esortby=cert,10516
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,123,2019/09/21,Osceola 2 Luck,/cgi-bin/routesearch_PF.pl?rtid=2146,2146,/cgi-bin/resultsearch_PF.pl?eid=10337&esortby=cert,10337
+CA: Santa Rosa,Santa Rosa Randonneurs / 905171,ACPB,200,2019/09/21,Nov-Caz 200K,/cgi-bin/routesearch_PF.pl?rtid=1376,1376,/cgi-bin/resultsearch_PF.pl?eid=10068&esortby=cert,10068
+CA: San Diego,San Diego Randonneurs / 905140,ACPB,1000,2019/09/21,LoCal through SoCal 1000k,/cgi-bin/routesearch_PF.pl?rtid=2245,2245,/cgi-bin/resultsearch_PF.pl?eid=9947&esortby=cert,9947
+MO: Kansas City,Audax Kansas City / 925005,ACPB,300,2019/09/21,Columbia - Paris 300K,/cgi-bin/routesearch_PF.pl?rtid=2295,2295,/cgi-bin/resultsearch_PF.pl?eid=9858&esortby=cert,9858
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAF,120,2019/09/21,?,,,/cgi-bin/resultsearch_PF.pl?eid=10193&esortby=cert,10193
+MO: Kansas City,Audax Kansas City / 925005,ACPB,200,2019/09/21,Columbia - Higbee 208K Loop,/cgi-bin/routesearch_PF.pl?rtid=2163,2163,/cgi-bin/resultsearch_PF.pl?eid=9859&esortby=cert,9859
+NC: Raleigh,North Carolina Bicycle Club / 933045,ACPB,200,2019/09/21,route 227 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=227,227,/cgi-bin/resultsearch_PF.pl?eid=9973&esortby=cert,9973
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAB,207,2019/09/22,Pgh Weirton Monongahela 200k,/cgi-bin/routesearch_PF.pl?rtid=1359,1359,/cgi-bin/resultsearch_PF.pl?eid=10964&esortby=cert,10964
+MO: Kansas City,Audax Kansas City / 925005,ACPB,200,2019/09/22,Boonville - California 200K Loop,/cgi-bin/routesearch_PF.pl?rtid=2164,2164,/cgi-bin/resultsearch_PF.pl?eid=9860&esortby=cert,9860
+MO: Kansas City,Audax Kansas City / 925005,RUSAP,100,2019/09/22,Columbia 100k,/cgi-bin/routesearch_PF.pl?rtid=2302,2302,/cgi-bin/resultsearch_PF.pl?eid=9861&esortby=cert,9861
+TX: Houston,Houston Randonneurs / 943030,RUSAB,400,2019/09/28,Brookshire-Columbus 400K,/cgi-bin/routesearch_PF.pl?rtid=1064,1064,/cgi-bin/resultsearch_PF.pl?eid=10031&esortby=cert,10031
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,200,2019/09/28,Randy Johnson 200k,/cgi-bin/routesearch_PF.pl?rtid=2479,2479,/cgi-bin/resultsearch_PF.pl?eid=10536&esortby=cert,10536
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2019/09/28,OK is OK 309,/cgi-bin/routesearch_PF.pl?rtid=614,614,/cgi-bin/resultsearch_PF.pl?eid=10119&esortby=cert,10119
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/09/28,William Dodd Road Ramble,/cgi-bin/routesearch_PF.pl?rtid=1631,1631,/cgi-bin/resultsearch_PF.pl?eid=10339&esortby=cert,10339
+MA: Boston,New England Randonneurs / 921005,RUSAB,204,2019/09/28,Old Stone House 200k,/cgi-bin/routesearch_PF.pl?rtid=2486,2486,/cgi-bin/resultsearch_PF.pl?eid=10458&esortby=cert,10458
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,200,2019/09/28,Damit2,/cgi-bin/routesearch_PF.pl?rtid=2482,2482,/cgi-bin/resultsearch_PF.pl?eid=9828&esortby=cert,9828
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,400,2019/09/28,OK is OK 400,/cgi-bin/routesearch_PF.pl?rtid=615,615,/cgi-bin/resultsearch_PF.pl?eid=10120&esortby=cert,10120
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,200,2019/09/28,OK is OK 217,/cgi-bin/routesearch_PF.pl?rtid=613,613,/cgi-bin/resultsearch_PF.pl?eid=10118&esortby=cert,10118
+MA: Boston,New England Randonneurs / 921005,RUSAP,109,2019/09/28,Old Stone House 100k,/cgi-bin/routesearch_PF.pl?rtid=2485,2485,/cgi-bin/resultsearch_PF.pl?eid=10457&esortby=cert,10457
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,300,2019/09/28,Old Cazadero 300,/cgi-bin/routesearch_PF.pl?rtid=958,958,/cgi-bin/resultsearch_PF.pl?eid=9996&esortby=cert,9996
+GA: Atlanta,Audax Atlanta / 910004,RUSAB,200,2019/09/28,Bundrick's Revenge 200k,/cgi-bin/routesearch_PF.pl?rtid=100,100,/cgi-bin/resultsearch_PF.pl?eid=9807&esortby=cert,9807
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,600,2019/09/28,route 118 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=118,118,/cgi-bin/resultsearch_PF.pl?eid=10539&esortby=cert,10539
+TX: Dallas,Lone Star Randonneurs / 943026,RM,1200,2019/09/28,Hound Dog 1200k,/cgi-bin/routesearch_PF.pl?rtid=2475,2475,/cgi-bin/resultsearch_PF.pl?eid=10123&esortby=cert,10123
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,400,2019/09/28,route 21 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=21,21,/cgi-bin/resultsearch_PF.pl?eid=10538&esortby=cert,10538
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,1000,2019/09/28,Hound Dog 1000k,/cgi-bin/routesearch_PF.pl?rtid=2451,2451,/cgi-bin/resultsearch_PF.pl?eid=10122&esortby=cert,10122
+MO: St. Louis,St Louis Randonneurs / 925006,ACPB,300,2019/09/28,route 117 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=117,117,/cgi-bin/resultsearch_PF.pl?eid=10537&esortby=cert,10537
+IN: Indianapolis,Indiana Randonneurs / 914005,ACPB,200,2019/09/28,Indianapolis Story Indianapolis,/cgi-bin/routesearch_PF.pl?rtid=1576,1576,/cgi-bin/resultsearch_PF.pl?eid=10608&esortby=cert,10608
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,600,2019/09/28,OK is OK 602,/cgi-bin/routesearch_PF.pl?rtid=616,616,/cgi-bin/resultsearch_PF.pl?eid=10121&esortby=cert,10121
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,200,2019/09/28,route 529 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=529,529,/cgi-bin/resultsearch_PF.pl?eid=10965&esortby=cert,10965
+MD: Capital Region,DC Randonneurs / 946012,RUSAP,100,2019/09/28,Palisades Poolesville Populaire,/cgi-bin/routesearch_PF.pl?rtid=2471,2471,/cgi-bin/resultsearch_PF.pl?eid=10733&esortby=cert,10733
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,400,2019/09/28,Falls City - Fairbury - Hiawatha 400k,/cgi-bin/routesearch_PF.pl?rtid=2476,2476,/cgi-bin/resultsearch_PF.pl?eid=9840&esortby=cert,9840
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2019/10/05,Where Fledglings Dare 200K,/cgi-bin/routesearch_PF.pl?rtid=1999,1999,/cgi-bin/resultsearch_PF.pl?eid=10251&esortby=cert,10251
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,145,2019/10/05,Urbanneur,/cgi-bin/routesearch_PF.pl?rtid=2328,2328,/cgi-bin/resultsearch_PF.pl?eid=10340&esortby=cert,10340
+PA: Pittsburgh,Western Pennsylvania Bicycle Club / 938016,RUSAB,300,2019/10/05,Washington PA - Meyersdale 300k,/cgi-bin/routesearch_PF.pl?rtid=930,930,/cgi-bin/resultsearch_PF.pl?eid=10993&esortby=cert,10993
+CO: Boulder,Rocky Mountain Cycling Club / 906002,ACPB,200,2019/10/05,VGV - Vail-Glenwood Springs-Vail,/cgi-bin/routesearch_PF.pl?rtid=1497,1497,/cgi-bin/resultsearch_PF.pl?eid=10504&esortby=cert,10504
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAF,200,2019/10/05,?,,,/cgi-bin/resultsearch_PF.pl?eid=9997&esortby=cert,9997
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,300,2019/10/05,route 527 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=527,527,/cgi-bin/resultsearch_PF.pl?eid=10966&esortby=cert,10966
+OR: Portland,Oregon Randonneurs / 937020,ACPB,200,2019/10/05,Mt Adams SxSW Brevet,/cgi-bin/routesearch_PF.pl?rtid=271,271,/cgi-bin/resultsearch_PF.pl?eid=10477&esortby=cert,10477
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAF,120,2019/10/05,?,,,/cgi-bin/resultsearch_PF.pl?eid=9998&esortby=cert,9998
+MA: Boston,New England Randonneurs / 921005,RUSAB,200,2019/10/05,Cider Dreams,/cgi-bin/routesearch_PF.pl?rtid=2489,2489,/cgi-bin/resultsearch_PF.pl?eid=10786&esortby=cert,10786
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,102,2019/10/06,Santee populaire,/cgi-bin/routesearch_PF.pl?rtid=2206,2206,/cgi-bin/resultsearch_PF.pl?eid=9958&esortby=cert,9958
+WI: Western,Driftless Randonneurs / 949007,RUSAP,100,2019/10/06,Spring Green Populaire,/cgi-bin/routesearch_PF.pl?rtid=1824,1824,/cgi-bin/resultsearch_PF.pl?eid=11228&esortby=cert,11228
+IL: Quad Cities,Quad Cities Randonneurs / 913042,ACPB,200,2019/10/12,Giddyup to Galena,/cgi-bin/routesearch_PF.pl?rtid=2327,2327,/cgi-bin/resultsearch_PF.pl?eid=10602&esortby=cert,10602
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAP,150,2019/10/12,Brandywine 150,/cgi-bin/routesearch_PF.pl?rtid=2480,2480,/cgi-bin/resultsearch_PF.pl?eid=10047&esortby=cert,10047
+CA: San Francisco,San Francisco Randonneurs / 905030,ACPB,200,2019/10/12,Marin Mountains II,/cgi-bin/routesearch_PF.pl?rtid=2481,2481,/cgi-bin/resultsearch_PF.pl?eid=9999&esortby=cert,9999
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,ACPB,600,2019/10/12,Blue Hill 600K,/cgi-bin/routesearch_PF.pl?rtid=1645,1645,/cgi-bin/resultsearch_PF.pl?eid=9841&esortby=cert,9841
+TX: Dallas,Lone Star Randonneurs / 943026,ACPB,300,2019/10/12,Peacocks and Buzzards 300K,/cgi-bin/routesearch_PF.pl?rtid=1617,1617,/cgi-bin/resultsearch_PF.pl?eid=10124&esortby=cert,10124
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2019/10/12,Brandywine 200K,/cgi-bin/routesearch_PF.pl?rtid=1626,1626,/cgi-bin/resultsearch_PF.pl?eid=10046&esortby=cert,10046
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,300,2019/10/12,Lake Limestone Double Century,/cgi-bin/routesearch_PF.pl?rtid=2498,2498,/cgi-bin/resultsearch_PF.pl?eid=9829&esortby=cert,9829
+NY: Central/Western,Finger Lakes Randonneurs / 932007,ACPB,200,2019/10/12,200LR_3 Womens Rights Loop,/cgi-bin/routesearch_PF.pl?rtid=1082,1082,/cgi-bin/resultsearch_PF.pl?eid=10556&esortby=cert,10556
+MI: Detroit,Detroit Randonneurs / 922015,ACPB,200,2019/10/12,AAA 200K,/cgi-bin/routesearch_PF.pl?rtid=1647,1647,/cgi-bin/resultsearch_PF.pl?eid=9907&esortby=cert,9907
+TX: Houston,Houston Randonneurs / 943030,RUSAB,200,2019/10/12,Brookshire-Burton,/cgi-bin/routesearch_PF.pl?rtid=924,924,/cgi-bin/resultsearch_PF.pl?eid=10032&esortby=cert,10032
+WI: Western,Driftless Randonneurs / 949007,ACPB,200,2019/10/12,Galena Gallop,/cgi-bin/routesearch_PF.pl?rtid=2320,2320,/cgi-bin/resultsearch_PF.pl?eid=10252&esortby=cert,10252
+MD: Capital Region,DC Randonneurs / 946012,RUSAF,120,2019/10/12,?,,,/cgi-bin/resultsearch_PF.pl?eid=10298&esortby=cert,10298
+MA: Boston,New England Randonneurs / 921005,RUSAP,100,2019/10/12,French Fender Day 100k,/cgi-bin/routesearch_PF.pl?rtid=2494,2494,/cgi-bin/resultsearch_PF.pl?eid=11254&esortby=cert,11254
+GA: Atlanta,Audax Atlanta / 910004,RUSAB,200,2019/10/12,Athens Georgia 200k,/cgi-bin/routesearch_PF.pl?rtid=1141,1141,/cgi-bin/resultsearch_PF.pl?eid=10924&esortby=cert,10924
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,ACPB,200,2019/10/12,Hills of Wisconsin,/cgi-bin/routesearch_PF.pl?rtid=1329,1329,/cgi-bin/resultsearch_PF.pl?eid=10341&esortby=cert,10341
+MA: Westfield,New Horizons Cycling Club / 921009,ACPB,200,2019/10/13,Great River Ride 200K,/cgi-bin/routesearch_PF.pl?rtid=1652,1652,/cgi-bin/resultsearch_PF.pl?eid=10398&esortby=cert,10398
+MA: Westfield,New Horizons Cycling Club / 921009,RUSAP,100,2019/10/13,Great River Ride 100,/cgi-bin/routesearch_PF.pl?rtid=812,812,/cgi-bin/resultsearch_PF.pl?eid=10400&esortby=cert,10400
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,201,2019/10/13,Kitchen Creek 200k,/cgi-bin/routesearch_PF.pl?rtid=824,824,/cgi-bin/resultsearch_PF.pl?eid=9959&esortby=cert,9959
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2019/10/13,Granger Flo,/cgi-bin/routesearch_PF.pl?rtid=1437,1437,/cgi-bin/resultsearch_PF.pl?eid=11083&esortby=cert,11083
+MA: Westfield,New Horizons Cycling Club / 921009,RUSAP,170,2019/10/13,Great River Century,/cgi-bin/routesearch_PF.pl?rtid=813,813,/cgi-bin/resultsearch_PF.pl?eid=10399&esortby=cert,10399
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAB,200,2019/10/19,Winters 200,/cgi-bin/routesearch_PF.pl?rtid=674,674,/cgi-bin/resultsearch_PF.pl?eid=10000&esortby=cert,10000
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAB,200,2019/10/19,Market Square 200k,/cgi-bin/routesearch_PF.pl?rtid=1151,1151,/cgi-bin/resultsearch_PF.pl?eid=10165&esortby=cert,10165
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,107,2019/10/19,Iron Horse Unpopulaire,/cgi-bin/routesearch_PF.pl?rtid=2314,2314,/cgi-bin/resultsearch_PF.pl?eid=10992&esortby=cert,10992
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAF,120,2019/10/19,?,,,/cgi-bin/resultsearch_PF.pl?eid=11471&esortby=cert,11471
+WI: Western,Driftless Randonneurs / 949007,RUSAB,206,2019/10/19,Via Viroqua 200K,/cgi-bin/routesearch_PF.pl?rtid=1641,1641,/cgi-bin/resultsearch_PF.pl?eid=10253&esortby=cert,10253
+MO: Kansas City,Audax Kansas City / 925005,RUSAF,200,2019/10/19,?,,,/cgi-bin/resultsearch_PF.pl?eid=10769&esortby=cert,10769
+MA: Boston,New England Randonneurs / 921005,RUSAB,200,2019/10/19,Cider Dreams,/cgi-bin/routesearch_PF.pl?rtid=2489,2489,/cgi-bin/resultsearch_PF.pl?eid=10459&esortby=cert,10459
+OH: Columbus,Ohio Randonneurs / 935012,RUSAP,100,2019/10/20,Randonneurs 101,/cgi-bin/routesearch_PF.pl?rtid=1857,1857,/cgi-bin/resultsearch_PF.pl?eid=10771&esortby=cert,10771
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,110,2019/10/26,NEW SNOQUALMIE RIVER RUN,/cgi-bin/routesearch_PF.pl?rtid=1446,1446,/cgi-bin/resultsearch_PF.pl?eid=11473&esortby=cert,11473
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,217,2019/10/26,Old Dennis 217,/cgi-bin/routesearch_PF.pl?rtid=332,332,/cgi-bin/resultsearch_PF.pl?eid=10125&esortby=cert,10125
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAB,400,2019/10/26,route 226 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=226,226,/cgi-bin/resultsearch_PF.pl?eid=10743&esortby=cert,10743
+CA: Davis,Davis Bike Club / 905014,RUSAB,300,2019/10/26,Davis Dunnigan Delta 302k,/cgi-bin/routesearch_PF.pl?rtid=2158,2158,/cgi-bin/resultsearch_PF.pl?eid=10378&esortby=cert,10378
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,400,2019/10/26,400K Along Da River,/cgi-bin/routesearch_PF.pl?rtid=851,851,/cgi-bin/resultsearch_PF.pl?eid=10967&esortby=cert,10967
+CA: Davis,Davis Bike Club / 905014,RUSAB,200,2019/10/26,Colusa - Davis,/cgi-bin/routesearch_PF.pl?rtid=2159,2159,/cgi-bin/resultsearch_PF.pl?eid=10377&esortby=cert,10377
+TX: Austin,Hill Country Randonneurs / 943025,RUSAF,120,2019/10/26,?,,,/cgi-bin/resultsearch_PF.pl?eid=9833&esortby=cert,9833
+CA: Davis,Davis Bike Club / 905014,RUSAP,100,2019/10/26,Moskowite Corner 100Km,/cgi-bin/routesearch_PF.pl?rtid=1322,1322,/cgi-bin/resultsearch_PF.pl?eid=10376&esortby=cert,10376
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,300,2019/10/26,Old Dennis 300,/cgi-bin/routesearch_PF.pl?rtid=333,333,/cgi-bin/resultsearch_PF.pl?eid=10126&esortby=cert,10126
+CA: Los Angeles,Pacific Coast Highway Randonneurs / 905051,RUSAB,200,2019/10/27,Glendora Mountain Road 200k,/cgi-bin/routesearch_PF.pl?rtid=1047,1047,/cgi-bin/resultsearch_PF.pl?eid=10438&esortby=cert,10438
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAB,205,2019/11/02,Platteville Poke-Along,/cgi-bin/routesearch_PF.pl?rtid=2330,2330,/cgi-bin/resultsearch_PF.pl?eid=10506&esortby=cert,10506
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAB,202,2019/11/02,Del Puerto Canyon 200km,/cgi-bin/routesearch_PF.pl?rtid=1158,1158,/cgi-bin/resultsearch_PF.pl?eid=10001&esortby=cert,10001
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/11/02,Captain Viridian's Hidden Passage,/cgi-bin/routesearch_PF.pl?rtid=2354,2354,/cgi-bin/resultsearch_PF.pl?eid=11482&esortby=cert,11482
+OR: Portland,Oregon Randonneurs / 937020,RUSAP,100,2019/11/02,Snoozeville/Verboort,/cgi-bin/routesearch_PF.pl?rtid=239,239,/cgi-bin/resultsearch_PF.pl?eid=10478&esortby=cert,10478
+MA: Boston,New England Randonneurs / 921005,RUSAB,200,2019/11/02,Five Hills in New Hampshire,/cgi-bin/routesearch_PF.pl?rtid=2329,2329,/cgi-bin/resultsearch_PF.pl?eid=11481&esortby=cert,11481
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,400,2019/11/02,Stampede Redux 400K,/cgi-bin/routesearch_PF.pl?rtid=1656,1656,/cgi-bin/resultsearch_PF.pl?eid=9830&esortby=cert,9830
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2019/11/02,Rusty Rail 204,/cgi-bin/routesearch_PF.pl?rtid=2487,2487,/cgi-bin/resultsearch_PF.pl?eid=10048&esortby=cert,10048
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,102,2019/11/03,Turkey Trot 100,/cgi-bin/routesearch_PF.pl?rtid=2332,2332,/cgi-bin/resultsearch_PF.pl?eid=9960&esortby=cert,9960
+MD: Capital Region,DC Randonneurs / 946012,RUSAB,200,2019/11/09,Go Ride It to the Lighthouse,/cgi-bin/routesearch_PF.pl?rtid=2488,2488,/cgi-bin/resultsearch_PF.pl?eid=10295&esortby=cert,10295
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,600,2019/11/09,"Up, Down and All Around the Mighty",/cgi-bin/routesearch_PF.pl?rtid=908,908,/cgi-bin/resultsearch_PF.pl?eid=11256&esortby=cert,11256
+TX: Houston,Houston Randonneurs / 943030,RUSAB,202,2019/11/09,route 423 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=423,423,/cgi-bin/resultsearch_PF.pl?eid=10033&esortby=cert,10033
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAB,200,2019/11/09,Northern Pancake 202,/cgi-bin/routesearch_PF.pl?rtid=1361,1361,/cgi-bin/resultsearch_PF.pl?eid=11475&esortby=cert,11475
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,400,2019/11/09,Panama Road Willow Park 400K,/cgi-bin/routesearch_PF.pl?rtid=2157,2157,/cgi-bin/resultsearch_PF.pl?eid=10127&esortby=cert,10127
+NE: Omaha,Nebraska Sandhills Randonneurs / 927005,RUSAP,100,2019/11/09,Glenwood - Weeping Water 109 K,/cgi-bin/routesearch_PF.pl?rtid=2491,2491,/cgi-bin/resultsearch_PF.pl?eid=10770&esortby=cert,10770
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,200,2019/11/16,San Clemente 200,/cgi-bin/routesearch_PF.pl?rtid=505,505,/cgi-bin/resultsearch_PF.pl?eid=9961&esortby=cert,9961
+CA: Davis,Davis Bike Club / 905014,RUSAP,100,2019/11/16,Elmira Ramble,/cgi-bin/routesearch_PF.pl?rtid=2501,2501,/cgi-bin/resultsearch_PF.pl?eid=10379&esortby=cert,10379
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,300,2019/11/16,Willow Park via Weatherford 300K,/cgi-bin/routesearch_PF.pl?rtid=1490,1490,/cgi-bin/resultsearch_PF.pl?eid=10129&esortby=cert,10129
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/11/16,Quicker Quickie to Granbury,/cgi-bin/routesearch_PF.pl?rtid=1642,1642,/cgi-bin/resultsearch_PF.pl?eid=10128&esortby=cert,10128
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2019/11/23,Trails to Trails Populaire,/cgi-bin/routesearch_PF.pl?rtid=1554,1554,/cgi-bin/resultsearch_PF.pl?eid=11484&esortby=cert,11484
+CA: Los Angeles,Pacific Coast Highway Randonneurs / 905051,RUSAP,102,2019/11/29,GMR/East Fork Populaire,/cgi-bin/routesearch_PF.pl?rtid=2503,2503,/cgi-bin/resultsearch_PF.pl?eid=11470&esortby=cert,11470
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAP,100,2019/11/30,route 102 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=102,102,/cgi-bin/resultsearch_PF.pl?eid=10166&esortby=cert,10166
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,210,2019/11/30,Willow Park via Weatherford 200K,/cgi-bin/routesearch_PF.pl?rtid=1493,1493,/cgi-bin/resultsearch_PF.pl?eid=10131&esortby=cert,10131
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/11/30,Quicker Quickie to Granbury,/cgi-bin/routesearch_PF.pl?rtid=1642,1642,/cgi-bin/resultsearch_PF.pl?eid=10130&esortby=cert,10130
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAB,200,2019/11/30,route 104 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=104,104,/cgi-bin/resultsearch_PF.pl?eid=10167&esortby=cert,10167
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,200,2019/12/01,San Diego Top to Bottom,/cgi-bin/routesearch_PF.pl?rtid=1754,1754,/cgi-bin/resultsearch_PF.pl?eid=11491&esortby=cert,11491
+NY: Central/Western,Finger Lakes Randonneurs / 932007,RUSAB,200,2019/12/01,200LR_3 Womens Rights Loop,/cgi-bin/routesearch_PF.pl?rtid=1082,1082,/cgi-bin/resultsearch_PF.pl?eid=11490&esortby=cert,11490
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,103,2019/12/01,Cherry Pie 103k,/cgi-bin/routesearch_PF.pl?rtid=2279,2279,/cgi-bin/resultsearch_PF.pl?eid=11495&esortby=cert,11495
+CA: Davis,Davis Bike Club / 905014,RUSAP,100,2019/12/05,Bella Bru 102k,/cgi-bin/routesearch_PF.pl?rtid=2011,2011,/cgi-bin/resultsearch_PF.pl?eid=11508&esortby=cert,11508
+CA: Davis,Davis Bike Club / 905014,RUSAB,200,2019/12/05,Davis-Auburn-Davis 200Km,/cgi-bin/routesearch_PF.pl?rtid=1162,1162,/cgi-bin/resultsearch_PF.pl?eid=11507&esortby=cert,11507
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,110,2019/12/05,NEW SNOQUALMIE RIVER RUN,/cgi-bin/routesearch_PF.pl?rtid=1446,1446,/cgi-bin/resultsearch_PF.pl?eid=11500&esortby=cert,11500
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAB,201,2019/12/06,Yuba Res Express 200,/cgi-bin/routesearch_PF.pl?rtid=2343,2343,/cgi-bin/resultsearch_PF.pl?eid=11538&esortby=cert,11538
+NC: Asheville,Asheville International Randonneurs / 933011,RUSAP,100,2019/12/06,Lake Lure Populaire,/cgi-bin/routesearch_PF.pl?rtid=2040,2040,/cgi-bin/resultsearch_PF.pl?eid=11537&esortby=cert,11537
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,200,2019/12/07,Rio Vista Rumble 200,/cgi-bin/routesearch_PF.pl?rtid=122,122,/cgi-bin/resultsearch_PF.pl?eid=10132&esortby=cert,10132
+AL: Birmingham,Montgomery Bicycle Club / 901005,RUSAP,100,2019/12/07,Union Springs Metric Populaire,/cgi-bin/routesearch_PF.pl?rtid=2019,2019,/cgi-bin/resultsearch_PF.pl?eid=9789&esortby=cert,9789
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,600,2019/12/07,CDB 600,/cgi-bin/routesearch_PF.pl?rtid=1845,1845,/cgi-bin/resultsearch_PF.pl?eid=9831&esortby=cert,9831
+MD: Capital Region,DC Randonneurs / 946012,RUSAB,213,2019/12/07,Woodbine Wallop,/cgi-bin/routesearch_PF.pl?rtid=687,687,/cgi-bin/resultsearch_PF.pl?eid=10296&esortby=cert,10296
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAB,200,2019/12/07,Top Rung 200,/cgi-bin/routesearch_PF.pl?rtid=1914,1914,/cgi-bin/resultsearch_PF.pl?eid=11502&esortby=cert,11502
+MO: Kansas City,Audax Kansas City / 925005,RUSAB,216,2019/12/07,Saint Joseph - Pattonsburg 216K,/cgi-bin/routesearch_PF.pl?rtid=2165,2165,/cgi-bin/resultsearch_PF.pl?eid=11513&esortby=cert,11513
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,151,2019/12/07,Bay and Ocean Populaire 151K,/cgi-bin/routesearch_PF.pl?rtid=569,569,/cgi-bin/resultsearch_PF.pl?eid=9962&esortby=cert,9962
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAB,200,2019/12/07,Northern Pancake 202,/cgi-bin/routesearch_PF.pl?rtid=1361,1361,/cgi-bin/resultsearch_PF.pl?eid=11476&esortby=cert,11476
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,105,2019/12/07,SIR Spring 2014 Populaire,/cgi-bin/routesearch_PF.pl?rtid=1539,1539,/cgi-bin/resultsearch_PF.pl?eid=11501&esortby=cert,11501
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,102,2019/12/07,Centennial Trail Populaire,/cgi-bin/routesearch_PF.pl?rtid=1271,1271,/cgi-bin/resultsearch_PF.pl?eid=11506&esortby=cert,11506
+GA: Atlanta,Audax Atlanta / 910004,RUSAB,200,2019/12/07,Georgia Silk Sheets 200k Brevet,/cgi-bin/routesearch_PF.pl?rtid=1149,1149,/cgi-bin/resultsearch_PF.pl?eid=9808&esortby=cert,9808
+PA: Eastern,Pennsylvania Randonneurs / 938017,RUSAB,200,2019/12/07,Beyond Hope to New Hope,/cgi-bin/routesearch_PF.pl?rtid=1050,1050,/cgi-bin/resultsearch_PF.pl?eid=10049&esortby=cert,10049
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,RUSAP,100,2019/12/07,Pescadero 100,/cgi-bin/routesearch_PF.pl?rtid=311,311,/cgi-bin/resultsearch_PF.pl?eid=11497&esortby=cert,11497
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAB,205,2019/12/07,Roggen Roundabout,/cgi-bin/routesearch_PF.pl?rtid=1541,1541,/cgi-bin/resultsearch_PF.pl?eid=10507&esortby=cert,10507
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAB,205,2019/12/07,Uvas Gold,/cgi-bin/routesearch_PF.pl?rtid=1665,1665,/cgi-bin/resultsearch_PF.pl?eid=10002&esortby=cert,10002
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAB,200,2019/12/07,Utah Lake 200 (Lehi Start),/cgi-bin/routesearch_PF.pl?rtid=1425,1425,/cgi-bin/resultsearch_PF.pl?eid=11527&esortby=cert,11527
+VA: Tidewater,Tidewater Randonneurs / 946002,RUSAP,100,2019/12/08,Suffolk 100K,/cgi-bin/routesearch_PF.pl?rtid=2034,2034,/cgi-bin/resultsearch_PF.pl?eid=11515&esortby=cert,11515
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,103,2019/12/08,Bobcat Bite 103,/cgi-bin/routesearch_PF.pl?rtid=768,768,/cgi-bin/resultsearch_PF.pl?eid=11525&esortby=cert,11525
+CA: San Francisco,San Francisco Randonneurs / 905030,RUSAP,112,2019/12/08,Lucas Valley Populaire,/cgi-bin/routesearch_PF.pl?rtid=1335,1335,/cgi-bin/resultsearch_PF.pl?eid=11494&esortby=cert,11494
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,240,2019/12/08,Dime Box Dash,/cgi-bin/routesearch_PF.pl?rtid=2504,2504,/cgi-bin/resultsearch_PF.pl?eid=11493&esortby=cert,11493
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAB,206,2019/12/08,Flat Snohomish Edison,/cgi-bin/routesearch_PF.pl?rtid=2510,2510,/cgi-bin/resultsearch_PF.pl?eid=11523&esortby=cert,11523
+VA: Tidewater,Tidewater Randonneurs / 946002,RUSAB,200,2019/12/08,Suffolk-Drewryville 200,/cgi-bin/routesearch_PF.pl?rtid=1849,1849,/cgi-bin/resultsearch_PF.pl?eid=11516&esortby=cert,11516
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,118,2019/12/08,Thorndale Pop,/cgi-bin/routesearch_PF.pl?rtid=2505,2505,/cgi-bin/resultsearch_PF.pl?eid=11492&esortby=cert,11492
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAP,100,2019/12/08,route 102 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=102,102,/cgi-bin/resultsearch_PF.pl?eid=11545&esortby=cert,11545
+CA: Davis,Davis Bike Club / 905014,RUSAP,100,2019/12/12,Bella Bru 102k,/cgi-bin/routesearch_PF.pl?rtid=2011,2011,/cgi-bin/resultsearch_PF.pl?eid=11510&esortby=cert,11510
+CA: Davis,Davis Bike Club / 905014,RUSAB,200,2019/12/12,Davis-Auburn-Davis 200Km,/cgi-bin/routesearch_PF.pl?rtid=1162,1162,/cgi-bin/resultsearch_PF.pl?eid=11509&esortby=cert,11509
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAP,100,2019/12/12,Northwest Sanpete 100,/cgi-bin/routesearch_PF.pl?rtid=2511,2511,/cgi-bin/resultsearch_PF.pl?eid=11563&esortby=cert,11563
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,105,2019/12/14,Round Capital Forest Populaire,/cgi-bin/routesearch_PF.pl?rtid=1239,1239,/cgi-bin/resultsearch_PF.pl?eid=11503&esortby=cert,11503
+CA: Los Angeles,Pacific Coast Highway Randonneurs / 905051,RUSAB,200,2019/12/14,Orange 200K,/cgi-bin/routesearch_PF.pl?rtid=2043,2043,/cgi-bin/resultsearch_PF.pl?eid=11526&esortby=cert,11526
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAB,200,2019/12/14,Northern Pancake 202,/cgi-bin/routesearch_PF.pl?rtid=1361,1361,/cgi-bin/resultsearch_PF.pl?eid=11544&esortby=cert,11544
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAB,206,2019/12/14,Flat Snohomish Edison,/cgi-bin/routesearch_PF.pl?rtid=2510,2510,/cgi-bin/resultsearch_PF.pl?eid=11520&esortby=cert,11520
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,200,2019/12/14,Lake Travis Loop,/cgi-bin/routesearch_PF.pl?rtid=1655,1655,/cgi-bin/resultsearch_PF.pl?eid=9832&esortby=cert,9832
+TX: Houston,Houston Randonneurs / 943030,RUSAB,201,2019/12/14,route 71 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=71,71,/cgi-bin/resultsearch_PF.pl?eid=10034&esortby=cert,10034
+FL: Central,Central Florida Randonneurs / 909062,RUSAP,100,2019/12/14,Pinellas Beaches 100K,/cgi-bin/routesearch_PF.pl?rtid=1657,1657,/cgi-bin/resultsearch_PF.pl?eid=11559&esortby=cert,11559
+WI: Western,Driftless Randonneurs / 949007,RUSAB,205,2019/12/14,Fennimore Frolic,/cgi-bin/routesearch_PF.pl?rtid=1732,1732,/cgi-bin/resultsearch_PF.pl?eid=11542&esortby=cert,11542
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,211,2019/12/14,La Bella Rani Duecento 211,/cgi-bin/routesearch_PF.pl?rtid=515,515,/cgi-bin/resultsearch_PF.pl?eid=10134&esortby=cert,10134
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,RUSAP,100,2019/12/14,Pescadero 100,/cgi-bin/routesearch_PF.pl?rtid=311,311,/cgi-bin/resultsearch_PF.pl?eid=11498&esortby=cert,11498
+MO: Kansas City,Audax Kansas City / 925005,RUSAP,110,2019/12/14,LeLoup de Loop,/cgi-bin/routesearch_PF.pl?rtid=1624,1624,/cgi-bin/resultsearch_PF.pl?eid=11541&esortby=cert,11541
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,114,2019/12/14,La Bella Pop,/cgi-bin/routesearch_PF.pl?rtid=2201,2201,/cgi-bin/resultsearch_PF.pl?eid=10133&esortby=cert,10133
+NC: Raleigh,North Carolina Bicycle Club / 933045,RUSAP,100,2019/12/14,route 655 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=655,655,/cgi-bin/resultsearch_PF.pl?eid=11539&esortby=cert,11539
+FL: Southern,South Florida Randonneurs / 909014,RUSAB,200,2019/12/14,Lighthouse Point to Hobe Sound,/cgi-bin/routesearch_PF.pl?rtid=1768,1768,/cgi-bin/resultsearch_PF.pl?eid=11557&esortby=cert,11557
+GA: Atlanta,Audax Atlanta / 910004,RUSAP,100,2019/12/14,Chops and Hops 100,/cgi-bin/routesearch_PF.pl?rtid=990,990,/cgi-bin/resultsearch_PF.pl?eid=9809&esortby=cert,9809
+CA: Los Angeles,Pacific Coast Highway Randonneurs / 905051,RUSAP,102,2019/12/15,GMR/East Fork Populaire,/cgi-bin/routesearch_PF.pl?rtid=2503,2503,/cgi-bin/resultsearch_PF.pl?eid=11556&esortby=cert,11556
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/12/15,Beanstalk 100,/cgi-bin/routesearch_PF.pl?rtid=551,551,/cgi-bin/resultsearch_PF.pl?eid=11514&esortby=cert,11514
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,101,2019/12/15,Best Day Ever 101,/cgi-bin/routesearch_PF.pl?rtid=2449,2449,/cgi-bin/resultsearch_PF.pl?eid=11524&esortby=cert,11524
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2019/12/15,Flohousado,/cgi-bin/routesearch_PF.pl?rtid=2496,2496,/cgi-bin/resultsearch_PF.pl?eid=11564&esortby=cert,11564
+OR: Eugene,South Willamette Randonneurs / 937003,RUSAP,100,2019/12/15,Brunch at Veneta,/cgi-bin/routesearch_PF.pl?rtid=2400,2400,/cgi-bin/resultsearch_PF.pl?eid=11522&esortby=cert,11522
+NC: Raleigh,North Carolina Bicycle Club / 933045,RUSAB,200,2019/12/15,route 227 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=227,227,/cgi-bin/resultsearch_PF.pl?eid=11540&esortby=cert,11540
+CA: Davis,Davis Bike Club / 905014,RUSAP,100,2019/12/19,Bella Bru 102k,/cgi-bin/routesearch_PF.pl?rtid=2011,2011,/cgi-bin/resultsearch_PF.pl?eid=11512&esortby=cert,11512
+CA: Davis,Davis Bike Club / 905014,RUSAB,200,2019/12/19,Davis-Auburn-Davis 200Km,/cgi-bin/routesearch_PF.pl?rtid=1162,1162,/cgi-bin/resultsearch_PF.pl?eid=11511&esortby=cert,11511
+IN: Indianapolis,Indiana Randonneurs / 914005,RUSAB,200,2019/12/20,A Real Doozy,/cgi-bin/routesearch_PF.pl?rtid=2455,2455,/cgi-bin/resultsearch_PF.pl?eid=11585&esortby=cert,11585
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,300,2019/12/21,How Gruene Was Your Valley,/cgi-bin/routesearch_PF.pl?rtid=2312,2312,/cgi-bin/resultsearch_PF.pl?eid=11567&esortby=cert,11567
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,201,2019/12/21,Pasadena to Oceanside,/cgi-bin/routesearch_PF.pl?rtid=2351,2351,/cgi-bin/resultsearch_PF.pl?eid=10851&esortby=cert,10851
+NC: High Point,Bicycle For Life Club / 933057,RUSAB,200,2019/12/21,Lumberton - Roseboro - Delway 200k,/cgi-bin/routesearch_PF.pl?rtid=1473,1473,/cgi-bin/resultsearch_PF.pl?eid=11573&esortby=cert,11573
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAP,108,2019/12/21,Apple Cider Sally,/cgi-bin/routesearch_PF.pl?rtid=2301,2301,/cgi-bin/resultsearch_PF.pl?eid=11543&esortby=cert,11543
+FL: Central,Central Florida Randonneurs / 909062,RUSAB,200,2019/12/21,Tavares-Polk City-Tavares,/cgi-bin/routesearch_PF.pl?rtid=1879,1879,/cgi-bin/resultsearch_PF.pl?eid=11566&esortby=cert,11566
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,RUSAB,200,2019/12/21,Central Jersey,/cgi-bin/routesearch_PF.pl?rtid=1129,1129,/cgi-bin/resultsearch_PF.pl?eid=11554&esortby=cert,11554
+CA: Santa Cruz,Santa Cruz Randonneurs / 905106,RUSAP,100,2019/12/21,Pescadero 100,/cgi-bin/routesearch_PF.pl?rtid=311,311,/cgi-bin/resultsearch_PF.pl?eid=11499&esortby=cert,11499
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAP,100,2019/12/21,Captain Viridian's Hidden Passage,/cgi-bin/routesearch_PF.pl?rtid=2354,2354,/cgi-bin/resultsearch_PF.pl?eid=11583&esortby=cert,11583
+IA: Central,Iowa Randonneurs / 915005,RUSAB,200,2019/12/21,Triple Dip 200k,/cgi-bin/routesearch_PF.pl?rtid=1168,1168,/cgi-bin/resultsearch_PF.pl?eid=11517&esortby=cert,11517
+FL: Southern,South Florida Randonneurs / 909014,RUSAP,100,2019/12/21,LHP-WPB 100k,/cgi-bin/routesearch_PF.pl?rtid=2031,2031,/cgi-bin/resultsearch_PF.pl?eid=11558&esortby=cert,11558
+WI: Western,Driftless Randonneurs / 949007,RUSAP,100,2019/12/21,Spring Green Populaire,/cgi-bin/routesearch_PF.pl?rtid=1824,1824,/cgi-bin/resultsearch_PF.pl?eid=11576&esortby=cert,11576
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAB,200,2019/12/21,2019 Winter Solstice 200k,/cgi-bin/routesearch_PF.pl?rtid=2515,2515,/cgi-bin/resultsearch_PF.pl?eid=11505&esortby=cert,11505
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,100,2019/12/21,2019 Winter Solstice Populaire,/cgi-bin/routesearch_PF.pl?rtid=2514,2514,/cgi-bin/resultsearch_PF.pl?eid=11504&esortby=cert,11504
+CA: Davis,Davis Bike Club / 905014,RUSAB,204,2019/12/21,Davis-Auburn-Davis 200Km,/cgi-bin/routesearch_PF.pl?rtid=1162,1162,/cgi-bin/resultsearch_PF.pl?eid=11586&esortby=cert,11586
+MN: Twin Cities / Rochester,Minnesota Randonneurs / 923003,RUSAP,100,2019/12/21,Half a Pancake,/cgi-bin/routesearch_PF.pl?rtid=2508,2508,/cgi-bin/resultsearch_PF.pl?eid=11485&esortby=cert,11485
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2019/12/22,Flohousado,/cgi-bin/routesearch_PF.pl?rtid=2496,2496,/cgi-bin/resultsearch_PF.pl?eid=11580&esortby=cert,11580
+NJ: NYC and Princeton,New Jersey Randonneurs / 930029,RUSAP,120,2019/12/22,route 375 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=375,375,/cgi-bin/resultsearch_PF.pl?eid=11555&esortby=cert,11555
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAP,100,2019/12/22,Audubon to LaPlace 107,/cgi-bin/routesearch_PF.pl?rtid=875,875,/cgi-bin/resultsearch_PF.pl?eid=11572&esortby=cert,11572
+WI: Western,Driftless Randonneurs / 949007,RUSAP,100,2019/12/22,Spring Green Populaire,/cgi-bin/routesearch_PF.pl?rtid=1824,1824,/cgi-bin/resultsearch_PF.pl?eid=11577&esortby=cert,11577
+FL: Southern,South Florida Randonneurs / 909014,RUSAB,200,2019/12/22,Boca-Hobe Loop 200k,/cgi-bin/routesearch_PF.pl?rtid=1684,1684,/cgi-bin/resultsearch_PF.pl?eid=11560&esortby=cert,11560
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,200,2019/12/22,route 529 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=529,529,/cgi-bin/resultsearch_PF.pl?eid=11569&esortby=cert,11569
+TN: Nashville,Harpeth Bicycle Club / 942046,RUSAB,200,2019/12/23,George Dickel Distillery 200k,/cgi-bin/routesearch_PF.pl?rtid=1219,1219,/cgi-bin/resultsearch_PF.pl?eid=11546&esortby=cert,11546
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2019/12/23,Granger Flo,/cgi-bin/routesearch_PF.pl?rtid=1437,1437,/cgi-bin/resultsearch_PF.pl?eid=11581&esortby=cert,11581
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2019/12/24,Granger Flo,/cgi-bin/routesearch_PF.pl?rtid=1437,1437,/cgi-bin/resultsearch_PF.pl?eid=11582&esortby=cert,11582
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,206,2019/12/26,University Loop,/cgi-bin/routesearch_PF.pl?rtid=2114,2114,/cgi-bin/resultsearch_PF.pl?eid=11533&esortby=cert,11533
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAP,100,2019/12/26,Audubon to LaPlace 107,/cgi-bin/routesearch_PF.pl?rtid=875,875,/cgi-bin/resultsearch_PF.pl?eid=11571&esortby=cert,11571
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2019/12/26,Granger Flo,/cgi-bin/routesearch_PF.pl?rtid=1437,1437,/cgi-bin/resultsearch_PF.pl?eid=11587&esortby=cert,11587
+UT: Salt Lake City,Salt Lake Randonneurs / 944008,RUSAB,200,2019/12/27,Yuba Res Express 200,/cgi-bin/routesearch_PF.pl?rtid=2343,2343,/cgi-bin/resultsearch_PF.pl?eid=11574&esortby=cert,11574
+TX: Austin,Hill Country Randonneurs / 943025,RUSAP,100,2019/12/27,Granger Flo,/cgi-bin/routesearch_PF.pl?rtid=1437,1437,/cgi-bin/resultsearch_PF.pl?eid=11588&esortby=cert,11588
+CA: San Diego,San Diego Randonneurs / 905140,RUSAB,302,2019/12/27,Ocean Beach 300k,/cgi-bin/routesearch_PF.pl?rtid=2250,2250,/cgi-bin/resultsearch_PF.pl?eid=11534&esortby=cert,11534
+WA: Seattle,Seattle International Randonneurs / 947018,RUSAP,105,2019/12/28,SIR Spring 2014 Populaire,/cgi-bin/routesearch_PF.pl?rtid=1539,1539,/cgi-bin/resultsearch_PF.pl?eid=11597&esortby=cert,11597
+MD: Capital Region,DC Randonneurs / 946012,RUSAB,207,2019/12/28,Woodbine-Dillsburg,/cgi-bin/routesearch_PF.pl?rtid=625,625,/cgi-bin/resultsearch_PF.pl?eid=11578&esortby=cert,11578
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,300,2019/12/28,How Gruene Was Your Valley,/cgi-bin/routesearch_PF.pl?rtid=2312,2312,/cgi-bin/resultsearch_PF.pl?eid=11589&esortby=cert,11589
+OR: Eugene,South Willamette Randonneurs / 937003,RUSAB,200,2019/12/28,Five Rivers,/cgi-bin/routesearch_PF.pl?rtid=2197,2197,/cgi-bin/resultsearch_PF.pl?eid=11595&esortby=cert,11595
+CA: San Diego,San Diego Randonneurs / 905140,RUSAP,119,2019/12/28,Old Town to Oceanside Populaire,/cgi-bin/routesearch_PF.pl?rtid=1830,1830,/cgi-bin/resultsearch_PF.pl?eid=11535&esortby=cert,11535
+MD: Capital Region,DC Randonneurs / 946012,RUSAB,200,2019/12/28,Eastern Shore 200,/cgi-bin/routesearch_PF.pl?rtid=804,804,/cgi-bin/resultsearch_PF.pl?eid=11598&esortby=cert,11598
+CO: Boulder,Rocky Mountain Cycling Club / 906002,RUSAP,104,2019/12/28,Lyons - Berthoud,/cgi-bin/routesearch_PF.pl?rtid=708,708,/cgi-bin/resultsearch_PF.pl?eid=11568&esortby=cert,11568
+TX: Dallas,Lone Star Randonneurs / 943026,RUSAB,200,2019/12/29,Rip-Snortin' Rando Ride,/cgi-bin/routesearch_PF.pl?rtid=1495,1495,/cgi-bin/resultsearch_PF.pl?eid=11584&esortby=cert,11584
+CA: Los Angeles,Pacific Coast Highway Randonneurs / 905051,RUSAP,108,2019/12/29,San Gabriel River Populaire,/cgi-bin/routesearch_PF.pl?rtid=1388,1388,/cgi-bin/resultsearch_PF.pl?eid=11536&esortby=cert,11536
+LA: New Orleans,Crescent City Randonneurs / 918002,RUSAB,200,2019/12/29,route 528 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=528,528,/cgi-bin/resultsearch_PF.pl?eid=11570&esortby=cert,11570
+FL: Southern,South Florida Randonneurs / 909014,RUSAB,210,2019/12/29,Boca Sugarcane 200k,/cgi-bin/routesearch_PF.pl?rtid=1690,1690,/cgi-bin/resultsearch_PF.pl?eid=11575&esortby=cert,11575
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,200,2019/12/30,route 550 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=550,550,/cgi-bin/resultsearch_PF.pl?eid=11591&esortby=cert,11591
+TX: Austin,Hill Country Randonneurs / 943025,RUSAB,200,2019/12/31,route 550 (unnamed),/cgi-bin/routesearch_PF.pl?rtid=550,550,/cgi-bin/resultsearch_PF.pl?eid=11592&esortby=cert,11592
+CA: Davis,Davis Bike Club / 905014,RUSAP,100,2019/12/31,Bella Bru 102k,/cgi-bin/routesearch_PF.pl?rtid=2011,2011,/cgi-bin/resultsearch_PF.pl?eid=10381&esortby=cert,10381
+CA: Davis,Davis Bike Club / 905014,RUSAB,200,2019/12/31,Davis-Auburn-Davis 200Km,/cgi-bin/routesearch_PF.pl?rtid=1162,1162,/cgi-bin/resultsearch_PF.pl?eid=10380&esortby=cert,10380
