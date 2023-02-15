@@ -68,5 +68,13 @@ events %>%
       .$rtid
   ))
 
+# DNF ----
+event_details %>%
+  filter(finishers > 0 | dnf > 0) %>%
+  group_by(yr = year(date)) %>%
+  summarise(zero_dnf  = sum(dnf==0, na.rm = T),
+            na_dnf    = sum(is.na(dnf)),
+            neg_1_dnf = sum(dnf==-1, na.rm = T),
+            some_dnf  = sum(dnf >0, na.rm = T) )
 
 
