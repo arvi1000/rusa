@@ -54,3 +54,30 @@ dat %>%
        subtitle = glue('RUSA events {yr_range}'),
        color = 'Percentile Finish',
        y='hours', x='event distance')
+
+# rusa and age ----
+# okay rusa adds a tiny amount of predictive power but this is bunk
+dat %>%
+  lm(hrs ~ distance + rusa, .) %>%
+  summary
+lm(hrs ~ distance, dat) %>%
+  summary
+
+# gam gives a pretty nice fit
+ggplot(dat, 
+       aes(x=distance, y=hrs)) +
+  geom_point(alpha=.05) +
+  geom_smooth(method='gam')
+
+
+
+# pierce point
+pp <- dat %>% filter(rtid == 1681)
+pp %>%
+  group_by(date) %>%
+  summarise(finishers=n(), 
+            ptile_hrs = quantile(hrs, c(.1, .25, .5, .75, .9)), 
+            ptile = c(.1, .25, .5, .75, .9)) %>%
+  mutate(ptile = fct_inorder(factor(ptile))) %>%
+  ggplot(aes(x=date, group=ptile, y=ptile_hrs, color=ptile)) +
+  geom_point() + geom_line()
