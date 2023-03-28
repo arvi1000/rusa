@@ -7,3 +7,4 @@ venv
 data/*
 raw_data/*
 data_2009-2021/*
+data4db/*
