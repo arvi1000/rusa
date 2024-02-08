@@ -2,3 +2,4 @@ notebook<7
 pandas==2.2.0
 tqdm==4.64.1
 html5lib
+pyarrow
